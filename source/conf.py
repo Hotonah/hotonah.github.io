@@ -82,7 +82,6 @@ html_theme = 'alabaster'
 # documentation.
 #
 html_theme_options = {
-        "description": "description goes here",
         "fixed_sidebar": True,
 }
 
