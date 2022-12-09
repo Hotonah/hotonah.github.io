@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Hotonah PM Skills'
+project = 'Hotonah\'s PM Skills'
 copyright = '2022, Hotonah'
 author = 'Hotonah'
 
