@@ -5,7 +5,7 @@
 
 Welcome!
 ========
-This site contains information about being a Project Manager, running projects, and helpful tips!
+This site contains information about being a prooject manager, running projects, and helpful tips!
 
 .. toctree::
    :maxdepth: 2
@@ -29,3 +29,32 @@ Project Management Core Skills
 
 ★ `Dont be afraid to ask for help` ★
 .. image:: media/Ask for Help.jpg
+
+Focus on the Customer and Team
+===============================
+
+Project managers can add value by building relationships, make sure the team is heard and satisfied with the result. Understand the teams motivation, strengths, and weaknesses. To build the right team, consider the skills and resources needed for the project. Allow the team to have input, ask questions, and address their needs ASAP. Clearly understand customer expectations. Write/gather requirements for customers and translate information into documentation for engineers so they can implement it. Manage timelines, tasks, understand all the pieces of who needs to be invloved. 
+
+Building the Project Team
+==========================
+
+A successful project manager sees the impact of each process within the project and communicates them to the team. This ensures that everyone working on the project understands their tasks goal as well as the bigger picture. Allow the team to understand the 'why' in the projectand encourage them to be innovative.
+
+❤ Plan out a checklist of ideas to talk about
+❤ List objectives
+❤ Ask everyones opinion on the best way to get it done
+❤ Come up with a plan by gathering resources, tools, and materials.
+❤ Conduct weekly/monthly checkins to list accomplishments, show progress made, show goals needing to be met, and provide a timeline.
+
+Planning and Organizing
+========================
+
+❤ Make use of productivity tools & create processes
+❤ Create plans, timelines, schedules, & other forms of documentation to track project completion.
+❤ Maintain those documents
+❤ Monitor & manage budget.
+❤ Track issues & risks (find ways to mitigate risks)
+❤ Manage quality
+❤ Remove unforseen barriers (when needed escalte issues to secure needed resources to move forward with the project)
+❤ Manage tasks, keep track of tasks, update stakeholders on progress, and keep tabs on everyones work.
+
