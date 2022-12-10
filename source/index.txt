@@ -15,22 +15,15 @@ This site contains information about being a Project Manager, running projects, 
 Project Management Core Skills
 ================================
 
-★ `Planning & Organizing` - Figure out what the project is trying to accomplish - Gather requirements from teammates or customers -
-                             Run kick off meetings - Create project plans - Prioitze tasks and break tasks down into smaller steps -
-                             Delegate tasks to team members who can best complete the work - Help move tasks along. 
+★ `Planning & Organizing` - Figure out what the project is trying to accomplish - Gather requirements from teammates or customers - Run kick off meetings - Create project plans - Prioitze tasks and break tasks down into smaller steps - Delegate tasks to team members who can best complete the work - Help move tasks along. 
 
-★ `Manage Tasks` - Help manage tasks for team members - Communicate keymilestones to the team or customers - Update all stakeholders on
-                    on project progress - Follow through on tasks - Hold team mates accountible. 
+★ `Manage Tasks` - Help manage tasks for team members - Communicate keymilestones to the team or customers - Update all stakeholders on project progress - Follow through on tasks - Hold team mates accountible. 
 
-★ `Budget & Control Costs` - Keep project on track and within budget: this is a full time job because the project plan may change causing
-                              unexpected costs to arise.
+★ `Budget & Control Costs` - Keep project on track and within budget: this is a full time job because the project plan may change causing unexpected costs to arise.
 
-★ `Communicating & Escalating` - Develop a communication plan for the team - Keep in regular contact with key stakeholders - Clearly communicate
-                                  project goals and expectations, team member roles and responibilites, and provide contructive feedback -
-                                  When escalation is required try to approach management with both the problem and potential solution/suggestions.
+★ `Communicating & Escalating` - Develop a communication plan for the team - Keep in regular contact with key stakeholders - Clearly communicate project goals and expectations, team member roles and responibilites, and provide contructive feedback - When escalation is required try to approach management with both the problem and potential solution/suggestions.
 
-★ `Build Relationsips` - Treat others with consideration and respect - Make the decision making process collaborative: state the goals of
-                          specific deliverables and elict input from the team - Create a safe space for team to feel included and share information -
+★ `Build Relationsips` - Treat others with consideration and respect - Make the decision making process collaborative: state the goals of specific deliverables and elict input from the team - Create a safe space for team to feel included and share information -
                           
 
 ★ `Be Flexible` - Project Managers use different tools, techniques, and methodologies everyday. 
