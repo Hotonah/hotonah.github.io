@@ -5,7 +5,7 @@
 
 Welcome!
 ========
-This site contains information about being a Project Manager, running projects, and helpful helpful tips!
+This site contains information about being a Project Manager, running projects, and helpful tips!
 
 .. toctree::
    :maxdepth: 2
