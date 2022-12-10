@@ -61,6 +61,7 @@ A successful project manager sees the impact of each process within the project 
 Teaching & Mentoring
 =====================
 Take time to fully explain the expectations of the project and eliminate rework, confusion, and frustration. Help team exceed their own sense of personal potential.
+
 ❤ Hold team members accountable for their assigned tasks
 ❤ Ensure that issues/risks are tracked & visible to the team and establish escalation paths
 ❤ Understand & help teammates to adapt to the right workflows & project management styles
