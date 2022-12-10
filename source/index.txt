@@ -14,10 +14,9 @@ This site contains information about being a prooject manager, running projects,
 
 Project Management Core Skills
 ================================
-
 ★ `Planning & Organizing` - Figure out what the project is trying to accomplish - Gather requirements from teammates or customers - Run kick off meetings - Create project plans - Prioitze tasks and break tasks down into smaller steps - Delegate tasks to team members who can best complete the work - Help move tasks along. 
 
-★ `Manage Tasks` - Help manage tasks for team members - Communicate keymilestones to the team or customers - Update all stakeholders on project progress - Follow through on tasks - Hold team mates accountible - Remove barries for team and project.
+★ `Manage Tasks` - Help manage tasks for team members - Communicate keymilestones to the team or customers - Update all stakeholders on project progress - Follow through on tasks - Hold team mates accountible - Remove barries for team and project - Conduct standups (what got done the day/week before & what needs to get done today).
 
 ★ `Budget & Control Costs` - Keep project on track and within budget: this is a full time job because the project plan may change causing unexpected costs to arise.
 
@@ -25,15 +24,19 @@ Project Management Core Skills
 
 ★ `Build Relationsips` - Treat others with consideration and respect - Make the decision making process collaborative: state the goals of specific deliverables and elict input from the team - Create a safe space for team to feel included and share information.
                           
-★ `Be Flexible` - Project Managers use different tools, techniques, and methodologies everyday. 
+★ `Be Flexible` - Project Managers use different tools, techniques, and methodologies everyday - Change is inevitable, the more flexible project managers are the more successful they are - When planning projects, take external events (vacations/sick leave) & holidays into account - Plan for risks & find solutions in advance - Look at historical data & review past projects - Calculate float or slack (refers to the amount of time you can wait to begin a task before it impacts the project schedule.
 
 ★ `Dont be afraid to ask for help` ★
+
 .. image:: media/Ask for Help.jpg
 
 Planning & Organizing
 ========================
-
-❤ Make use of productivity tools & create processes
+❤ Make use an abudance of productivity tools & create processes
+❤ Planning and scheduling software (templates, workflows, calendar)
+❤ Collaboration tools (email, collaboration software, dashboards)
+❤ Documentation (files, plans, spreadsheets)
+❤ Quality Assurance tools (evaluations, productivity trackers, reports)
 ❤ Create plans, timelines, schedules, & other forms of documentation to track project completion
 ❤ Maintain those documents
 ❤ Monitor & manage budget.
@@ -44,7 +47,6 @@ Planning & Organizing
 
 Focus on the Customer & Team
 ===============================
-
 Project managers can add value by building relationships, make sure the team is heard and satisfied with the result. Understand the teams motivation, strengths, and weaknesses. To build the right team, consider the skills and resources needed for the project. Allow the team to have input, ask questions, and address their needs ASAP. Clearly understand customer expectations. Write/gather requirements for customers and translate information into documentation for engineers so they can implement it. Manage timelines, tasks, understand all the pieces of who needs to be invloved. 
 
 Building the Project Team
@@ -57,6 +59,12 @@ A successful project manager sees the impact of each process within the project 
 ❤ Ask everyones opinion on the best way to get it done
 ❤ Come up with a plan by gathering resources, tools, and materials
 ❤ Conduct weekly/monthly checkins to list accomplishments, show progress made, show goals needing to be met, and provide a timeline
+❤ Create systems that turn chaos into order
+❤ Communicate & listen - ensure everyone is on the same page
+❤ Promote trust & Psychological safety
+❤ Demonstrate empathy & create motivation
+❤ Delegate responsibility & prioritize
+❤ Celebrate success
 
 Teaching & Mentoring
 =====================
@@ -66,3 +74,37 @@ Take time to fully explain the expectations of the project and eliminate rework,
 ❤ Ensure that issues/risks are tracked & visible to the team and establish escalation paths
 ❤ Understand & help teammates to adapt to the right workflows & project management styles
 ❤ Collaborate with other teams at the organization to deliver solutions that meet the requirements based on project, scope, and budget.
+
+Managing Teams
+================
+1. Create, implement, & improve: standardize, measurable, reapeatable & scalable workflows/processes for your team. (i.e. You might set up a process for how & when a teammate should let you know they've completed a task)
+
+2. Regular team meetings & status emails. Regularly connect with individual teammates - understand their unique communication styles. Ask people on your team how they prefer to communicate. (i.e. create small talk with those who enjoy it ot get straight to the point with colleagues who prefer not to chat. 
+
+3. Conduct weekly status meetings, daily standups, schedule time for open, thoughtful & inclusive discussions. You might model this by asking for help solving a problem thats impacting the team. Encourage contributions from all team members regardless of their roles or rank.
+
+4. Create motivation by being present, listening, & asking questions. Avoid making assumptions about what someone is thinking or feeling - remain quiet & curious to learn more. - Recognize a jobe well done!
+
+5. Work with your team to build consensus around priorities, explaining your rationale can help you get buy-in & increase their commitment to work. Help the team understand `why` that tasks is a priority to you.
+
+6. Celebrate big & small wins - boosts teams engagement. (small gift, team lunch, email)
+
+❤ Promote & value honesty, justice, respect, community & integrity.
+❤ Be dependable
+❤ Diligently engage in project updates
+❤ Set expectations & how to meet those expectations - set structure & clarity
+❤ Voice the impact of their work within the team, project, & beyond it - show them `why` their work matters
+❤ Clarify Goals
+❤ Measure Progress
+❤ Get teams with the right skills for the project
+❤ Be direct & concise - Avoid extraneous details & explanations
+❤ When communicating tasks or project goals, make sure to define key items, such as budget, deadlines, quality requirements, or important resources
+❤ Encourage team to ask questions & clarify information
+❤ Show team how much they've accomplished to help keep them motivated
+❤ Ask team if they anticipate being finished on time & if not, how can you help them succeed
+❤ Track progress by documenting when tasks & goals are completed. Let team know if it's on track or not
+❤ Communicate success, delays, & issues
+❤ Make team feel phycologically safe - allow them to take risks
+❤ Give teammates meaning
+❤ Recognize everyones value no matter how small, each step of the way!
+
