@@ -28,4 +28,4 @@ Project Management Core Skills
 ★ `Be Flexible` - Project Managers use different tools, techniques, and methodologies everyday. 
 
 ★ `Dont be afraid to ask for help` ★
-
+image:: media/Ask for Help.jpg
