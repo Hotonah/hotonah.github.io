@@ -1,4 +1,24 @@
 Starting Initiation
 =====================
-❤ Organize all the information available to you about the project.
-❤ Define project goals
+★ `Organize Resources` - all the information available to you about the project - Determine stakeholders (anyone involved or impacted by the project) - Determine resources, budget, people, equipment/materials, software programs, vendors, physical space or locations, & other project details. Anything considered needed to complete the project is a resource. Record all these details in your project proposal and get them approved.
+
+★ `Define project goals` - Critical tasks - Clarify the details of your project - What you're asked to do & what you're trying to accomplish.
+
+★ `Scope` - This is the process to define work that needs to happen to complete the project - This is also the time to decide what is in scope & what is out of scope (what is not included in the project) - Set project boundaries.
+
+★ `Deliverables` - Tangible products or services that you will create for your customer, client, or project sponsor.
+
+★ `Select Success Criteria` - These will measure how succussful the project was at reaching our goals.
+
+★ `Ask yourself these questions:`
+
+❤ Who are your Stakeholders?
+❤ What are the clients or customer goals?
+❤ What is the purpose and mission of the project?
+❤ What are the measurable objectives for the team?
+❤ What is the project trying to improve?
+❤ When does this project need to be completed?
+❤ Whats skills and resources will the project require?
+❤ What will the project cost? What are the benefits?
+
+
