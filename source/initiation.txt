@@ -25,7 +25,7 @@ Starting Initiation
 
 Cost-Benefit Analysis
 =======================
-Is the process of adding up the expected value of a project & the benefits, then comparing them to the dollar cost to calculate return on investment (ROI). 
+Is the process of adding up the expected value & benefits of a project, then compare them to the dollar cost to calculate return on investment (ROI). 
 
 ❤ What value will the project create?
 ❤ How much money will it bring in from customers?
@@ -35,7 +35,7 @@ Is the process of adding up the expected value of a project & the benefits, then
 ❤ How much time will people have to spend on this project?
 ❤ What are the one-time costs?
 ❤ What are the ongoing costs?
-❤ What abour long-term costs?
+❤ What about long-term costs?
 
 ★ `ROI Formula:`
 (G - C) / C = ROI
