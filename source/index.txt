@@ -5,7 +5,7 @@
 
 Welcome!
 ========
-This site contains information about being a prooject manager, running projects, and helpful tips!
+This site contains information about being a project manager, running projects, and helpful tips!
 
 .. toctree::
    :maxdepth: 2
@@ -14,6 +14,8 @@ This site contains information about being a prooject manager, running projects,
 
 Project Management Core Skills
 ================================
+Your role as project manager is to communicate with your stakeholders, clarify objectives, and set expectations. Trust your team to handle the details of each project task & communicate with you when there's an issue. Through direct communication & strategic approach to problem solving, you can provide solutions & help remove barriers for your team. This is where you add value!
+
 ★ `Planning & Organizing` - Figure out what the project is trying to accomplish - Gather requirements from teammates or customers - Run kick off meetings - Create project plans - Prioitze tasks and break tasks down into smaller steps - Delegate tasks to team members who can best complete the work - Help move tasks along. 
 
 ★ `Manage Tasks` - Help manage tasks for team members - Communicate keymilestones to the team or customers - Update all stakeholders on project progress - Follow through on tasks - Hold team mates accountible - Remove barries for team and project - Conduct standups (what got done the day/week before & what needs to get done today).
@@ -22,7 +24,7 @@ Project Management Core Skills
 
 ★ `Communicate & Escalate` - Develop a communication plan for the team - Keep in regular contact with key stakeholders - Clearly communicate project goals and expectations, team member roles and responibilites, and provide contructive feedback - When escalation is required try to approach management with both the problem and potential solution/suggestions.
 
-★ `Build Relationsips` - Treat others with consideration and respect - Make the decision making process collaborative: state the goals of specific deliverables and elict input from the team - Create a safe space for team to feel included and share information.
+★ `Build Relationsips` - Treat others with consideration and respect - Make the decision making process collaborative: state the goals of specific deliverables and elict input from the team - Create a safe space for team to feel included and share information - Check in with teammates on how they're progressing & provide feedback on quality - Compromise on new deadlines when they can't complete a task on time - Set up meetings for teammates who don't agree on how to complete a task - Get to know your team and what motivates them to do their bast work. Learn how your team likes to receive feedback & how they like to receive recognition for doing a great job - Pull a group of people together who want to complete the same goal.
                           
 ★ `Be Flexible` - Project Managers use different tools, techniques, and methodologies everyday - Change is inevitable, the more flexible project managers are the more successful they are - When planning projects, take external events (vacations/sick leave) & holidays into account - Plan for risks & find solutions in advance - Look at historical data & review past projects - Calculate float or slack (refers to the amount of time you can wait to begin a task before it impacts the project schedule.
 
@@ -32,7 +34,7 @@ Project Management Core Skills
 
 Planning & Organizing
 ========================
-❤ Make use an abudance of productivity tools & create processes
+❤ Use an abudance of productivity tools & create processes
 ❤ Planning and scheduling software (templates, workflows, calendar)
 ❤ Collaboration tools (email, collaboration software, dashboards)
 ❤ Documentation (files, plans, spreadsheets)
@@ -96,13 +98,9 @@ Managing Teams
 
 
 ❤ Promote & value honesty, justice, respect, community & integrity.
-
 ❤ Be dependable
-
 ❤ Diligently engage in project updates
-
 ❤ Set expectations & how to meet those expectations - set structure & clarity
-
 ❤ Voice the impact of their work within the team, project, & beyond it - show them `why` their work matters
 ❤ Clarify Goals
 ❤ Measure Progress
@@ -118,3 +116,50 @@ Managing Teams
 ❤ Give teammates meaning
 ❤ Recognize everyones value no matter how small, each step of the way!
 
+4 Types of Project Meetings
+===========================-
+1. `Project Kick-off Meeting` - The official beginning of a project & serves as a way to align the teams understanding of the project goals with actual plans and procedures.
+
+2. `Status Update Meetings` - This category includes regular team meetings where the promary goal is to align the team on updates, progress, challenges, & next steps.
+❤ Overall project health
+❤ Tasks updates - accomplishments
+❤ Schedule status
+❤ Budget status 
+❤ Scope status
+❤ Risks - changes, resource issues, vendor issues
+❤ Action items - wrap-up the meeting
+
+3. `Stakeholder Meetings` - The goal of a stakeholder meeting is to get buy-in & support. Sometimes one-on-one basis or sometimes in groups. 
+❤ 2-5 min - present project updates
+❤ Seek out & listen to feedback
+❤ Help make a decision or resolve major issue/s
+
+4 Steps for Influencing People
+===============================
+Influencing is the ability to alter another person's thinking or behaviors.
+
+1. Estabish credibility - `Why` they should listen to you!
+
+2. Frame for common good
+
+3. Provide evidence
+
+4. Connect emotionally - Help others acheive their own goals
+
+Handling Ambiguity
+===================
+❤ Keep calm
+❤ Express empathy - let them know you care about the challenges they're facing & are there for support
+❤ Communicate what you know clearly - define the aspects of the project that are confirmed & will not change regardless of the unknown
+❤ Make deisions and stick to them - try not to second guess yourself in front of the team. If you need to change course clearly explain why
+❤ Trust the expertise of your team - increase clarity by having everyone discuss what they already know or believe to be true about the project, such as what is involved in specific tasks or resouces needed, based on their areas of expertise. Then discuss what you don't know & brainstorm ways to gather more info
+
+Project Lifecycle
+==================
+★ `Initiate the Project` - This is the launchpad for the entire project: Gather skillsets required, timeline, & costs. Define project goals & deliverables, identify the budget & resources you'll need, the people involved in your project, & any other details that can impact the successful completion of your project. Document all this information in once place to showcase the projects value & get approval to move forward.
+
+★ `Make a Plan` - for how you'll meet the goals of your project. Breakdown of the tasks, ways to communicate, team roles & responsibilities, schedule, resources, & what to do in case your project encounters problems or needs to change. Make a project plan from start to finish. Outline the important deadlines, tasks for the project to be successful. Create a schedule to account for all the resouces, materials, and tasks needed to complete the project.
+
+★ `Execute & Complete Tasks` - Project team has the job of completing the project tasks. Your primary task as project manager is to monitor progress, keep your team motivated & remove any obsticals that might come up.
+
+★ `Close the Project` - Celebrate all the teams hard work! Make note of what worked & what didn't, so you can plan better for future projects. Closing is a time for project reflection. 
