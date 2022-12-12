@@ -163,3 +163,5 @@ Project Lifecycle
 ★ `Execute & Complete Tasks` - Project team has the job of completing the project tasks. Your primary task as project manager is to monitor progress, keep your team motivated & remove any obstacles that might come up.
 
 ★ `Close the Project` - Celebrate all the team's hard work! Make note of what worked & what did not, so you can plan better for future projects. Closing is a time for project reflection. 
+
+.. image:: media/it.png
