@@ -118,6 +118,8 @@ Leadership & Managing Teams
 
 4 Types of Project Meetings
 ==============================
+When conducting meetings make sure they are structured, intentional, collaborative & inclusive. Provide a clear agenda, attendee list, and take detailed notes (maybe ask someone else to take notes for you). After the meeting send a follow-up email to all attendees' include a summary of the meeting and any action items: use bullet points, labels, and hyperlinks in your email.
+
 1. `Project Kick-off Meeting` - The official beginning of a project & serves as a way to align the teams understanding of the project goals with actual plans and procedures.
 
 2. `Status Update Meetings` - This category includes regular team meetings where the primary goal is to align the team on updates, progress, challenges, & next steps.
