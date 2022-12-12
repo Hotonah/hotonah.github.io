@@ -14,27 +14,27 @@ This site contains information about being a project manager, running projects, 
 
 Project Management Core Skills
 ================================
-Your role as project manager is to communicate with your stakeholders, clarify objectives, and set expectations. Trust your team to handle the details of each project task & communicate with you when there's an issue. Through direct communication & strategic approach to problem solving, you can provide solutions & help remove barriers for your team. This is where you add value!
+Your role as project manager is to communicate with your stakeholders, clarify objectives, and set expectations. Trust your team to handle the details of each project task & communicate with you when there is an issue. Through direct communication & strategic approach to problem solving, you can provide solutions & help remove barriers for your team. This is where you add value!
 
-★ `Planning & Organizing` - Figure out what the project is trying to accomplish - Gather requirements from teammates or customers - Run kick off meetings - Create project plans - Prioitze tasks and break tasks down into smaller steps - Delegate tasks to team members who can best complete the work - Help move tasks along. 
+★ `Planning & Organizing` - Figure out what the project is trying to accomplish - Gather requirements from teammates or customers - Run kick off meetings - Create project plans - Prioritize tasks and break tasks down into smaller steps - Delegate tasks to team members who can best complete the work - Help move tasks along. 
 
-★ `Manage Tasks` - Help manage tasks for team members - Communicate keymilestones to the team or customers - Update all stakeholders on project progress - Follow through on tasks - Hold team mates accountible - Remove barries for team and project - Conduct standups (what got done the day/week before & what needs to get done today).
+★ `Manage Tasks` - Help manage tasks for team members - Communicate key milestones to the team or customers - Update all stakeholders on project progress - Follow through on tasks - Hold teammates accountable - Remove barriers for team and project - Conduct standups (what got done the day/week before & what needs to get done today).
 
-★ `Budget & Control Costs` - Keep project on track and within budget: this is a full time job because the project plan may change causing unexpected costs to arise.
+★ `Budget & Control Costs` - Keep project on track and within budget: this is a full time-job because the project plan may change causing unexpected costs to arise.
 
-★ `Communicate & Escalate` - Develop a communication plan for the team - Keep in regular contact with key stakeholders - Clearly communicate project goals and expectations, team member roles and responibilites, and provide contructive feedback - When escalation is required try to approach management with both the problem and potential solution/suggestions.
+★ `Communicate & Escalate` - Develop a communication plan for the team - Keep in regular contact with key stakeholders - Clearly communicate project goals and expectations, team member roles and responsibilities, and provide constructive feedback - When escalation is required try to approach management with both the problem and potential solution/suggestions.
 
-★ `Build Relationsips` - Treat others with consideration and respect - Make the decision making process collaborative: state the goals of specific deliverables and elict input from the team - Create a safe space for team to feel included and share information - Check in with teammates on how they're progressing & provide feedback on quality - Compromise on new deadlines when they can't complete a task on time - Set up meetings for teammates who don't agree on how to complete a task - Get to know your team and what motivates them to do their bast work. Learn how your team likes to receive feedback & how they like to receive recognition for doing a great job - Pull a group of people together who want to complete the same goal.
+★ `Build Relationships` - Treat others with consideration and respect - Make the decision making process collaborative: state the goals of specific deliverables and elicit input from the team - Create a safe space for team to feel included and share information - Check in with teammates on how they're progressing & provide feedback on quality - Compromise on new deadlines when they can't complete a task on time - Set up meetings for teammates who don't agree on how to complete a task - Get to know your team and what motivates them to do their bast work. Learn how your team likes to receive feedback & how they like to receive recognition for doing a great job - Pull a group of people together who want to complete the same goal.
                           
 ★ `Be Flexible` - Project Managers use different tools, techniques, and methodologies everyday - Change is inevitable, the more flexible project managers are the more successful they are - When planning projects, take external events (vacations/sick leave) & holidays into account - Plan for risks & find solutions in advance - Look at historical data & review past projects - Calculate float or slack (refers to the amount of time you can wait to begin a task before it impacts the project schedule.
 
-★ `Dont be afraid to ask for help` ★
+★ `Don't be afraid to ask for help` ★
 
 .. image:: media/Ask for Help.jpg
 
 Planning & Organizing
 ========================
-❤ Use an abudance of productivity tools & create processes
+❤ Use an abundance of productivity tools & create processes
 ❤ Planning and scheduling software (templates, workflows, calendar)
 ❤ Collaboration tools (email, collaboration software, dashboards)
 ❤ Documentation (files, plans, spreadsheets)
@@ -44,23 +44,23 @@ Planning & Organizing
 ❤ Monitor & manage budget.
 ❤ Track issues & risks (find ways to mitigate risks)
 ❤ Manage quality
-❤ Remove unforseen barriers (when needed escalte issues to secure needed resources to move forward with the project)
-❤ Manage tasks, keep track of tasks, update stakeholders on progress, and keep tabs on everyones work
+❤ Remove unforeseen barriers (when needed escalate issues to secure needed resources to move forward with the project)
+❤ Manage tasks, keep track of tasks, update stakeholders on progress, and keep tabs on everyone's work
 
 Focus on the Customer & Team
 ===============================
-Project managers can add value by building relationships, make sure the team is heard and satisfied with the result. Understand the teams motivation, strengths, and weaknesses. To build the right team, consider the skills and resources needed for the project. Allow the team to have input, ask questions, and address their needs ASAP. Clearly understand customer expectations. Write/gather requirements for customers and translate information into documentation for engineers so they can implement it. Manage timelines, tasks, understand all the pieces of who needs to be invloved. 
+Project managers can add value by building relationships, make sure the team is heard and satisfied with the result. Understand the team's motivation, strengths, and weaknesses. To build the right team, consider the skills and resources needed for the project. Allow the team to have input, ask questions, and address their needs ASAP. Clearly understand customer expectations. Write/gather requirements for customers and translate information into documentation for engineers so they can implement it. Manage timelines, tasks, understand all the pieces of who needs to be involved. 
 
 Building the Project Team
 ==========================
 
-A successful project manager sees the impact of each process within the project and communicates them to the team. This ensures that everyone working on the project understands their tasks goal as well as the bigger picture. Allow the team to understand the 'why' in the projectand encourage them to be innovative.
+A successful project manager sees the impact of each process within the project and communicates them to the team. This ensures that everyone working on the project understands their tasks goal as well as the bigger picture. Allow the team to understand the 'why' in the project and encourage them to be innovative.
 
 ❤ Plan out a checklist of ideas to talk about
 ❤ List objectives
-❤ Ask everyones opinion on the best way to get it done
+❤ Ask everyone's opinion on the best way to get it done
 ❤ Come up with a plan by gathering resources, tools, and materials
-❤ Conduct weekly/monthly checkins to list accomplishments, show progress made, show goals needing to be met, and provide a timeline
+❤ Conduct weekly/monthly check-ins to list accomplishments, show progress made, show goals needing to be met, and provide a timeline
 ❤ Create systems that turn chaos into order
 ❤ Communicate & listen - ensure everyone is on the same page
 ❤ Promote trust & Psychological safety
@@ -79,22 +79,22 @@ Take time to fully explain the expectations of the project and eliminate rework,
 
 Managing Teams
 ================
-1. Create, implement, & improve: standardize, measurable, reapeatable & scalable workflows/processes for your team. (i.e. You might set up a process for how & when a teammate should let you know they've completed a task)
+1. Create, implement, & improve: standardize, measurable, repeatable & scalable workflows/processes for your team. (i.e. You might set up a process for how & when a teammate should let you know they've completed a task)
 
 
-2. Regular team meetings & status emails. Regularly connect with individual teammates - understand their unique communication styles. Ask people on your team how they prefer to communicate. (i.e. create small talk with those who enjoy it ot get straight to the point with colleagues who prefer not to chat. 
+2. Regular team meetings & status emails. Regularly connect with individual teammates - understand their unique communication styles. Ask people on your team how they prefer to communicate. (i.e. create small talk with those who enjoy it or get straight to the point with colleagues who prefer not to chat. 
 
 
-3. Conduct weekly status meetings, daily standups, schedule time for open, thoughtful & inclusive discussions. You might model this by asking for help solving a problem thats impacting the team. Encourage contributions from all team members regardless of their roles or rank.
+3. Conduct weekly status meetings, daily standups, schedule time for open, thoughtful & inclusive discussions. You might model this by asking for help solving a problem that is impacting the team. Encourage contributions from all team members regardless of their roles or rank.
 
 
-4. Create motivation by being present, listening, & asking questions. Avoid making assumptions about what someone is thinking or feeling - remain quiet & curious to learn more. - Recognize a jobe well done!
+4. Create motivation by being present, listening, & asking questions. Avoid making assumptions about what someone is thinking or feeling - remain quiet & curious to learn more. - Recognize a job well done!
 
 
 5. Work with your team to build consensus around priorities, explaining your rationale can help you get buy-in & increase their commitment to work. Help the team understand `why` that tasks is a priority to you.
 
 
-6. Celebrate big & small wins - boosts teams engagement. (small gift, team lunch, email)
+6. Celebrate big & small wins - boosts teams' engagement. (Small gift, team lunch, email)
 
 
 ❤ Promote & value honesty, justice, respect, community & integrity.
@@ -112,9 +112,9 @@ Managing Teams
 ❤ Ask team if they anticipate being finished on time & if not, how can you help them succeed
 ❤ Track progress by documenting when tasks & goals are completed. Let team know if it's on track or not
 ❤ Communicate success, delays, & issues
-❤ Make team feel phycologically safe - allow them to take risks
+❤ Make team feel psychologically safe - allow them to take risks
 ❤ Give teammates meaning
-❤ Recognize everyones value no matter how small, each step of the way!
+❤ Recognize everyone's value no matter how small, each step of the way!
 
 4 Types of Project Meetings
 ===========================-
@@ -138,28 +138,28 @@ Managing Teams
 ===============================
 Influencing is the ability to alter another person's thinking or behaviors.
 
-1. Estabish credibility - `Why` they should listen to you!
+1. Establish credibility - `Why` they should listen to you!
 
 2. Frame for common good
 
 3. Provide evidence
 
-4. Connect emotionally - Help others acheive their own goals
+4. Connect emotionally - Help others achieve their own goals
 
 Handling Ambiguity
 ===================
 ❤ Keep calm
 ❤ Express empathy - let them know you care about the challenges they're facing & are there for support
 ❤ Communicate what you know clearly - define the aspects of the project that are confirmed & will not change regardless of the unknown
-❤ Make deisions and stick to them - try not to second guess yourself in front of the team. If you need to change course clearly explain why
-❤ Trust the expertise of your team - increase clarity by having everyone discuss what they already know or believe to be true about the project, such as what is involved in specific tasks or resouces needed, based on their areas of expertise. Then discuss what you don't know & brainstorm ways to gather more info
+❤ Make decisions and stick to them - try not to second guess yourself in front of the team. If you need to change course, clearly explain why
+❤ Trust the expertise of your team - increase clarity by having everyone discuss what they already know or believe to be true about the project, such as what is involved in specific tasks or resources needed, based on their areas of expertise. Then discuss what you don't know & brainstorm ways to gather more info
 
 Project Lifecycle
 ==================
 ★ `Initiate the Project` - This is the launchpad for the entire project: Gather skillsets required, timeline, & costs. Define project goals & deliverables, identify the budget & resources you'll need, the people involved in your project, & any other details that can impact the successful completion of your project. Document all this information in once place to showcase the projects value & get approval to move forward.
 
-★ `Make a Plan` - for how you'll meet the goals of your project. Breakdown of the tasks, ways to communicate, team roles & responsibilities, schedule, resources, & what to do in case your project encounters problems or needs to change. Make a project plan from start to finish. Outline the important deadlines, tasks for the project to be successful. Create a schedule to account for all the resouces, materials, and tasks needed to complete the project.
+★ `Make a Plan` - for how you'll meet the goals of your project. Breakdown of the tasks, ways to communicate, team roles & responsibilities, schedule, resources, & what to do in case your project encounters problems or needs to change. Make a project plan from start to finish. Outline the important deadlines, tasks for the project to be successful. Create a schedule to account for all the resources, materials, and tasks needed to complete the project.
 
-★ `Execute & Complete Tasks` - Project team has the job of completing the project tasks. Your primary task as project manager is to monitor progress, keep your team motivated & remove any obsticals that might come up.
+★ `Execute & Complete Tasks` - Project team has the job of completing the project tasks. Your primary task as project manager is to monitor progress, keep your team motivated & remove any obstacles that might come up.
 
-★ `Close the Project` - Celebrate all the teams hard work! Make note of what worked & what didn't, so you can plan better for future projects. Closing is a time for project reflection. 
+★ `Close the Project` - Celebrate all the team's hard work! Make note of what worked & what did not, so you can plan better for future projects. Closing is a time for project reflection. 
