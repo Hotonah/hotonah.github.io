@@ -51,7 +51,7 @@ Focus on the Customer & Team
 ===============================
 Project managers can add value by building relationships, make sure the team is heard and satisfied with the result. Understand the team's motivation, strengths, and weaknesses. To build the right team, consider the skills and resources needed for the project. Allow the team to have input, ask questions, and address their needs ASAP. Clearly understand customer expectations. Write/gather requirements for customers and translate information into documentation for engineers so they can implement it. Manage timelines, tasks, understand all the pieces of who needs to be involved. 
 
-Building the Project Team
+Build the Project Team
 ==========================
 
 A successful project manager sees the impact of each process within the project and communicates them to the team. This ensures that everyone working on the project understands their tasks goal as well as the bigger picture. Allow the team to understand the 'why' in the project and encourage them to be innovative.
@@ -68,7 +68,7 @@ A successful project manager sees the impact of each process within the project 
 ❤ Delegate responsibility & prioritize
 ❤ Celebrate success
 
-Teaching & Mentoring
+Teach & Mentor
 =====================
 Take time to fully explain the expectations of the project and eliminate rework, confusion, and frustration. Help team exceed their own sense of personal potential.
 
@@ -77,8 +77,8 @@ Take time to fully explain the expectations of the project and eliminate rework,
 ❤ Understand & help teammates to adapt to the right workflows & project management styles
 ❤ Collaborate with other teams at the organization to deliver solutions that meet the requirements based on project, scope, and budget.
 
-Leadership & Managing Teams
-=============================
+Leadership & Management on Teams
+=================================
 1. Create, implement, & improve: standardize, measurable, repeatable & scalable workflows/processes for your team. (i.e. You might set up a process for how & when a teammate should let you know they've completed a task)
 
 
