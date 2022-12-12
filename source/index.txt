@@ -117,7 +117,7 @@ Managing Teams
 ❤ Recognize everyone's value no matter how small, each step of the way!
 
 4 Types of Project Meetings
-===========================-
+=============================
 1. `Project Kick-off Meeting` - The official beginning of a project & serves as a way to align the teams understanding of the project goals with actual plans and procedures.
 
 2. `Status Update Meetings` - This category includes regular team meetings where the primary goal is to align the team on updates, progress, challenges, & next steps.
