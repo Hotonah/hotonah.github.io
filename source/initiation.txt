@@ -10,12 +10,12 @@ Starting Initiation
 
 ★ `Select Success Criteria` - These will measure how successful the project was at reaching our goals.
 
-★ `Create Project Charter` - Clearly defines the project & the project goals, then outlines what is needed to accomplish them. The charter sets a framework for what needs to get done & communicates those details to all stakeholders.
+★ `Create Project Charter` - Clearly defines the project & the project goals, then outlines what is needed to accomplish them. The charter sets a framework for what needs to get done & communicates those details to all stakeholders. - See Template (Insert Template Link)
 
 ★ `Ask yourself these questions:`
 
 ❤ Who are your Stakeholders?
-❤ What are the clients or customer goals?
+❤ What are the client or customer goals?
 ❤ What is the purpose and mission of the project?
 ❤ What are the measurable objectives for the team?
 ❤ What is the project trying to improve?
@@ -23,3 +23,21 @@ Starting Initiation
 ❤ Whats skills and resources will the project require?
 ❤ What will the project cost? What are the benefits?
 
+Cost-Benefit Analysis
+=======================
+Is the process of adding up the expected value of a project & the benefits, then comparing them to the dollar cost to calculate return on investment (ROI). 
+
+❤ What value will the project create?
+❤ How much money will it bring in from customers?
+❤ How much money could this project save our organization?
+❤ How much time will it save? (Employees, clients, customers, etc.)
+❤ How will it improve the customer or employee experience?
+❤ How much time will people have to spend on this project?
+❤ What are the one-time costs?
+❤ What are the ongoing costs?
+❤ What abour long-term costs?
+
+★ `ROI Formula:`
+(G - C) / C = ROI
+
+G = Financial Gain, C = Upfront & Ongoing Costs
