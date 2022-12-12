@@ -12,6 +12,8 @@ Starting Initiation
 
 ★ `Create Project Charter` - Clearly defines the project & the project goals, then outlines what is needed to accomplish them. The charter sets a framework for what needs to get done & communicates those details to all stakeholders. - See Template (Insert Template Link)
 
+★ `Determine Methodology` - See Methodologies (Insert Link) 
+
 ★ `Ask yourself these questions:`
 
 ❤ Who are your Stakeholders?
