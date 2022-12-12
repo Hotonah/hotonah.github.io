@@ -77,8 +77,8 @@ Take time to fully explain the expectations of the project and eliminate rework,
 ❤ Understand & help teammates to adapt to the right workflows & project management styles
 ❤ Collaborate with other teams at the organization to deliver solutions that meet the requirements based on project, scope, and budget.
 
-Managing Teams
-================
+Leadership & Managing Teams
+=============================
 1. Create, implement, & improve: standardize, measurable, repeatable & scalable workflows/processes for your team. (i.e. You might set up a process for how & when a teammate should let you know they've completed a task)
 
 
@@ -117,7 +117,7 @@ Managing Teams
 ❤ Recognize everyone's value no matter how small, each step of the way!
 
 4 Types of Project Meetings
-=============================
+==============================
 1. `Project Kick-off Meeting` - The official beginning of a project & serves as a way to align the teams understanding of the project goals with actual plans and procedures.
 
 2. `Status Update Meetings` - This category includes regular team meetings where the primary goal is to align the team on updates, progress, challenges, & next steps.
@@ -133,6 +133,8 @@ Managing Teams
 ❤ 2-5 min - present project updates
 ❤ Seek out & listen to feedback
 ❤ Help make a decision or resolve major issue/s
+
+4. `Project Reviews` - The end of the project, the end of a project phase, or the end of a significant milestone is an opportunity to review how the project unfolded. Conduct retrospectives throughout the project to review lessons learned about what is going well, what you can keep doing, and what can be improved. Celebrate project success!
 
 4 Steps for Influencing People
 ===============================
