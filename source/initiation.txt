@@ -10,9 +10,16 @@ Starting Initiation
 
 ★ `Select Success Criteria` - These will measure how successful the project was at reaching our goals.
 
-★ `Create Project Charter` - Clearly defines the project & the project goals, then outlines what is needed to accomplish them. The charter sets a framework for what needs to get done & communicates those details to all stakeholders. - See Template (Insert Template Link)
+★ `Create Project Charter` - Document work: scope, goals, & deliverables - Clearly defines the project & the project goals, then outlines what is needed to accomplish them. The charter sets a framework for what needs to get done & communicates those details to all stakeholders. - See Template (Insert Template Link)
 
 ★ `Determine Methodology` - See Methodologies (Insert Link) 
+
+★ `Select Tools` 
+❤ Stakeholder Analysis - Determines how & when to communicate
+❤ RACI Chart - Determines roles and responsibilities 
+❤ Tracking Tools - Plan, track, complete work - Work management tools (Asana, Planner, Trello, Jira)
+❤ Communication Tools - Email, Asana, Teams, Slack
+❤ Scheduling Tools - MSProject, Google Docs, Smartsheet - Keep project on track
 
 ★ `Ask yourself these questions:`
 
@@ -43,3 +50,67 @@ Is the process of adding up the expected value & benefits of a project, then com
 (G - C) / C = ROI
 
 G = Financial Gain, C = Upfront & Ongoing Costs
+
+Questions When Interviewing Key Stakeholders
+=============================================
+❤ What are your most important priorities/goals?
+❤ How will this initiative/project support you & your most important priorities?
+❤ What role would you like to play within this initiative/project?
+❤ Here's how I plan to keep people informed; does that work for you?
+❤ What can I clarify for you?
+❤ What are your exectations? What would you like for the project to accomplish?
+❤ What would success look like for you?
+❤ Who else do you reccommend I reach out to about this initiative/project?
+❤ What information or insights do you have that might be challenging for me to find?
+❤ Where do you see me getting support for this initiative/project? Facing resistance?
+❤ What additional thoughts/questions do you have?
+
+Setting Goals
+================
+★ `Objective & Key Results (OKRs):` Combine a goal & a metric to determine a measurable outcome. If you don't know the companies OKRs, remember to ask. The more you can relate your smaller project goals to the companies larger OKRs, the more valueable your project will seem to the company as a whole and they will more likely approve your project moving forward. 
+
+❤ `Objective`
+* Defines what needs to be achieved 
+* Describes a desired outcome
+
+❤ `Key Results` 
+* The measurable outcomes that define when the objective has been met
+* These are very challenging goals
+
+★ `When setting Goals set SMART goals:`
+
+* Specific
+* Measureable - Identify a metic to determine a mesaureable outcome
+* Attainable - You want the goal to be challenging but not impossible to reach
+* Relevant - Relate goal to the companies larger objectives & key results (OKRs)
+* Time-bound - Set a clear deadline
+
+❤ `SMART goal examples`
+* Raise Office Greens retention rate by 10% by offering more services by the end of the year. Measure through each quarter. 
+* Boost Office Greens brand awareness with new promotions in Marketing & redesigned wbsite by the end of the year. 
+
+Tips When Choosing a Team
+===========================
+1. Make a list of all the stakeholders the project impacts (Invested, Impacted, Contributes)
+2. List out: project roles, team size, necessary skills (can they be taught), availability, motivation, & communication styles
+3. List out skills needed: people skills, soft skills, patience, problem solving, leadership, motivated
+4. Determine the level of interest & influence for each stakeholder (Insert Link to stakeholder template)
+5. Assess stakeholders ability to participate & find ways to include them
+6. Prioratize stakeholders with a high level of interest & influence
+
+★ Buid a RACI Chart (Insert Link to RACI Chart)
+* Responsible - Who gets the work done
+* Accountible - Who makes sure the work is done
+* Consulted - Who gives input or feedback on work
+* Informed - Who needs to know the outcome
+
+* Project pponsor - Director of product or service
+* Team members - implementation team, designers, developers
+* Project manager 
+* Users - employees, customers, clients
+
+(Include picture of a RACI Chart)
+
+❤  Use fun team building exercises early on to understand each other, trust each other, & find out what motivates them.
+
+(Include team building exercises ideas)
