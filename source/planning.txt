@@ -1,1 +1,44 @@
-Planning Page
+Planning the Project
+======================
+★ `Identify Tasks & Milestones` - sourcing materials, training employees, etc. 
+
+* Milestone: An important point within the project schedule that indicates progress & usually signifies the completion of a deliverable in a phase of the project. To reach a milestone your team must complete multiple tasks.
+* Project Task: An activity that needs to be accomplished within a set period of time to keep the project schedule on track.
+
+★ `Create a Work Breakdown Structure (WBS)` - Helps understand all of the essential project tasks like, estimating costs, developing schedules, assigning roles & responsibilities, & tracking progress - Use tools like Asana or Tree Diagrams to create your WBS.
+
+❤ `Developing a WBS:` (Insert link to WBS Template or example)
+
+* Brainstorm with the team to list major deliverables & milestones
+* Identify taskes to meet milestones
+* Breakdown tasks into subtasks
+
+(Insert picture of a WBS example)
+
+★ `Create a Schedule & Gnatt Chart` - Use scheduleing tools like MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule. (Insert Link to Schedule Template or example)
+
+★ `Set Costs & Create Budget` - Estimate costs of tasks & milestones (Link to Budget Section)
+
+★ `Create RFP (If needed)` - (Link to RFP Template or Example)
+
+★ `Create Statement of Work (SOW) - Legal document of what you need from the vendor & what they need from you.
+
+★ `Create Risk Management Plan` - Risks could include: Budget, schedule, staffing shortages, shipping delays, holidays, sick time, etc. (Insert Link to Risk section)
+
+★ `Create Communication Plan` - (Insert Link to Communication Plan section)
+
+★ `Create Project Plan` - A document that stores all project documents in one central location - Center of the project plan is the project schedule, which helps estimate the amount of time it will take to complete the project & provides the team with a way to track the projects progress against your goals. (Link to Project plan Template or Example)
+
+❤ `Project Plan Includes:` 
+
+* Project Charter - Scope & Goals
+* Statement of Work
+* Risk Management Plan
+* Schedule
+* Budget
+* Communication Plan
+* Management Plans - Change Management Documentation
+* Shared Folder (folder with all relevant documentation)
+* RACI Chart Phase1
+* RACI Chart Phase2
+* Any additional relevant project documents you want to include
