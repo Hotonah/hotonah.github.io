@@ -1,11 +1,13 @@
 Planning the Project
 ======================
-★ `Identify Tasks & Milestones` - sourcing materials, training employees, etc. 
+★ `Reference Historical Project Data` - Your project may be similar to a previous project your organization has worked on. It is important to review how past projects were handled including the budget, schedule, project team, roles & responsibilities, risks, & communication plans. Review any past project documents that may help you plan your project, you can even search the web for similar projects to seek extra help.
+
+★ `Identify Tasks & Milestones` - sourcing materials, training employees, etc.
 
 * Milestone: An important point within the project schedule that indicates progress & usually signifies the completion of a deliverable in a phase of the project. To reach a milestone your team must complete multiple tasks.
 * Project Task: An activity that needs to be accomplished within a set period of time to keep the project schedule on track.
 
-★ `Create a Work Breakdown Structure (WBS)` - Helps understand all of the essential project tasks like, estimating costs, developing schedules, assigning roles & responsibilities, & tracking progress - Use tools like Asana or Tree Diagrams to create your WBS.
+★ `Create a Work Breakdown Structure (WBS)` - A visual tool that sorts milestones & tasks of a project in a hierarchy. The tasks should be visable in one place with clear descriptions, owners, & due dates. Should also contain detailed milestones & statuses related to the tasks. Helps understand all of the essential project tasks like, estimating costs, developing schedules, assigning roles & responsibilities, & tracking progress - Use tools like Asana or Tree Diagrams to create your WBS.
 
 ❤ `Developing a WBS:` (Insert link to WBS Template or example)
 
@@ -15,13 +17,20 @@ Planning the Project
 
 (Insert picture of a WBS example)
 
-★ `Create a Schedule & Gnatt Chart` - Use scheduleing tools like MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule. (Insert Link to Schedule Template or example)
+★ `Create a Schedule & Gnatt Chart` - Create a plan from start to finish - Use scheduleing tools lik e MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule - Properly manage resources, budget, materials, & Timeline. (Insert Link to Schedule Template or example)
 
 ★ `Set Costs & Create Budget` - Estimate costs of tasks & milestones (Link to Budget Section)
 
-★ `Create RFP (If needed)` - (Link to RFP Template or Example)
+★ `Procurement` - Legal documents of what you need from the vendor & what they need from you - Documents include: non disclosure agreement (NDA), Request for proposal (RFP), & statement of work (SOW).
 
-★ `Create Statement of Work (SOW) - Legal document of what you need from the vendor & what they need from you.
+* RFP Includes: Overview, scope, goals, milestones, submittion requirements, questions you'd like the vendor to answer. (Link to RFP template or example)
+* SOW Includes: Products and services a vendor or contraactor will provide for the organization - Ask for input from SMEs' when writting the contract. (Link to SOW)
+
+1. Initiating: Planning what you need to meet your project goals (NDA)
+2. Selecting: Deciding which supplies & vendors to use (RFP)
+3. Contract Writing: Developing, reviewing, & signing contracts (SOW)
+4. Controlling: Making payments, maintaining & ensuring quality
+5. Completing: Measuring your success - Document lessons learned
 
 ★ `Create Risk Management Plan` - Risks could include: Budget, schedule, staffing shortages, shipping delays, holidays, sick time, etc. (Insert Link to Risk section)
 
@@ -42,3 +51,69 @@ Planning the Project
 * RACI Chart Phase1
 * RACI Chart Phase2
 * Any additional relevant project documents you want to include
+
+Project Planning Best Practices
+=================================
+★ You aren't responsible for completing every task, You're responsible for identifying & helping assign these tasks, & estimating how long they will take to complete. These elements come together to determine the overall project schedule. 
+
+★ It may be necessary during a project to call a timeout: taking a moment to stop and step away from the project to takw a breath & regroup/adjust the game plan. (You may need to take a timeout when the client wants to redefine the scope or if team memebers are reassigned to another project & you need to backfill them. Throughout this you will want to hold meeting in order to discuss successes, setbacks, & possible furture improvements to the project. 
+
+★ Hold retrospective meetings: Focuses on identifying the contributing cause of an incident `without blaming anyone.` You should `always assume that everyone has good intentions & did the right thing with the information they had` whether or not it worked out well in the end. There's always a chance to learn & do better. It's important to identify effective techniques for communicating changes to the team or an individual.
+
+❤ Carefully review deliverables, milestones, & tasks
+❤ Give yourself time to plan
+❤ Recognize & plan for the inevitable: things will go wrong (Link to Risk Section)
+❤ Stay curious
+❤ Reference Historical Project Data
+❤ Utilize your team, mentors, or manager
+❤ Check, Check, and Double Check!
+
+★ `Define quality standards at the beginning of the projet` - Well defined standards
+
+❤ Quality Planning - Determine the quality standard & processes to satisfy them
+❤ Quality Assurance - Regularly check-in to make sure you & your team are meeting those agreed on standards
+❤ Quality Control - Correct any areas that are not meeting the set standards
+
+(Insert Link for Quality Template or Example)
+
+★ `Implement ways to measure customer satisfaction` - Try to imagine what they want, it puts you in a unique place where you need to put yourself in their shoes & imagine the world or imagine the product through their eyes. Being able to empathize & understand how different people in the world will interact with your product is really important & gives you an amazing perspective.
+
+❤ Customer Feedback Surveys
+❤ User Acceptance Testing (UAT)
+
+* Present the product
+* Mock-up of the product or go through demo
+* Collect feedback
+* Prioratize & fix any issues
+
+Estimating Times for Tasks
+============================
+★ How do you estimate the the amount of time a given tasks will take, you do this will the help of your team. Ask team members assigned to the tasks what they think. 
+
+❤ How long does this take?
+❤ How complex are the steps to complete this taks?
+❤ What are the risks associated with the task?
+❤ When do you think you can have this ready?
+❤ Negotiate
+❤ Ask about their workload, vacations, holidays, etc.
+
+★ `Time Estimation` - Prediction of the total amount of time that it will take to complete a task 
+
+★ 'Effort Estimation` - Prediction of the amount & difficulty of active work to complete a task - ONCE you have this information you need to determine if you have the right amount of people. To do this use a technique called capacity planning.
+
+★ `Capacity` - The amount of work that the people or resources assigned to the project can reasonibly complete in a set period of time. 
+
+★ `Critical Path (CP)` - The list of project milestones that you must reach in order to meet the project goal on schedule. As well as the mandatory tasks that contribute to the completion of each milestone. Your critical path includes the bare minimum number of tasks & milestones you need to reach your project goal. 
+(Link to CP Template or Example)
+
+❤ List tasks, list dependencies, create network diagram (On CP in green, not on CP in blue), make estimates
+❤ Tasks that happen in parallel
+❤ Tasks that happen secuentially
+❤ Tasks with fixed start dates
+
+★ `Types of Dependencies:`
+
+❤ Finish to Start (FS) - Task A must be completed before task B
+❤ Finish to Finish (FF) - Task B can't finish until task A finishes
+❤ Start to Start (SS) - Task A can't begin until task B begins - Tasks start at the same time & run in parallel
+❤ Start to Finish (SF) - Task A must start before task B can be completed.
