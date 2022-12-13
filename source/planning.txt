@@ -142,5 +142,42 @@ Risk Management Plan
 ❤ Transfer - The strategy of transferring shifts the responsibility of handing the risk to someone else
 ❤ Accept - `Actively Accept` - usually means setting aside extra funds to pay your way out of trouble. `Passively Accept` - is the "do nothing" approach. (Not recommended for most single point of failure risks). It's important to mitigate risks ahead of time. (proactive) - This may save you from needing to accept risks. 
 
-★ Build a decision tree when building mitigation plans: A flow chart that helps visualize the wider impact of a decision on the rest of your project. (Link to template)
+★ `Risk Management Life Cycle`
+❤ Identify the Risk
+❤ Analyze the Risk - Liklihood, impact, prioritize
+❤ Evaluate the Risk
+❤ Treat the Risk - Response plan
+❤ Monitor & Control the risk - Assign team members to track & mitigate risks
 
+★ `Uncover opportunities using Risk Management`
+
+* Completing a milestone ahead of time
+* Discounted materials
+* Availability of additional resources (people, equipment, investments)
+
+★ `Brainstorm` - Build a decision tree when building mitigation plans: A flow chart that helps visualize the wider impact of a decision on the rest of your project.
+
+* Define the problem
+* Identify categories
+* Brainstorm causes
+* Analyze causes
+
+(Insert Link to Fishbone Diagram)
+
+Project Budgeting Best Practices
+==================================
+★ `Reference Historical Data` - Your project may be similar to a precious project your organization has worked on. It is important to review how that projects budget was handled, find out what went well & learn from previous mistakes.
+
+★ `Utilize your Team, Mentors, & Managers` - Get into the habit of asking your team to double check your work to give you additional sets of eyes on your documents.
+
+★ `Time-Phase your Budget` - Time-phased budgeting allows you to allocate costs for project tasks over the projected timeline, in which those expenses are planned to take place. By looking at your tasks agaisnt a timeline, you can track & compare planned versus actual costs over time & manage changes to your budget as necessary.
+
+★ `Check, Check, & Double Check` - Make sure that your budget is accurate & error-free. Your budget will likely require approval from another department, such as finance or senior management, so do your best to ensure that it is as straight forward to understand as possible & that all of your calculations are correct.
+
+★ `Categorize Different Types of Costs` - Both direct & indirect Costs. (Insert Chart Below)
+
+★ `Develop a Baseline Budget` - An estimate (dollar amount) of project costs that you start with at the beginning of your project. Once budget is approved, you hsould publish this baseline & use it to compare against actual performance progress. This will provide insight into how the project is doing & allow you to make informed adjustments. Continually monitor your project budget & make necessary changes. Update can require the same approval as the initial budget. Re-baseline if you make significant changes. (Insert Link to Template)
+
+★ `Perform a Reserve Analysis` - A reserve analysis wil help you account for any buffer fund you may need. 1st review all potential risks to your project & determine if you need to add buffer funds. 
+
+❤ Use milestones as checkpoints for budget.
