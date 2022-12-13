@@ -117,3 +117,30 @@ Estimating Times for Tasks
 ❤ Finish to Finish (FF) - Task B can't finish until task A finishes
 ❤ Start to Start (SS) - Task A can't begin until task B begins - Tasks start at the same time & run in parallel
 ❤ Start to Finish (SF) - Task A must start before task B can be completed.
+
+Risk Management Plan
+======================
+★ A Living document that contains information regarding high level risks & the mitigation plans for those risks. Risk Management is an ongoing practice that you will take part in throughout the planning & execution of a project. 
+
+❤ Risk management evolves throughout the project, the plan should be updated regularly to add newly identified risks, remove risks that are no longer relevant, & include any changes in the mitigation plans. 
+❤ In the risk management document include author, project title, status, created date, & updated date. 
+❤ Talk with SMEs & stakeholders they may have insight on how to handle these risks with strategies you haven't thought of yet.
+❤ Share risks & mitigation plan - discuss better mitigation tatics & new risks.
+
+★ `Types of Risk`
+
+* Schedule Risks
+* Time Risks
+* Budget Risks
+* Scope Risks
+* Single point of failure risks - Projects use SMEs to advice you throughout the project. Use multiple SMEs
+
+★ `Risk Mitigation Strategies`
+
+❤ Avoid - Sidestep or avoid the situation as a whole
+❤ Minimize - Reduce or control it. Mitigating a risk involves trying to minimize the catastrophic effects
+❤ Transfer - The strategy of transferring shifts the responsibility of handing the risk to someone else
+❤ Accept - `Actively Accept` - usually means setting aside extra funds to pay your way out of trouble. `Passively Accept` - is the "do nothing" approach. (Not recommended for most single point of failure risks). It's important to mitigate risks ahead of time. (proactive) - This may save you from needing to accept risks. 
+
+★ Build a decision tree when building mitigation plans: A flow chart that helps visualize the wider impact of a decision on the rest of your project. (Link to template)
+
