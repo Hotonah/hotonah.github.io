@@ -275,5 +275,7 @@ Kickoff Meeting!
 * Ask their thoughts on if this is a good way to start the project?
 * Are there any areas that need to be addressed or done differently?
 
-★ Once the Kickoff meeting has ended send a follow-up email to all attendees with key items that were discussed, summarize the meetings, & allow them to ask questions.
+(Link to Kickoff meeting example)
+
+★ Once the Kickoff meeting has ended send a follow-up email to all attendees with key items that were discussed, summarize the meeting, & allow them to ask questions.
 (Link to Writing Email Best Practices section)
