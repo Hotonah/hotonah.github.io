@@ -1,1 +1,121 @@
-execution page
+Project Execution – Running the Project
+===============================
+★ `Manage & Monitor` - The progress – Oversee teams’ efforts & make sure they understand what is expected of them - What tasks need to be done - How & when tasks need to be done – Alert the right people if there might be a delay to the project – Help keep team aware of schedule & deliverable expectations. 
+
+★ `Remove Barriers to Progress` - Breakdown barriers that would slow down or stop the team from completing tasks - Removing barriers is one of your most important tasks as a project manager. But you cannot always do it alone. When your team encounters issues you will write an escalation email to get support & advice from senior stakeholders. (Insert Link to escalation email section)
+
+★ `Communicate` - With your team & anyone else involved in the project through meetings, written communication (emails, memos, chat tools, reports & documents) - overcommunicate. -Daily Standups (Add what they consist of) – Daily Check-ins for status updates, see if anyone needs help on a task/s.
+
+★ `Make Adjustments` - Make adjustments to plans throughout the project as required & make sure they’re communicated to all the correct stakeholders – Address weaknesses in your process or examine places where your team may need additional training – Adapt to changes in the project as they arise.
+
+★ ` Follow the ROAM Analysis` - To help your team stay organized you will categorize issues as Resolved, Owned, Accepted, or Mitigated. Knowing how you will handle these issues keeps you on track to complete the project. (Insert link to ROAM section)
+
+★ `Meetings` – Create presentations for your team to keep them informed on the project – To make your presentation engaging & memorable, you will tell a story using key data points, summarize take aways, & outline next steps. – Plan meetings to discuss open issues, after your presentation you will meet & discuss areas to improve as you prepare for launch. To ensure a focused & productive discussion create a meeting agenda that lays out open issues & lists topics for discussion. - (Link to presentation templates & meeting agenda templates)
+
+★ `Project Status Reports` - Red, Yellow, Green (RYG) reports improve & simplify communication across the team, keep everyone informed, including key stakeholders. Request more resources & support if needed. Create structure & transparency by recording the project status in a centralized place. (Link to RYG Status Report)
+
+★ `Conduct Ongoing Surveys` - To gain essential feedback from users & improve processes, Implement surveys when possible. (Link to Survey Section)
+
+★ `Conduct Retrospectives (Retros)` - Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases – Form of process improvement. 
+
+Types of Tracking Methods
+========================
+★ `Gantt Chart` – Lots of dependencies & used primarily waterfall methodologies.
+(Insert Picture)
+
+★ `Roadmaps` - Used for tracking big milestones. High-level tracking of large milestones.
+(Picture)
+
+★ `Burndown Charts` - Typically used by Agile Scrum teams. Burndown charts reveal how quickly your team is working by displaying how much work is left & how much time remains to complete the work. Used near closing when needing to hit hard deadlines. 
+(Picture)
+
+◆ `Commonly Tracked Items:`
+
+❤ Schedule – Tasks & Activities
+❤ Status of Action Items
+❤ Tracking Progress Towards Milestones
+❤ Costs
+❤ Risks
+❤ Scope
+❤ Dependencies
+
+Collecting & Analyzing Data
+=======================
+★ `Six Steps of Data Analysis`
+
+* Ask
+* Prepare
+* Process
+* Analyze
+* Share
+* Act
+
+◆ Common types of data PMs collect & analyze.
+Productivity Metrics:	Quality Metrics:
+Milestones	Changes: Change Log
+Tasks	Cost Variance: Planned vs Actual
+Projection	Issues
+Duration	
+
+❤ `Analyzing Data Benefits in Project Management` - Use data to make decisions, solve problems, improve performance, improve processes, & understand your users. Data defines information you need to know about your project such as, productivity, quality & engagement. The more engaged your team is the more productive they are.
+
+❤ Become familiar with how to collect data & measure data. 
+
+❤ `Metric Categories` - Happiness, productivity, quantity, engagement: You can analyze data to predict future outcomes & make predictions about productivity trends, project duration, cost, performance, or quality. Allowing you to proactively manage your project, resources, & measure accuracy if your projections throughout the life of the project.
+
+★ `Prioritize Data` - Need to be aware of the signals that threaten the overall health of the project. A signal is an observable behavior change. Use signals to focus on tasks that have the biggest impact on the projects goal & aligning to your stakeholders’ priorities. 
+
+★ `Data Ethics` - When sharing data with team present in a way that maintains integrity & does not include any PII. Protect the data you collect.
+
+Data Visualization
+==============
+★ `Dashboards` - Is a type of user interface, typically a graph or summary chart, that provides a snapshot view of your project progress or performance
+
+★ `KPIs` - Is a measurable value or metric that demonstrates how effective an organization is at achieving key objectives. 
+
+★ `Burndown Chart` - Is a line chart that measures the time against the amount of work done & amount of work remaining. 
+
+★ `Infographic` - Visual representations of information such as, data or facts & are typically in the form of what is called a google “one-pager.” They are typically concise summaries of that data. Primarily done through graphics or drawing emphasizing the biggest points with added text for further explanation. 
+
+◆ `Other Data Visualization Tools:`
+
+❤ Scatter Plots – Show Relationships
+❤ Bar Graphs – Compare Value, Clarify Trends, & Identify Patterns
+❤ Pie Charts – Demonstrate Composition & Shows how much each part makes a whole
+❤ Line Graphs – Analyze Trends & Behaviors & Shows Change Over Time
+
+★ When it is time to present you data to your audience, you do not just want to tell them about your findings & what they mean. You want to `show` them. Data visualization helps us organize data & turn it into information that is clear & easy for your audience to digest. Figure out what data you want to show your audience & `why`.
+
+Presenting Data to Tell a Story
+=====================
+❤ `Step 1` - Define your audience – Know who you are presenting to – figure out what matters most to them.
+
+❤ `Step 2` - Find the data that connects to the question you want to answer – Collect the data.
+
+❤ `Step 3` - Filter & Analyze the data – Once you collect the data you will need to vet it for credibility & filter the information.
+
+❤ `Step 4` - Choose a visual representation – Dashboards, Charts, Mapping, Infographics, Graphs, etc.
+
+❤ `Step 5` - Shape the story – Tie it altogether into one cohesive narrative. Take time to think about what you hope to achieve, the points you want to make, & the questions or concerns you want to answer. 
+
+❤ `Step 6` - Gather your feedback – Do a trail run – Get feedback from someone not connected to the project. 
+
+* Did it make sense?
+* Was it interesting?
+* What questions did they have?
+* What was unclear?
+* Make adjustments
+
+★ `Include KPIs` - A `countdown (dashboard)` that shows the number of days until the project launch or a percentage of number of issues resolved. Many dashboards also summarize project plans, documents, & reports in one place & provide visual status of each item. Dashboards are great visualizations for efficient status updates – they enable you to group, summarize, & highlight top project data points.
+
+◆ `Tips for Presenting`
+
+* Speak slowly
+* When making a point try elevating your tone of voice for emphasis 
+* Pace yourself by using intentional pauses & keep sentences short.
+* Make eye contact
+* Keep facial expressions warm & friendly
+* Be precise, flexible, & memorable 
+* Good posture
+* Use repetition to help audience
+* Have confidence!
