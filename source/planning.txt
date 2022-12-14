@@ -211,7 +211,18 @@ Communication Plan Best Practices
 ❤ Brainstorm & Craft the Appropriate Message
 ❤ Deliver your Message
 ❤ Obtain Feedback & Incorporate that Feedback Going Forward
+❤ Negotiate 
+❤ Set Communication Expectations
+❤ Empathetic Listening 
+❤ Build Trust by Asking Open Ended Question
+❤ Don’t Overwhelm Sponsors with too Many Details
 ❤ Communicate Should be Clear, Honest, Frequent, & Relevant
+
+◆ `Writing Emails Best Practices`
+
+❤ Use Bullet Points 
+
+(Include email example or template link)
 
 ★ It is a project managers responsibility to resolve problems & remove constraints that are a detriment to the project’s success. One way to do this is escalation: the process of enlisting the help of higher-level project leadership or management to remove an obstacle, clarify or reinforce priorities, and validate next steps. Detailing these problems, their potential impact, & the support you need can be an effective communication tool. 
 
@@ -265,9 +276,4 @@ Kickoff Meeting!
 * Are there any areas that need to be addressed or done differently?
 
 ★ Once the Kickoff meeting has ended send a follow-up email to all attendees with key items that were discussed, summarize the meetings, & allow them to ask questions.
-
-◆ `Writing Email Best Practices`
-
-❤ Use Bullet Points 
-
-(Include email example or template link)
+(Link to Writing Email Best Practices section)
