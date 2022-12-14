@@ -174,7 +174,9 @@ Project Budgeting Best Practices
 
 ★ `Check, Check, & Double Check` - Make sure that your budget is accurate & error-free. Your budget will likely require approval from another department, such as finance or senior management, so do your best to ensure that it is as straight forward to understand as possible & that all of your calculations are correct.
 
-★ `Categorize Different Types of Costs` - Both direct & indirect Costs. (Insert Chart Below)
+★ `Categorize Different Types of Costs` - Both direct & indirect Costs.
+
+.. image:: media/Budget_Table.png
 
 ★ `Develop a Baseline Budget` - An estimate (dollar amount) of project costs that you start with at the beginning of your project. Once budget is approved, you hsould publish this baseline & use it to compare against actual performance progress. This will provide insight into how the project is doing & allow you to make informed adjustments. Continually monitor your project budget & make necessary changes. Update can require the same approval as the initial budget. Re-baseline if you make significant changes. (Insert Link to Template)
 
