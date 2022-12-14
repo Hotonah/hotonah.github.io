@@ -176,7 +176,7 @@ Project Budgeting Best Practices
 
 ★ `Categorize Different Types of Costs` - Both direct & indirect Costs.
 
-.. image:: media/Budget_Table.png
+.. image:: media/Budget_Table.PNG
 
 ★ `Develop a Baseline Budget` - An estimate (dollar amount) of project costs that you start with at the beginning of your project. Once budget is approved, you hsould publish this baseline & use it to compare against actual performance progress. This will provide insight into how the project is doing & allow you to make informed adjustments. Continually monitor your project budget & make necessary changes. Update can require the same approval as the initial budget. Re-baseline if you make significant changes. (Insert Link to Template)
 
