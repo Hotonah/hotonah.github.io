@@ -183,3 +183,91 @@ Project Budgeting Best Practices
 ★ `Perform a Reserve Analysis` - A reserve analysis wil help you account for any buffer fund you may need. 1st review all potential risks to your project & determine if you need to add buffer funds. 
 
 ❤ Use milestones as checkpoints for budget.
+
+Communication Plan Best Practices
+===============================
+◆ Identify, Identify, Identify
+(Insert communication plan template)
+
+★ `Project Stakeholders` - RACI Chart or stakeholder map. Who is your audience? Who will need to be informed at different points during the project life cycle?
+ 
+★ `Communication Frequency & Methods` - When & how often? What method do they prefer? How much detail? 
+
+★ `Goals` - Do you need a response? Are you trying to encourage engagement or providing an update? 
+
+★ ` Barriers` - Are there time zone differences? Language? Internet issues?
+
+★ `Core Team` - Check in regularly & ask how everything is going. How are they doing on tasks? Do they need help with anything? 
+
+★ `Daily Meetings (if necessary)` - Designed to bring everyone up to date on key information. Here, each team member briefly describes any in progress work, completed work, & any barriers that stand in their way. You can also discuss next steps. 
+
+★ `Key Stakeholders` - Send project newsletters, a brief email that asks three questions:
+* What is working in how we communicate with you about the project?
+* What is not working or is not effective in our communications?
+* Where can I improve our communications with you?
+◆ Include a link to all documents within a centralized location ◆
+
+❤ Recognize & Understand Individual Differences
+❤ Brainstorm & Craft the Appropriate Message
+❤ Deliver your Message
+❤ Obtain Feedback & Incorporate that Feedback Going Forward
+❤ Communicate Should be Clear, Honest, Frequent, & Relevant
+
+★ It is a project managers responsibility to resolve problems & remove constraints that are a detriment to the project’s success. One way to do this is escalation: the process of enlisting the help of higher-level project leadership or management to remove an obstacle, clarify or reinforce priorities, and validate next steps. Detailing these problems, their potential impact, & the support you need can be an effective communication tool. 
+
+◆ `Escalation Email Best Practices:` 
+
+❤ Maintain a friendly & blameless tone
+❤ State your connection to the project
+❤ Explain the problem succinctly
+❤ Explain the consequences – Describe how this issue is negatively impacting the project or has the potential. If it makes sense link the issue to the organizations larger OKRs.
+❤ Make a Request – propose a course of action, solution, or solutions
+❤ State what you need from the recipient 
+❤ Request a meeting
+
+.. image:: media/Escalation_Email.PNG
+
+◆ `ROAM Analysis` 
+
+❤ `R: Resolved` - The issue has been eliminated & no longer poses a problem.
+❤ `O: Owned` - The issue has been assigned to a team member who will monitor it through completion.
+❤ `A: Accepted` - The issue is minor or cannot be resolved, so the team chooses to accept it & work around it.
+❤ `M: Mitigated` - The team has taken action to reduce the impact of the issue or reduce the likelihood of a risk that has not materialized.
+
+Kickoff Meeting!
+=============
+★ First meeting in which the project team comes together to ground everyone in a shared vision, gain a shared understanding of the project’s goals, scope, & to understand each person's individual roles within the team. This should include team members identified in the RACI chart created during initiation phase. Invite stakeholders & project sponsor. This meeting team members will learn more about how the team will work together to reach the project goals.
+
+* Ask to record meeting if possible
+* Ask a teammate to take notes
+* Finalize agenda & send to group a day or two ahead
+
+◆ `Kickoff Meeting Agenda`
+
+❤ `Introductions` - Allow people to introduce themselves & their roles, maybe a fun fact about themselves. (10 min)
+
+❤ `Background of the Project` - How the project came to be & why it matters. Set a shared vision. Maybe link to organizations larger OKRs. (5 min)
+
+❤ `Goals & Scope` - What work is in-scope & out-of-scope? Also share target launch date & highlight important milestones. (5 min)
+
+❤ `Roles` - Make sure everyone is clear on what work they will be responsible for throughout the duration of the project. (5 min)
+
+❤ `Collaboration` - Address how the team will work together on the project. Go over tools that will serve as a communal source of information for the team – work management tools like Asana or Planner. Discuss how they will communicate – daily emails, teams chat, weekly meetings. (10 min)
+
+❤ `What Comes Next` - Set expectations & action items (10 min)
+
+❤ `Questions` - Allow the team to ask questions. Document questions & feedback in a shared document. This can also be a time for you to ask questions. (15 min)
+
+* Ask their level of confidence on the project plan?
+* What can you do to help them be successful or increase their confidence?
+* If there any information or tools I should gather to help the project be successful?
+* Ask their thoughts on if this is a good way to start the project?
+* Are there any areas that need to be addressed or done differently?
+
+★ Once the Kickoff meeting has ended send a follow-up email to all attendees with key items that were discussed, summarize the meetings, & allow them to ask questions.
+
+◆ `Writing Email Best Practices`
+
+❤ Use Bullet Points 
+
+(Include email example or template link)
