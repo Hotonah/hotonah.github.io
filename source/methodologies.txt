@@ -141,6 +141,8 @@ the right, we value the items on the left more.
 
 VUCA
 =========
+❤ The US military War College developed a concept called VUCA, spelled V-U-C-A. VUCA is an acronym that defines the conditions that affect organizations in a changing and complex world. It was designed to help us factor in the forces of change and uncertainty in our projects and businesses. VUCA stands for volatility, uncertainty, complexity, and ambiguity. 
+
 ❤ Helps decide which project management approach is best for you. An acronym that define the conditions of the organization in a changing & complex world.
 
 * V – Volatility
@@ -148,10 +150,15 @@ VUCA
 * C – Complexity
 * A – Ambiguity
 
-❤ Volatility – Refers to the rate of change & churn in a business or situation. 
+❤ Volatility – Refers to the rate of change & churn in a business or situation. In a volatile project, you would discuss how the next disruption to your operations is always right around the corner. Or it feels like things never have time to settle into a normal rhythm.
 
-(Come back and finish section)
+❤ Uncertainty - Refers to the lack of predictability or high potential for surprise. In an uncertain environment, it would be difficult to create plans for the future that we're not based on a large number of assumptions that could turn out to be incorrect.
 
+❤ Complexity - Refers to the high number of interrelated forces, issues, organizations, and factors that would influence the project. For example, if one product being worked on relied on diverse and global suppliers, that would add to the complexity of the project. 
+
+❤ Ambiguity - Refers to the possibility of misunderstanding the conditions and root causes of events or circumstances. A project that suffered from ambiguity would have difficulty pinpointing the causes of project delays, making it difficult to design mitigation plans to reduce the risks.
+
+★ If your project environment has high levels of volatility, uncertainty, complexity, and ambiguity, then it's a good sign that you should consider an Agile approach. While an Agile approach is not a perfect solution that will get rid of VUCA, it will lead to better outcomes by giving you and your team tools and systems to mitigate the risks that VUCA presents. When you consider Agile values and principles, it's clear that Agile is a proven and well-documented solution to the challenges VUCA presents to your project.
 
 Blending Methods
 ==================
