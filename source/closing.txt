@@ -2,6 +2,8 @@ Closing the Project
 ===============================
 The process performed to formally complete the project, the current phase, & contractual obligations.
 
+★ `Documents created in this phase`:
+
 ★ Assure all work is done – Ensure that the agreed upon project management processes are executes & get formal recognition from stakeholders that the project is done. Double check that all work is done.
 
 ★ Agreed upon project management processes are executed – procedural, administrative, HR work that needs to take place afterward.
@@ -110,5 +112,3 @@ Project Closeout Report
 ❤ Finally include a resources project achieve section with links to things like your original project plan, documented communication, feedback (like meeting notes), documents used to track &monitor, reports, technical info, user guides, & manuals. 
 
 (Link to project closing document template or example)
-
-★ `Documents created in this phase`:
