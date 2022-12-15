@@ -110,3 +110,5 @@ Project Closeout Report
 ❤ Finally include a resources project achieve section with links to things like your original project plan, documented communication, feedback (like meeting notes), documents used to track &monitor, reports, technical info, user guides, & manuals. 
 
 (Link to project closing document template or example)
+
+★ `Documents created in this phase`:
