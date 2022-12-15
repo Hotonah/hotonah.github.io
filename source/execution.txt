@@ -51,7 +51,7 @@ Collecting & Analyzing Data
 * Act
 
 ◆ Common types of data PMs collect & analyze.
-.. image/media.Data_Methods.PNG
+.. image:: media/Data_Methods.PNG
 
 ❤ `Analyzing Data Benefits in Project Management` - Use data to make decisions, solve problems, improve performance, improve processes, & understand your users. Data defines information you need to know about your project such as, productivity, quality & engagement. The more engaged your team is the more productive they are.
 
