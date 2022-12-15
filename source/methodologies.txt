@@ -1,1 +1,21 @@
-methodology page
+Types of Project Methodologies
+===============================
+★ `Linear (Waterfall)` - Means the previous phase or task has to be completed before the next can start. 
+
+★ `Iterative (flexible)` - Means some of the phases & tasks will overlap or happen at the same time that other tasks are being worked on. Can deliver & test out parts of the project as it’s completed. Gather feedback & make adjustments. This methodology is often used in Agile & Scrum projects. (Link to Agile & Scrum Section)
+
+★ `Lean-Six Sigma` - Uses technique of making the team feel valued to motivate them. Streamline processes – Reduces variation to ensure processes are the same every time.
+
+Process improvement – Find where problems are occurring in current processes and fix the using these frameworks.
+
+.. image:: media/Retro_Framework
+
+❤ This technique can be used to solve any business problem 
+* Define the project goals & what it takes to complete it
+* Measure how the current process is performing & figure out where the problem is & how to fix that problem. – Data Measurement
+* Analyze the data – Causes & solutions
+* Improve – Present findings
+* Control & implement it & keep it there
+
+
+★ `Kanban` - A visual tool to represent progress. (Link to Kanban board)
