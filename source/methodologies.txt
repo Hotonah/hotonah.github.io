@@ -1,10 +1,19 @@
 Types of Project Methodologies
 ===============================
+
 ★ `Linear (Waterfall)` - Means the previous phase or task has to be completed before the next can start. 
 
-★ `Iterative (flexible)` - Means some of the phases & tasks will overlap or happen at the same time that other tasks are being worked on. Can deliver & test out parts of the project as it’s completed. Gather feedback & make adjustments. This methodology is often used in Agile & Scrum projects. (Link to Agile & Scrum Section)
+★ `Waterfall` - Formally approved project plans work well when the desired product is known & understood. Ex – Clear requirements & goals are based on mandated regulation. 
 
-★ `Lean-Six Sigma` - Uses technique of making the team feel valued to motivate them. Streamline processes – Reduces variation to ensure processes are the same every time.
+★ `Iterative (Agile)` - Means some of the phases & tasks will overlap or happen at the same time that other tasks are being worked on. Can deliver & test out parts of the project as it’s completed. Gather feedback & make adjustments. This methodology is often used in Agile & Scrum projects. (Link to Agile & Scrum Section)
+
+★ `Scrum (Agile)` - The most popular methodology of agile PM. You form a team that will work together to quickly develop & test a deliverable. The work is completed in short cycles & the team meets daily to discuss current tasks & clear up anything that’s blocking their progress.
+
+★ `Extreme Programming XP (Agile) – Built around simplicity, designing, & releasing a basic product that works then adding features in later. Design, Code, Test (lots of testing), Listen customer feedback.
+
+★ `Kanban (Agile)` - A visual tool to represent progress. Sign board with To-Do, In-Progress (WIP Limit), & Done. With a backlog for tasks to be completed later. (Link to Kanban board)
+
+★ `Lean-Six Sigma (Agile)` - Uses technique of making the team feel valued to motivate them. Streamline processes – Reduces variation to ensure processes are the same every time.
 
 Process improvement – Find where problems are occurring in current processes and fix the using these frameworks.
 
@@ -17,5 +26,22 @@ Process improvement – Find where problems are occurring in current processes a
 * Improve – Present findings
 * Control & implement it & keep it there
 
+Agile vs Waterfall
+================
+❤ Agile was created in response to the strict linear process of waterfall.
 
-★ `Kanban` - A visual tool to represent progress. (Link to Kanban board)
+❤ Agile embraces the reality that the world, customer, markets, & users are uncertain & unpredictable.
+
+◆ `Agile is an iterative process` - Works by using cycles of feedback & improvements to create quality products & improve operational processes. Can take notes on what worked, what didn’t & improve product/processes using feedback for next round/test.
+
+❤ `5 Steps`: 
+* Plan
+* Design
+* Implement
+* Test
+* Review
+
+★ Agile aims to get customer feedback quickly
+★ Working with agile you find ways to work more efficiently by focusing on streamlining processes without reducing product quality or value.
+★ Streamline = Reduce Waste
+★ More collaboration means less documentation & earlier feedback about the product
