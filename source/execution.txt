@@ -115,3 +115,49 @@ Presenting Data to Tell a Story
 * Good posture
 * Use repetition to help audience
 * Have confidence!
+
+◆ `Preparing for the Meeting`
+
+❤ Be clear & specific about what you want to get out of the meeting, frame the discussion with that goal in mind. Tell them exactly what you are looking for & send slides to audience in advance.
+
+❤ If appropriate send a follow-up email with summary notes, action items, & time frames.
+(Insert link to email writing best practices)
+
+❤ Ask for feedback what went well & what could have gone better? 
+
+Continuous Improvements
+===================
+.. image:: media/Retro_Frameworks.PNG
+
+❤ Conduct a Retrospective (Retros) – Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases. You can conduct retros when you miss deadlines, miscommunications, end of sprints, etc. This is a form of process improvement.
+
+* Encourage Team Building
+* Improved Collaboration
+* Promote Positive Changes in Future Procedure or Processes
+* Blameless – Change Perspective (do not use `you` statements)
+* Do Not Focus On Negative
+* What Went Well (Fun Things)
+* Make People Feel Included
+
+◆ `Retro Best Practices`
+
+❤ `Project Summary` - Fill in basic project information.
+
+*  Goals & Objectives
+* Duration
+* Team Members
+* Methodology
+
+★ Also include links to key documents including the project charter, production plan, & scene requirements.
+
+❤ `Key Accomplishments` - Being the meeting on a positive note by encouraging the team with a list of what went well.
+
+❤ `Lessons Learned` - Team discusses things that need improvement, as well as instances when they were fortunate that went in their favor.
+
+❤ `Action Items` - Turn their lessons into action items where appropriate. 
+
+❤ `Future Considerations` - Ask team to think about next steps in their list & risks that could come up & impede their success. Project manager should take notes on risks & mitigation plans. 
+
+❤ `Resources & Notes` - Retro serves as a reference for how that project went & what was accomplished. Add project notes which the team found valuable.
+
+(Link to retro example or template)
