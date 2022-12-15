@@ -127,7 +127,7 @@ Presenting Data to Tell a Story
 
 Continuous Improvements
 ===================
-.. image:: media/Retro_Frameworks.PNG
+.. image:: media/Retro_Framework.PNG
 
 ❤ Conduct a Retrospective (Retros) – Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases. You can conduct retros when you miss deadlines, miscommunications, end of sprints, etc. This is a form of process improvement.
 
