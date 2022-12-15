@@ -279,3 +279,5 @@ Kickoff Meeting!
 
 ★ Once the Kickoff meeting has ended send a follow-up email to all attendees with key items that were discussed, summarize the meeting, & allow them to ask questions.
 (Link to Writing Email Best Practices section)
+
+★ `Documents created in this phase`:
