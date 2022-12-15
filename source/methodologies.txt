@@ -35,7 +35,7 @@ Process improvement – Find where problems are occurring in current processes a
 * Establish Pull - Pulling on product
 * Preserve Perfection - Continuously improve
 
-.. image:media/Umbrella.PNG
+.. image:media/Umbrella.png
 
 Agile vs Waterfall
 ================
@@ -44,6 +44,8 @@ Agile vs Waterfall
 ❤ Agile embraces the reality that the world, customer, markets, & users are uncertain & unpredictable.
 
 ◆ `Agile is an iterative process` - Works by using cycles of feedback & improvements to create quality products & improve operational processes. Can take notes on what worked, what didn’t & improve product/processes using feedback for next round/test.
+
+.. image:: media/iterations.PNG
 
 ❤ Changes as team receives feedback & new info. Usually, initial set of requirements or feature ideas, but the list continually grows & changes throughout the project. Team works with the stakeholders to prioritize the requirements, moving most urgent or valuable items to the top. Then go down the list, working on requirements in iterations.
 
