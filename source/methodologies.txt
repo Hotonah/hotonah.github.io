@@ -19,7 +19,8 @@ Process improvement – Find where problems are occurring in current processes a
 
 .. image:: media/Retro_Framework.PNG
 
-❤ This technique can be used to solve any business problem 
+❤ This technique can be used to solve any business problem
+
 * Define the project goals & what it takes to complete it
 * Measure how the current process is performing & figure out where the problem is & how to fix that problem. – Data Measurement
 * Analyze the data – Causes & solutions
@@ -43,6 +44,7 @@ Agile vs Waterfall
 ◆ `Agile is an iterative process` - Works by using cycles of feedback & improvements to create quality products & improve operational processes. Can take notes on what worked, what didn’t & improve product/processes using feedback for next round/test.
 
 ❤ `5 Steps`: 
+
 * Plan
 * Design
 * Implement
