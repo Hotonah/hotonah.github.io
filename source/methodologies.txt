@@ -35,6 +35,8 @@ Process improvement – Find where problems are occurring in current processes a
 * Establish Pull - Pulling on product
 * Preserve Perfection - Continuously improve
 
+.. image:media/Umbrella.PNG
+
 Agile vs Waterfall
 ================
 ❤ Agile was created in response to the strict linear process of waterfall.
