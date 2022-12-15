@@ -26,6 +26,14 @@ Process improvement – Find where problems are occurring in current processes a
 * Improve – Present findings
 * Control & implement it & keep it there
 
+❤ `6-Sigma 5 Principals`
+
+* Define Value - What the customer wants
+* Map Value - Streamline process
+* Create Flow - Eliminate waste
+* Establish Pull - Pulling on product
+* Preserve Perfection - Continously improve
+
 Agile vs Waterfall
 ================
 ❤ Agile was created in response to the strict linear process of waterfall.
