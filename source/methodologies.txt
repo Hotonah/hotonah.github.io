@@ -8,7 +8,7 @@ Types of Project Methodologies
 
 Process improvement – Find where problems are occurring in current processes and fix the using these frameworks.
 
-.. image:: media/Retro_Framework
+.. image:: media/Retro_Framework.PNG
 
 ❤ This technique can be used to solve any business problem 
 * Define the project goals & what it takes to complete it
