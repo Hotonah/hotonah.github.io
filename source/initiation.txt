@@ -1,5 +1,7 @@
 Project Initiation
 =====================
+★ `Documents created in this phase`:
+
 ★ `Organize Resources` - all the information available to you about the project - Determine stakeholders (anyone involved or impacted by the project) - Determine resources, budget, people, equipment/materials, software programs, vendors, physical space, or locations, & other project details. Anything considered needed to complete the project is a resource. Record all these details in your project proposal and get them approved.
 
 ★ `Define Project Goals` - Critical tasks - Clarify the details of your project - What you are asked to do & what you're trying to accomplish.
@@ -118,5 +120,3 @@ Tips When Choosing a Team
 ❤ Use fun team building exercises early on to understand each other, trust each other, & find out what motivates them.
 
 (Include team building exercises ideas)
-
-★ `Documents created in this phase`:
