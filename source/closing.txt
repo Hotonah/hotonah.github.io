@@ -1,1 +1,112 @@
-closing page
+Closing a Project
+===============================
+The process performed to formally complete the project, the current phase, & contractual obligations.
+
+★ Assure all work is done – Ensure that the agreed upon project management processes are executes & get formal recognition from stakeholders that the project is done. Double check that all work is done.
+
+★ Agreed upon project management processes are executed – procedural, administrative, HR work that needs to take place afterward.
+
+★ Formal recognition & agreement that the project is done by stakeholders.
+
+★ Pay special attention to protecting the scope of your project & you’re more likely to close the project successfully. If it feels the customer wants more from you then this project stated to deliver, the best option is to commit to a follow-up project & close the current one.
+
+★ Formal close is important not only because improper closing may leave you on the hook for incomplete contracts r incomplete scop, but also because you want stakeholders to feel like their needs were met. Make sure stakeholders are satisfied with the quality of deliverables & end product.
+
+★ 1st decide if your project warrants a small closing process at the end of each milestone or a more formal comprehensive closing phase near the very end. You may even decide to do both the small closing process at the end of each milestone and a formal closing at the end. 
+
+* Close out reports
+* Include notes from retros
+* Make sure all stakeholders are aware that a phase or project is ending – this may be as simple as an email.
+* Complete necessary follow-up work like gathering final feedback & conducting closing surveys.
+
+Steps to Conducting Closing Process After Each Phase or Milestone
+=================================================
+
+❤ Refer to prior documentation
+❤ Put together closing documentation
+❤ Conduct administrative closure of the procurement process
+❤ Make sure all stakeholders are aware that a phase or project is ending
+❤ Execute follow-up work
+
+Steps to Conducting a Closing Process at the `End` of your Project
+===============================================
+
+❤ Provide the necessary trainings, tools, documentation, & capability to use your product. This includes things like manuals & how-to guides, which gives your customers & users an understanding of how to use the product or service after the project closed.
+
+❤ Ensure that the project has satisfied its goals & desired outcomes. Review the project to make sure all tasks & deliverables were completed & nothing is missing. Did you accomplish what you set out to do? Is the full scope of work completed?
+
+❤ You will also want to document acceptance from all stakeholders like clients & sponsors. You have written proof that stakeholders are happy with the deliverables & outcomes. Retrospectives, project completion documents, or any other formal sign off.
+
+❤ Review all contracts & documentation. This includes SOW, RFP, RACI chart, risk register, & procurement documents. Include your whole team in this review process to make sure nothing is missed.
+
+❤ Conduct a formal retrospective, to document your lessons learned. Include your team & outside vendors in this meeting.
+
+❤ Disband & thank the project team.
+
+Impact Reporting
+==============
+ 
+❤ Presentation that is given at the end of project for key stakeholders. Typically includes the stakeholders you had at the initial kick-off meeting. The purpose is to demonstrate how the project went & discuss the impact of your product or service. It is important because you will be able to demonstrate the success of your project on your terms & present the work you did to add value to the business (Link to company OKRs when possible). In this presentation you will cover how the project landed in terms of time, scope, & budget. You will discuss when the new service or product launched & state any available feedback from users & explain how the desired outcomes were achieved. 
+(Link to Impact Report template or example)
+
+❤ `Highlight Key Performance Areas` - Goals, objectives, budget, schedule, & KPIs need to be determined at the beginning of your project. You report should demonstrate how well you did against those early targets. Answer the question – What was the problem we were trying to solve & how did we solve it?
+
+* Describe the goals & objectives you set & what you hoped to achieve
+* Describe how you met those goals against your KPIs 
+* Showcase your schedule & budget performance by outlining you cost savings & efficiencies
+* Demonstrate that you met deadlines set in the project scope & completed within budget
+
+◆ `Prepare an Effective Impact Report Presentation` - An effective presentation can help your stakeholders understand your project impact. In order to successfully convey all of the information you prepare:
+
+❤ Be concise: While you should share metrics that illustrate how you achieved your project goals; you do not need to include extraneous details. For clarity, organize info by using bullet points. 
+
+❤ Understand your audience: Make sure that your report does not use too much technical language or jargon. 
+
+❤ Use Visuals: PowerPoint, diagrams, charts, graphs, icons.
+
+❤ Describe your learnings: Discuss lessons you learned during the course of the project & any areas for improvement.
+
+* Show - Videos, demos, testimonials, case studies
+* Story Tell – Tell a story or anecdote related to the data
+* Engage – Ask for audience participation – questions, surveys, quizzes, feedback, etc.
+
+❤ Use retrospectives – A tool for reflection & improvement. A meeting aimed to discuss successes, failures, & possible improvements. Encourages team building, facilitates improves collaboration, promotes positive changes in future projects. 
+
+❤ Use facts & statistics to highlight results you achieved.
+
+* Improvement in Schedule
+* Revenue Growth
+* Positive ROI
+* Increased External User Accounts
+* Increased Percentage of Internal Users
+* Cost vs Margin
+* High Percentage of Customer Satisfaction
+* Reduction in Tech Issues
+* Time Saved
+
+❤ Metrices & data points are one of the best ways to present impact. Throughout the project collect data & track progress in each of the areas you want to measure. If you can complement your metrics with the appropriate visuals & tie them back to the projects larger goals, you can quickly demonstrate your projects success & value. 
+
+Project Closeout Report
+=========================
+
+★ It is a blueprint to document what the team did, how they did it, & what they delivered.
+★ It provides an evaluation of the quality of work.
+★ It evaluates the project’s performance with respect to budget & schedule.
+
+❤ Can be used to determine best practices when it comes to future projects. Think of it as a transfer of knowledge from you to future project managers. Once a project closes, there is a chance a similar project or a continuation of that project will come up within the organization & a different PM is assigned. If you create an in-depth closeout report, it will help the new PM know what happened. Your closeout report could include things that worked well & things that did not work well. Creating a closeout report will help reduce the questions from new PMs. 
+
+◆ `Include`:
+
+★ An executive summary – Purpose of the project (Short & concise)
+★ A list of key accomplishments
+★ Lessons learned – What went well & What went wrong – What processes did not work well? – What were the effects of key problem areas (scope creep, schedule slip)
+★Technical challenges
+★ Next steps – Expected follow-up projects – Is there maintenance required – Open items – Things you did not get to or ideas for changes you would make if you had more time
+
+❤ Include important info about schedules & important deadlines like; what were your milestones & how did you choose them? How long did the project take? Did the project stay on track? & Information about major setbacks. 
+
+❤ Be sure to list resources & team members. Explain who is involves? What their roles were – To acknowledge people. 
+
+❤ Finally include a resources project achieve section with links to things like your original project plan, documented communication, feedback (like meeting notes), documents used to track &monitor, reports, technical info, user guides, & manuals. 
+
+(Link to project closing document template or example)
