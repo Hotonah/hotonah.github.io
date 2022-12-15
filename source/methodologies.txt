@@ -33,7 +33,7 @@ Process improvement – Find where problems are occurring in current processes a
 * Map Value - Streamline process
 * Create Flow - Eliminate waste
 * Establish Pull - Pulling on product
-* Preserve Perfection - Continously improve
+* Preserve Perfection - Continuously improve
 
 Agile vs Waterfall
 ================
@@ -43,7 +43,16 @@ Agile vs Waterfall
 
 ◆ `Agile is an iterative process` - Works by using cycles of feedback & improvements to create quality products & improve operational processes. Can take notes on what worked, what didn’t & improve product/processes using feedback for next round/test.
 
-❤ `5 Steps`: 
+❤ Changes as team receives feedback & new info. Usually, initial set of requirements or feature ideas, but the list continually grows & changes throughout the project. Team works with the stakeholders to prioritize the requirements, moving most urgent or valuable items to the top. Then go down the list, working on requirements in iterations.
+
+❤ Real-time, person-to-person conversations – shorter documents are much more focused on their purpose. These documents are much more focused on what the reader needs to know to get the job done & written as needed. 
+
+❤ A deliverable is a tangible outcome from a project. 
+
+* In waterfall the deliverable is not released until the very end
+* In Agile the deliverable is smaller more frequent releases – it builds up to be just as exciting as waterfall
+
+❤ `5 Steps in Agile`: 
 
 * Plan
 * Design
@@ -52,6 +61,89 @@ Agile vs Waterfall
 * Review
 
 ★ Agile aims to get customer feedback quickly
-★ Working with agile you find ways to work more efficiently by focusing on streamlining processes without reducing product quality or value.
+★ Working with agile you find ways to work more efficiently by focusing on streamlining processes without reducing product quality or value
 ★ Streamline = Reduce Waste
 ★ More collaboration means less documentation & earlier feedback about the product
+
+Agile Manifesto
+================
+Manifesto for Agile Software Development (agilemanifesto.org)
+
+“We are uncovering better ways of developing
+software by doing it and helping others do it.
+Through this work we have come to value:”
+
+★ `4 Values of the Agile Manifesto`:
+
+Individuals and interactions - over processes and tools
+Working software - over comprehensive documentation
+Customer collaboration - over contract negotiation
+Responding to change - over following a plan
+
+❤ That is, while there is value in the items on
+the right, we value the items on the left more.
+
+★ `12 Principals of the Agile Manifesto Grouped into 4 Themes`:
+
+❤ `Value Delivery` – How do agile teams delivery highly valuable products to their customers?
+
+❤ `Business Collaboration` - How do agile teams collaborate with their business partners & stakeholders to create business value to the organization?
+
+❤ `Team Dynamics & Culture` - How does a team create & maintain the right interpersonal & team dynamics to deliver value for the customer & the business?
+
+❤ `Retrospectives & Continuous Learning` - How does the project team learn to continuously increase performance of an organization & business?
+
+★ `Value Delivery`:
+
+❤ Our highest priority is to satisfy the customer through early & continuous delivery of valuable software
+
+❤ Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter timescale. 
+
+❤ Working software is the primary measure of progress.
+
+❤ Simplicity – The art of maximizing the amount of work not done – is essential – less confusing – less buttons & features – those can be added later – we want to release a working product.
+
+❤ Continuous attention to technical excellence & good design enhances agility. Delivering work as quickly as possible in order to get feedback & mitigate time risk.
+
+★ `Business Collaboration`: 
+
+❤ Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+
+❤ Businesspeople & developers must work together daily throughout the project. Collaborating with your customers helps the team get critical business information immediately allowing them to adjust & scope to any new information instantly.
+
+★ `Team Dynamics & Culture`:
+
+ ❤ Build projects around motivated individuals. Give them the environment & support they need & trust them t get the job done.
+
+❤ The most efficient & effective method of conveying information to & within a development team is face-to-face conversation.
+
+❤ Agile processes promote sustainable development. The sponsors, developers & users should be able to maintain a constant pace indefinitely. 
+
+❤ The best architectures, requirements, & designs emerge from self-organizing teams. Create an effective team culture that is inclusive, supportive, & empowering. Keep them motivate & trust them. Give them the tools & resources they need to reach their goals & let them decide on procedure. Help them feel that their input is valued. 
+
+★ ‘Retrospectives & Continuous Learning` :
+
+(Link to retrospective section)
+
+❤ At regular intervals, the team reflects on how to become more effective, then tunes & adjusts their behavior accordingly. 
+
+* Strive to continually learn & adapt to what’s working & what’s not
+* Set time aside to focus entirely on how to improve
+* How is the team doing?
+* Are customers happy?
+* Are there processes we could optimize?
+* Are our tools working for us?
+* Are we following the values?
+
+VUCA
+=========
+❤ Helps decide which project management approach is best for you. An acronym that define the conditions of the organization in a changing & complex world.
+
+* V – Volatility
+* U – Uncertainty
+* C – Complexity
+* A – Ambiguity
+
+❤ Volatility – Refers to the rate of change & churn in a business or situation. 
+
+(Come back and finish section)
