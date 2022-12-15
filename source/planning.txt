@@ -1,5 +1,7 @@
 Planning the Project
 ======================
+★ `Documents created in this phase`:
+
 ★ `Reference Historical Project Data` - Your project may be similar to a previous project your organization has worked on. It is important to review how past projects were handled including the budget, schedule, project team, roles & responsibilities, risks, & communication plans. Review any past project documents that may help you plan your project, you can even search the web for similar projects to seek extra help.
 
 ★ `Identify Tasks & Milestones` - sourcing materials, training employees, etc.
@@ -279,5 +281,3 @@ Kickoff Meeting!
 
 ★ Once the Kickoff meeting has ended send a follow-up email to all attendees with key items that were discussed, summarize the meeting, & allow them to ask questions.
 (Link to Writing Email Best Practices section)
-
-★ `Documents created in this phase`:
