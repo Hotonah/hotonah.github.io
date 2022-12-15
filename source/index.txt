@@ -162,18 +162,18 @@ Project Lifecycle
 ==================
 ★ `Initiate the Project` - This is the launchpad for the entire project: Gather skillsets required, timeline, & costs. Define project goals & deliverables, identify the budget & resources you'll need, the people involved in your project, & any other details that can impact the successful completion of your project. Document all this information in once place to showcase the projects value & get approval to move forward.
 
-★ `Documents created in this phase`:
+❤ `Documents created in this phase`:
 
 ★ `Make a Plan` - for how you'll meet the goals of your project. Breakdown of the tasks, ways to communicate, team roles & responsibilities, schedule, resources, & what to do in case your project encounters problems or needs to change. Make a project plan from start to finish. Outline the important deadlines, tasks for the project to be successful. Create a schedule to account for all the resources, materials, and tasks needed to complete the project.
 
-★ `Documents created in this phase`:
+❤ `Documents created in this phase`:
 
 ★ `Execute & Complete Tasks` - Project team has the job of completing the project tasks. Your primary task as project manager is to monitor progress, keep your team motivated & remove any obstacles that might come up.
 
-★ `Documents created in this phase`:
+❤ `Documents created in this phase`:
 
 ★ `Close the Project` - Celebrate all the team's hard work! Make note of what worked & what did not, so you can plan better for future projects. Closing is a time for project reflection. 
 
-★ `Documents created in this phase`:
+❤ `Documents created in this phase`:
 
 .. image:: media/it.png
