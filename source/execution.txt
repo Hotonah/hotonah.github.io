@@ -161,3 +161,5 @@ Continuous Improvements
 ❤ `Resources & Notes` - Retro serves as a reference for how that project went & what was accomplished. Add project notes which the team found valuable.
 
 (Link to retro example or template)
+
+★ `Documents created in this phase`:
