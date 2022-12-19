@@ -1,1 +1,426 @@
-Scrum Page
+Elements of Scrum
+===============================
+❤ `Documents created in this phase`:
+
+◆ A framework for developing, delivering, & sustaining complex products. This is a iterative & incremental approach. Scrum is the most popular methodology of agile project management. You form a team that will work together quickly to develop & test a deliverable. The is completed in short cycles & the team meets daily to discuss current tasks & clear-up anything that’s blocking their progress.
+
+★ `Product Backlog` - The central artifact in scrum, where all possible ideas, deliverables, features, or tasks are captured for the team to work on.
+
+★ `Sprint` - A time-based iteration in scrum where work is done. Sprint can be between 1-4 weeks long but, most sprints are around two weeks. This is often called the “iteration”.
+
+★ `Daily Scrum (Stand-up)` - A meeting of 15 or fewer minutes everyday of the sprint. 
+
+Scrum Roles
+==============
+
+.. image:: media/roles.PNG
+
+❤ `Scrum Master` - Responsible for ensuring the team lives agile values & principals. Responsible for the team following processes & practices that the team agreed to & sharing information to the larger project team. Also, help the team focus on doing their best work & clearing obstacles. 
+
+❤ `Product Owner` - Responsible for maximizing the value of the product & work of the team. Owns inventory of work & has the final say on how to prioritize work.
+
+❤ `Development Team` - Responsible for how a team will deliver that product. The development team is self-organizing & cross-functional.
+
+.. image:: media/scrum_roles.PNG
+
+Scrum Characteristics
+=================
+❤ `Built-in Instability` – Challenging project “carry out a project of strategic importance to the company.”
+
+❤ `Self-organizing Teams` - Scrum teams were intended to operate like their own start-up, unique order that lacks true hierarchy. These teams are considered self-organizing when they exhibit autonomy, continuous growth, & collaboration. 
+
+❤ `Overlapping Development Phases` - Work toward synchronizing their pace to meet deadlines.
+
+❤ `Multi-learning` - Relies on trail & error. Aim to stay-up-to-date with changing market & respond quickly to those conditions. 
+
+❤ `Subtle Control` - Create checkpoints throughout the project to analyze team interactions & progress. “Maintain control without hindering creativity.”
+
+❤ `Organizational Transfer of Learning` - Everyone is encouraged to learn skills that may be new to them as they support other team members.
+
+.. image:: media/Umbrella.png
+
+Three Pillars of Scrum
+===========================
+
+.. image:: media/pillar.PNG
+
+Five Values of Scrum
+===========================
+
+.. image:: media/scrum_values.PNG
+
+Set a Mission & Vision
+========================================
+❤ `Mission` - A short statement that stays constant for your team throughout the process & gives the team something to work toward.
+
+❤ `Vision` - Makes it clear what outcomes the team is responsible for and where your teams’ boundaries are.
+
+◆ A mission tells me `why` we’re doing the work. A product vision helps me imagine what the work will be like when we’re done. 
+
+Scrum Master
+===================
+❤ Promotes & supports the scrum process by helping everyone understand & implement scrum. Helps the team be their best.
+
+❤ Coaching team members on agile & scrum practices, rules, & values.
+
+❤ Help find ways to manage the product backlog effectively.
+
+◆ `Responsibilities`:
+
+❤ Facilitate scum events: 
+
+* Sprint
+* Sprint Planning
+* Daily Scrum 
+* Sprint Review
+* Sprint Retros
+
+❤ Help team remove barriers to their progress
+
+* Missing Information
+* Training
+* Tools
+
+❤ Prevent unhelpful interactions from outside the team. Ask - How can I help?
+
+Product Backlog
+==============
+(Link to example or Template)
+◆ The single authoritative source for things that a team works on to achieve the product goal.
+
+* Product Features
+* Product Requirements
+* Activities Associated with Product Deliverables
+
+❤ `Living Artifact` - Evolves throughout the life cycle of the project. Serves as a guide to what to work on next. 
+
+❤ Owned & adjusted by the product owner.
+
+❤ Prioritized list of features. 
+
+* Description – Create user stories & epics
+* Value 
+* Order
+* Estimate (effort) – Low, Medium, High – Done in the `Sprint Backlog`
+
+The components of user stories & epics
+=============================================
+❤ User stories are short, simple descriptions of a deliverable told from the perspective of the user. Creating user stories helps the team develop a solution that is always centered around the user’s needs and overall experience. 
+
+❤ Epics are a collection of user stories. Think of the concept of user stories in terms of books or films. A story is one single narrative, while an epic is a set of several related, independent stories. Each story tells a specific chronicle, while an epic gives a high-level view of the overall arc. 
+
+★ User stories
+
+❤ The driving factor behind every Scrum project is putting the customer first. User stories are a key component of ensuring that customers are satisfied with the product. A team writes a user story from the perspective of the user. Not only do user stories provide insight into what goals the user wants to achieve, but they enable collaboration, inspire creative solutions, and create momentum by giving the team a small win when the stories are developed. 
+
+❤ When writing user stories, you will need to include the following components: 
+
+* User persona. What is your user like? What is their relation to the project? What goals do they have? 
+* Definition of Done. This refers to an agreed upon set of items that must be completed before a user story can be considered complete. 
+* Tasks. What are the key activities needed to complete the user story?
+* Any feedback already provided. If you are adding features to an existing product and you have already received feedback from customers on a past iteration, make sure to consider this feedback.  
+
+★ I.N.V.E.S.T. 
+
+❤ Your user stories should meet the I.N.V.E.S.T. criteria: 
+
+* Independent: The story’s completion is not dependent on another story.
+* Negotiable: There is room for discussion about this item.
+* Valuable: Completing the user story has to deliver value. 
+* Estimable: The Definition of Done must be clear so that the team can give each user story an estimate. 
+* Small: Each user story needs to be able to fit within a planned Sprint.
+* Testable: A test can be conducted to check that it meets the criteria.
+
+❤ Let’s imagine you are working on a project for a local library. The library hopes to launch a website so that customers can read reviews before they check out books from the branch. The typical template for a user story looks like this: `As a <user role>, I want this <action> so that I can get this <value>`. Therefore, an example user story for this situation might read: `As an avid reader, I want to be able to read reviews before I check out a book from my local branch so that I know I am getting a book I am interested in`.
+
+★ Epics
+
+❤ An epic’s purpose is to help manage related user stories. Mike Cohn, the inventor of the term “epic” as it relates to Scrum, describes epic as a “very large user story”—one that could not be delivered within a single iteration and may need to be split into smaller stories. The team should discuss together and reach a shared view of how to write and capture their user stories and epics. Keep in mind, epics are just larger user stories that are there to help organize the project. 
+
+❤ Let’s imagine you are creating user stories and epics based on the previous example. User stories may include customers wanting to read reviews of books on the website or wanting to add books to their cart. These user stories could fall into the “website creation” epic. 
+
+❤ Another user story could be that customers want to walk into the library and easily find the non-fiction section. This would fall under the “organization of the physical space” epic.
+
+❤ So rather than those various user stories appearing in a list together, they are organized into sections, or epics.
+
+.. image:: media/epics.PNG
+
+❤ It’s important to note that while the Product Owner can write user stories and epics, a Developer can also write them as long as the Product Owner remains accountable for the Product Backlog item.
+
+❤ Epics allow you to keep track of large, loosely-defined ideas, while user stories are a much smaller unit of work, inspired directly from the end user or customer. Both user stories and epics help teams ensure they are delivering value to the customer.
+
+T-shirt sizes and story points
+========================================
+◆ T-shirt sizes and story points—the two most common units used to help teams estimate user stories in Agile projects. In this reading, we will explore the processes of estimating user stories in these units. 
+
+◆ Relative estimation means to compare the effort estimated for completing a backlog item to the effort estimated for another backlog item. Doing this instead of trying to determine exactly how long a task will take allows your comparisons and estimates to be more accurate relative to one another.
+
+★ `T-shirt sizes`:
+
+❤ At first, T-shirt sizes may seem like a somewhat unusual way to measure an item or user story. But when you think about assigning estimations to items based on sizes (e.g., XS, S, M, L, XL, XXL), it is actually very helpful and easy. Some of the benefits to using this technique are that it is quick, well understood by Agile experts, and a good introduction for teams who are just learning relative estimation. 
+
+.. image:: media/tshirt.PNG
+
+❤ So what does the process of assigning T-shirt sizes entail? There are several specific techniques a team can try, but each generally follows these steps. The team: 
+
+* Agrees on the chosen scale and metrics to be used.
+* Identifies at least one anchor backlog item. That item will be assigned a T-shirt size. Some teams will choose two anchor items—one at the top of the range and one at the bottom of the range.
+* Sorts through the remaining backlog items and agrees on T-shirt sizes for each of them. 
+
+★ Story points
+
+❤ Using story points as the estimate unit is a little more advanced than T-shirt sizes, but it is essentially the same concept. This method is good for experienced teams. When using story points, teams usually use the Fibonacci sequence. As a reminder, this sequence comes from adding the two previous numbers in the sequence together. For example, 1 + 2 = 3 and 2 + 3 = 5. The important thing to notice about this sequence is that, as the list continues on, the numbers spread further apart from each other. Because of this, story points provide more accuracy and specificity than T-shirt sizes. 
+❤ So what does the process of assigning story points entail? There are several specific techniques a team can try, but the basic steps are the same as with T-shirt sizes. The team: 
+
+* Agrees on the permitted points values. Some teams cap the size at a certain number, like 21. Some teams decide to jump from 21 to 100 as the next larger value. This is a team decision.
+* Identifies at least one anchor backlog item and agrees to assign it a points value. Some teams will choose two anchor items, one at the top of the range and one at the bottom of the range.
+* Sorts through the remaining backlog items as a team, agrees on an estimate for each item, and captures it in the backlog management system. 
+★ `Best practices`
+
+❤ Some best practices, regardless of the technique you use, include:
+
+* Asking the Product Owner questions about the user story or item to ensure that there is enough information to estimate it.
+* Discussing divergent estimates from various team members so that everyone has a chance to understand how to implement the item.
+* Agreeing on the final T-shirt sizes or points value and capturing it in the system.
+* If certain items fall into the larger T-shirt size or story points value range, discussing whether it makes sense to break them down into smaller pieces before moving on.
+
+❤ Either of these effort estimation units are effective at estimating your items and user stories. As a team, it is important to spend the appropriate amount of time deciding which is best for you. If you are a less experienced team, try starting out with T-shirt sizes, but more advanced teams should feel free to use either method. 
+
+Sprint
+=============
+◆ Think of it as a mini project – Planning, execution, delivery, closing, & a retrospective all wrapped into a bite-sized package.
+
+★ `Timeboxes`:
+
+❤ Create a sense of urgency which will drive prioritization & organization.
+
+❤ Provide a window of focus which will translate into productivity gains.
+
+❤ Helps the team develop a predictable rhythm to their work. 
+
+* 1 – 4 weeks 
+* Rigorous Testing
+* Continuous Improvements
+
+Sprint Planning
+==============
+◆ The entire team comes together & meets to confirm how much capacity, time, & people, are available during this sprint & then they identify what items from backlog will be done during the sprint. This becomes the sprint backlog & ultimately, the sprint goal.
+
+★ Scrum master facilitates communication:
+
+❤ Who is available during this sprint?
+❤ Are there any vacations of conflicts?
+❤ What is the teams point capacity?
+❤ How long is the sprint?
+❤ What should we accomplish?
+❤ What is the sprint goal?
+
+★ Sprints are the heartbeat of Scrum, where ideas are turned into value.
+
+❤ They are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
+
+❤ All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
+
+❤ During the Sprint:
+
+* No changes are made that would endanger the Sprint Goal;
+* Quality does not decrease;
+* The Product Backlog is refined as needed; and,
+* Scope may be clarified and renegotiated with the Product Owner as more is learned.
+
+❤ Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short project.
+
+❤ Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
+
+❤ A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
+
+Daily Sprint
+=======================
+◆ 15 minutes – Time to synchronize & prioritize at the same time & place everyday.
+
+❤ What did I do yesterday that helped the development team meet the sprint goal?
+
+❤ What will I do today to help the development meet the sprint goal?
+
+❤ Do I notice any impediment that prevents me or the development team from meeting our goals?
+
+★ This is an opportunity to reinforce focus on the sprint backlog & sprint goal?
+
+Sprint Review
+===============
+★ Meet with the entire team – product is demonstrated in order to determine which aspects are finished & which are not. Development team & product owner play a heavy role in inspection & discussion.
+
+Sprint Retrospective
+==================
+◆ `Sprint Retrospectives` occur at the end of each Sprint, which is usually every one-to-four weeks. 
+
+◆ Sprint Retrospectives are a key practice that supports the Scrum theory and values. They are a critical moment to inspect and adapt to the outcomes produced within the Sprint timebox. Retrospectives occur much more often in Scrum than in traditional project management, so it is important to consider some best practices and pitfalls to avoid to help make them engaging and productive for the entire team.
+
+(link to sprint retro email)
+
+★ `Pitfalls`
+
+❤ Avoid too many gimmicks. There are many fun games and exercises that can be used by a Scrum Master when facilitating a Sprint Retrospective. However, not all teams enjoy this style. Consider using these exercises only occasionally or when the team asks for new ways of doing retrospectives.
+
+❤ Try not to only focus on the negative. Not only is it necessary for the team to recognize what’s not working well, it is also important to highlight where they exceeded expectations. This ensures that the team both avoids failures and repeats successes as well.
+
+❤ Avoid changing processes after each retrospective. It is okay to keep a new process in place for a few Sprints before deciding whether it was useful or not. You can always make note of opportunities for change, but try to wait a few Sprints before implementing new changes.
+
+★ `Best Practices`
+
+❤ Ask open-ended, probing questions. Ask questions that require thoughtful discussion rather than a yes-or-no answer. For example, ask, “How could we have better achieved our Sprint Goal?” rather than “Did we achieve the Sprint Goal?””
+
+❤ Consider diverse styles of communication and participation. Make it easy for all team members to contribute their ideas and feedback. For example, not everyone feels comfortable speaking up in a large group. Try things like starting the retrospective with silent reflection by journaling or putting the team into pairs before starting a larger group conversation.
+
+❤ Cover the many aspects of the Sprint when conducting a retrospective.
+
+* The productivity and efficiency of the team
+* The scope and understanding of the definition of done
+* Communication and interactions within the team
+* Stakeholder communication
+* Progress towards more long-range release plans
+
+❤ Consider reflecting periodically on Scrum theory and values by asking specific questions. For example, ask, “How could the team become more transparent?” or “How did we abide by our Scrum values in this Sprint?”
+
+Roadmaps
+===============
+◆ It is an agile way of mapping out timelines & requirements for the product development process & can be used in all types of businesses. Guide that demonstrates where to go, how to get there, & what to accomplish along the way in order to maximize value. 
+
+❤ Helps team explain the vision of the product
+
+❤ Use to identify important milestones
+
+★ `Product Vision` - What the product is? How it supports the customers business strategy? Who will use it?
+
+★ `Product Roadmap` - Product owner is responsible for creating this. High-level view of the expected product & its requirements: estimated schedule for reaching milestones. Many of the milestones will be product release dates. You will need to ensure that product release dates are only rough estimates. 
+
+★ `Release Plans` - A living artifact - Product owner & project manager work together to develop these plans. This is because the release plans need to connect the product roadmap with the team's capacity & velocity - the measure of the team's ability to complete work at a certain pace. Some common factors that may result in a change to the release plan could include a change in team velocity, or how much work the team can do in a given iteration or Sprint. This could be from adding or losing team members or even just efficiency gains from how they work. A second factor is a change to the product scope. If the Product Owner approves the change to the product. And a third factor that could affect a release plan, is improving the understanding of how much effort is needed to build certain features. The team may discover that a user story or epic is more or less difficult than they originally thought, after doing some research or simply from better understanding the product space. My last tip for creating an effective value roadmap is that the Scrum Master or Project Manager should always review the release plan before starting a Sprint planning session. They review the release plan to check whether the team is on track. If the team is off track, the Scrum Master needs to have an open conversation with the Product Owner and business people to figure out what they can adjust to get back on track. This is where the Scrum Value of transparency is key. An effective value roadmap is a powerful tool for building and delivering successful products. The plans you create will help you stay focused on delivering maximum value and the ability to remain flexible and stay Agile.
+
+❤ Occurs when the team has developed a basic working version of a given feature or requirement
+
+* Approximate Date
+* Release Goal
+* List of Backlog Items
+
+Product roadmaps: Benefits, pitfalls, and best practices
+=========================================
+❤ You may see different types of roadmaps as you continue your project management career. Each team or company may interpret the roadmap slightly differently. Here are some of the various types:
+
+* Project roadmap
+* Product roadmap
+* Value roadmap
+* Lean roadmap
+* Agile roadmap
+
+❤ Roadmaps are often represented visually and many try to fit the roadmap on one page so that reviewers can notice the big picture of the product timeline.
+
+.. image:: media/roadmap_ex.PNG
+
+◆ The `benefits` of developing and maintaining a product roadmap are numerous:
+
+* Clarifying the sequence of deliverables 
+* Showing teams how their efforts relate to the north-star vision. In other words, their ultimate goal. 
+* Showing stakeholders the incremental value that will be achieved over the course of the project (rather than reviewing it as one big delivery at the end)
+* Helping stakeholders roughly understand the layout of the work behind the deliverable
+
+◆ There are also some `pitfalls` around roadmaps to avoid:
+
+* Letting stakeholders think the roadmap is set and unchangeable. This may cause stakeholders to impede teams’ ability to adapt in response to new information, as well as put a lot of pressure on teams to achieve deadlines no matter what it takes.
+* Spending too much time fine-tuning delivery dates versus keeping them rough and improving specificity as the dates get closer
+* Putting all the work into creating the roadmap rather than producing the deliverables 
+
+◆ Here are some `best practices` to help you get the most from your roadmaps:
+
+* Make it highly noticeable to the team and refer to it frequently.
+* Clearly indicate the highest priority items.
+* If possible, clearly indicate the highest value items.
+* Make it visible to your wider stakeholder group so that they can use it for their planning. 
+* Conduct regular reviews of the roadmap with sponsors, stakeholders, and the team to ensure that it is still providing the blueprint for the project.
+
+★ Roadmaps are important for any well-managed project, but they are especially useful to Agile teams. Having a shared roadmap about what the team is delivering over a longer time period is an important way to connect the work that the team does on the sprints with the broader vision for the project. This helps the team stay motivated through the rough patches and leads to a great sense of accomplishment as roadmap deliverables are achieved. 
+
+Responding to change over following a plan
+=====================================
+◆ The best way to think about changing your plan is to break it down into three stages:
+
+1.	Identifying a needed change 
+2.	Deciding to make the change
+3.	Implementing the change
+
+❤  `Step 1: Identifying a needed change `
+
+◆ First, how do you know if your plan needs to be changed? Here are some aspects of your project that may be candidates for change: scope, time, and costs (or resources). As we previously learned, these are called the “triple constraint,” and they provide a great framework for evaluating change in Agile and traditional projects.
+
+* In Agile, scope refers to the contents of the product roadmap, the items in the Product Backlog, the intended deliverables of the project, and the intended users or customers. This is the “what” of the project.
+* Time refers to the elements of time or layout of the deliverables over a period of time. This could include the product roadmap timeline, release schedule, or even the Sprint duration. This is the “when” of the project.
+* Costs or resources refer to the makeup of the Development Team, project managers, and product owners, and other “business people” as well as the equipment available to create the deliverable. This is the “how” of the project.
+
+★ Agile projects are open to change in any of these three areas, and a needed change could be identified by any project stakeholders, including the Product Owner, Project Manager, Scrum Master, or the Development Team themselves. Sources of identified changes could include:
+
+* Customer feedback on early prototypes results in new features and some deleted features (scope change)
+* Sprint Retrospective identifies an area of understaffing (cost or resource change)
+* Critical project dependencies or deliverable dates have shifted, resulting in a change to the project roadmap (schedule or time change)
+
+❤ `Step 2: Deciding to make the change`
+
+◆ Next, how do you decide to actually make the change? There are many decision-making models available to reference. Here are the basic steps involved in most of these models:
+
+* `Identify the “decider”` - It is best to have a single person—generally the Product Owner or a senior stakeholder—in the role of decider to ensure consistency and accountability. 
+* `Develop and share what factors are important to the decision` - and gather supporting data that will help the decider make the decision.
+* `Openly discuss the benefits and costs of the decision` - Identify areas of uncertainty and capture assumptions.
+* `Document the decision`
+
+❤ `Step 3: Implementing the change`
+
+◆ Once changes are approved, it is important to do several things:
+
+* `Document the change and decision-making process` - Include meeting notes, pros/cons lists, assumptions, and data that went into making the decision to change the project.
+* `Capture the change in any affected artifacts` - Update any roadmaps, Product Backlogs, staffing plans, and integration dates, and include a reference to the source of the change so that stakeholders can refer back to it. Consider using revision labels or dates on affected documents like “version 1.2” or “updated on December 20th” so that the team can clearly recognize that the document has changed.
+* `Share the change with all affected stakeholders` - You can do this through many types of forums: in person at meetings, in documentation and meeting notes, and through email announcements. 
+* `Monitor the change for a certain amount of time` - This ensures that the team is supportive and aware of the change.
+
+★ If the change was not approved during the decision stage, you should still document the information and logic used to make the decision. You may even consider putting a change on hold while you wait for more information to make the decision with higher confidence.
+
+Coaching versus managing in Agile
+=========================
+◆Both managing and coaching play important roles in project management. The difference in each approach is in communication. Management is about giving direction, while coaching is about teaching. Some situations will call for coaching, and others will call for management. As a project manager, it is important that you understand when each skill set is necessary for success. 
+
+★ `Managing`
+
+❤ So far, we have focused on the responsibilities of project managers. We know that project managers are tasked with delivering a project objective and solving problems as they arise. Project managers keep team members organized and on track. They streamline communication and give directions. This is very indicative of a traditional management approach. At its core, managing requires overseeing the work of others and can include: 
+
+* Onboarding and orienting new employees
+* Conducting meetings
+* Delegating tasks and assignments
+* Monitoring progress and performance against those tasks
+* Making high-level decisions
+
+❤ In Agile project management, however, teams are designed to be self-managing. A self-managing team has the autonomy to choose how best to accomplish their work, rather than being directed by others from the top down. Agile team members should also feel empowered and equipped to problem-solve on their own.
+Even so, there are some cases where the decisive action of a manager is required. Examples include if there is an emergency that needs immediate action, if you are behind on a deadline, or if a client has very specific needs and you are the most familiar with them. In a results-driven project with little room for error, someone needs to step in and take the lead. That is where a managing approach comes in. 
+
+★ `Coaching`
+
+❤ Although managing seems inherent to project management, coaching is also an important part of the project management role. 
+Coaching is a two-way communication style aimed at influencing and developing team members’ skills, motivation, and judgment. Coaching empowers team members to arrive at solutions on their own by teaching them critical thinking and decision-making skills. This is achieved through offering feedback and providing opportunities for professional development. When challenges arise, coaches will offer guidance, then get out of the way. Coaches don’t jump in during times of crisis in a way that a manager would. Coaches ask questions to help team members arrive at conclusions on their own.  
+Coaches trust that their team members can make smart decisions, and trust can go a long way. When team members feel trusted, workplace satisfaction increases, and the quality of work improves. 
+
+❤ It is appropriate to use a coaching approach when a team member already has experience working on similar projects and is working on growing new competencies or is trying a new approach for the first time. Coaching is about building confidence and capabilities so that individuals can continuously grow and improve. There are a few principles to keep in mind when coaching: 
+
+1. Motivate: Coaches motivate team members to take action. They point out the value in others’ work and instill within them a sense of pride in what they do. 
+2. Support: Coaches are an accessible resource for their team to come to when they experience problems or if they have an idea they want their feedback on. 
+3. Encourage and appreciate: When someone on their team is struggling with a heavy workload, a coach will acknowledge and validate the weight of their efforts and assure them that they are capable of handling the challenges ahead.
+
+❤ Coaching is appropriate in many circumstances, especially when you need to build up the confidence of an individual or a team. The most effective leaders strike a healthy balance between managing and coaching based on the needs of the situation, individual, and project they are leading. Examples of where coaching would be helpful include when a team member is branching out into using a new technology or discipline that will turbocharge their career opportunities, when an individual’s behavior is having unintended consequences on the team dynamics that are not readily visible, or if a team is recovering from a setback.
+
+❤ Here’s a scenario where a project manager or Scrum Master should step in to coach a team: Imagine a Scrum team has failed to launch a product that meets the customer needs Sprint after Sprint. The Product Owner continues to communicate to the team that the features are not quite right, and they need to rework the product in the next Sprint or release. The team feels deflated, and they are showing signs of burnout because they keep working on the same three features. Here is a perfect opportunity to do some coaching with the whole team. Consider bringing them together for a working session and cycle through all three principles of coaching:
+
+1. Motivation: Ask the team to brainstorm positive reasons why the customer is providing this feedback and why it matters to create an excellent end product.  
+2. Support: Work with the team to capture ideas on how to streamline the customer feedback process, such as a design Sprint with the customer in attendance.
+3. Encourage and appreciate: Set up an event where the team celebrates the work they have accomplished so far, and make the event fun and inclusive for all team members.
+
+❤ Managing and coaching are distinct leadership approaches that each yield different results, and both styles require effective communication. A managing style typically utilizes one-way communication to assign tasks and give directives. Coaching relies on open communication in both directions to help develop an employee’s or team’s skills, so they can become self-sufficient. Some team members and company cultures will naturally favor one style over another, but both are necessary leadership skills. As an Agile project manager or Scrum Master, you will use both styles. That said, in Agile and Scrum, a coaching style is usually the best initial option since it will increase the capabilities of the team, leading to more agility over time. 
+When deciding which approach to use, ask yourself:  
+
+1. What is the desired outcome? 
+2. What is the skill level of the team member who has encountered a problem? 
+3. What does the situation need now to reach the desired outcomes?
