@@ -173,9 +173,9 @@ Project Lifecycle
 * `RACI Chart 2 <test4>`_
 .. _test: https://docs.google.com/spreadsheets/d/1RR6ioh3yStTLRQ5mB3AePeZ8-bzRMoE4pG1ZLhxEb3M/edit?usp=sharing
 
-.. _test: https://etc.fsh.ee
-
 `this was a triumph <test2>`_
+    
+.. _test2: https://hotonah.com
 
 ★ `Make a Plan` - for how you'll meet the goals of your project. Breakdown of the tasks, ways to communicate, team roles & responsibilities, schedule, resources, & what to do in case your project encounters problems or needs to change. Make a project plan from start to finish. Outline the important deadlines, tasks for the project to be successful. Create a schedule to account for all the resources, materials, and tasks needed to complete the project.
 
