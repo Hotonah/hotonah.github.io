@@ -236,7 +236,7 @@ Sprint Planning
 
 Daily Sprint
 =======================
-◆ 15 minutes – Time to synchronize & prioritize at the same time & place everyday.
+◆Daily Scrum, which is sometimes referred to as stand up, is a time for the Scrum Team to synchronize and prioritize activities for the day. In 15 minutes, and at the same time and place every day, each team member answers the following questions: What did I do yesterday that helped the Development Team, meet the Sprint goal? What will I do today to help the Development Team meet the Sprint goal? Do I notice any impediment that prevents me or the Development Team from meeting our goals? Daily stand ups should provide the Scrum Master with the opportunity to quickly unblock the team with little delay. And Daily Stand-ups are an opportunity to reinforce focus on the Sprint Backlog and Sprint Goal. The official Scrum Guide says that Daily Stand-ups must happen every single day, though I will say I have had successful Scrum Teams who meet less frequently than that. My current Scrum Team has a one week Sprint and we have stand-ups two days during the week. We found that this works really well for us. Try it out and see what works best for your team. 
 
 ❤ What did I do yesterday that helped the development team meet the sprint goal?
 
@@ -244,11 +244,13 @@ Daily Sprint
 
 ❤ Do I notice any impediment that prevents me or the development team from meeting our goals?
 
-★ This is an opportunity to reinforce focus on the sprint backlog & sprint goal?
+★ This is an opportunity to reinforce focus on the sprint backlog & sprint goal.
 
 Sprint Review
 ===============
-★ Meet with the entire team – product is demonstrated in order to determine which aspects are finished & which are not. Development team & product owner play a heavy role in inspection & discussion.
+❤ At the closing of a Sprint, the team will complete another event, known as the Sprint Review. This Sprint event is crucial to the Scrum Pillars of inspection and adaptation, and demonstrates the values of openness, courage, and respect. Let's discuss what I mean by that.
+
+★ The Sprint Review is a meeting with the entire Scrum Team where the product is demonstrated in order to determine which aspects are finished and which aren't. During a Sprint Review, the Development Team and Product Owner will play a heavy role in this inspection and discussion. They will also cover an exploration of which items should be considered done in the Product Backlog, and they'll demonstrate and inspect the product. Sprint Reviews should be really fun and uplifting. The Sprint Review is when the team gets to impress each other with the cool things they've accomplished over the last 1 to 4 weeks. These time-boxed meetings should not exceed four hours and they're a good opportunity for the team to practice the Scrum Values of openness and respect, as they give feedback about the completed work. Often, some of the greatest product ideas come out of the Sprint Review.
 
 Sprint Retrospective
 ==================
