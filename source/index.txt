@@ -163,6 +163,7 @@ Project Lifecycle
 ★ `Initiate the Project` - This is the launchpad for the entire project: Gather skillsets required, timeline, & costs. Define project goals & deliverables, identify the budget & resources you'll need, the people involved in your project, & any other details that can impact the successful completion of your project. Document all this information in once place to showcase the projects value & get approval to move forward.
 
 ❤ `Documents created in this phase`:
+
 * `Project Charter <test>`_
 .. _test: https://docs.google.com/document/d/1hbKjSAiq3VvIB1aLjazNck4U5kUvAhNQBa4IYrNq3Sg/edit?usp=sharing
 * 
