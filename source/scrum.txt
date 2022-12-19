@@ -37,7 +37,7 @@ Scrum Characteristics
 
 ❤ `Organizational Transfer of Learning` - Everyone is encouraged to learn skills that may be new to them as they support other team members.
 
-.. image:: media/Umbrella.png
+.. image:: media/Agile_Um.PNG
 
 Three Pillars of Scrum
 ===========================
