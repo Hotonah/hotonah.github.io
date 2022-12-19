@@ -35,7 +35,7 @@ Process improvement – Find where problems are occurring in current processes a
 * Establish Pull - Pulling on product
 * Preserve Perfection - Continuously improve
 
-.. image:media/Umbrella.png
+.. image:: media/Umbrella.png
 
 Agile vs Waterfall
 ================
