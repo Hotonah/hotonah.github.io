@@ -172,6 +172,8 @@ Project Lifecycle
 .. _test3: https://docs.google.com/spreadsheets/d/1UXsIM6wEvnhjrI2SklvNltrK9txsrNqA0Vmh5qhcLK4/edit?usp=sharing
 * `RACI Chart 2 <test4>`_
 .. _test4: https://docs.google.com/spreadsheets/d/1RR6ioh3yStTLRQ5mB3AePeZ8-bzRMoE4pG1ZLhxEb3M/edit?usp=sharing
+* `Quality Standards <test14>`_
+.. _test14: https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg
 
 `this was a triumph <test>`_
     
@@ -204,8 +206,34 @@ Project Lifecycle
 
 ❤ `Documents created in this phase`:
 
+* `Project Status Reports <test15>`_
+.. _test15: https://docs.google.com/spreadsheets/d/1bPNLLhd-P6VL8AQrJgyP4ZcdRr04stt5pvtJ8zmJ1Fc/edit?usp=sharing
+* `Create Survey Questions <test16>`_
+.. _test16: https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg
+* `Present Survey Results <test17>`_
+.. _test17: https://docs.google.com/presentation/d/12jLeHJT4jfyqggyYhnL3ImaWOmjz_o8Kld4rw1uPEDk/edit?usp=sharing
+* `Retrospective Email <test19>`_
+.. _test19: https://docs.google.com/document/d/1Jxs7KDxHp9PipGBREGIJQNImFfL3EAGdxEzBkX8Rg9M/edit?usp=sharing&resourcekey=0-varcMcCYu0Umdvl2-1n-4A
+* `Meeting Agenda <test20>`_
+.. _test20: https://docs.google.com/document/d/1q9S1ftMbQWR-t_ZbA5TXUT3EERFUcIX7x0vqVBRFPBI/edit?usp=sharing
+* `Retrospective <test21>`_
+.. _test21: https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing
+* `Meeting Notes <test22>`_
+.. _test22: https://docs.google.com/document/d/1V0yeIQAAAu3epCE7kWLnueWv8E5tzTUf/edit?usp=sharing&ouid=101002792930404714638&rtpof=true&sd=true
+* `Email Coalition <test23>`_
+.. _test23: https://docs.google.com/document/d/1pFc8hrsyDFfOy8MT_S2YHMs8lCWFKGSx0j9ZxL0Nk18/edit?usp=sharing
+* `Escalation Email <test24>`_
+.. _test24: https://docs.google.com/document/d/17kxLlcI_pp8iL9TL7z9Z5yEi-ToW6F1OcGwOqgscjfA/edit?usp=sharing
+* `ROAM Analysis <test25>`_
+.. _test25: https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing
+
 ★ `Close the Project` - Celebrate all the team's hard work! Make note of what worked & what did not, so you can plan better for future projects. Closing is a time for project reflection. 
 
 ❤ `Documents created in this phase`:
+
+* `Closeout Report <test26>`_
+.. _test26: https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGqfVia52d6VqS6reOQecgr7Enp4/edit?usp=sharing
+* `Impact Report <test27>`_
+.. _test27: https://docs.google.com/presentation/d/1tnY_LFGXR_MWHGs8tx913Qcbu66OLnTI-S1t7AoxiuM/edit?usp=sharing
 
 .. image:: media/it.png
