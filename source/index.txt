@@ -165,6 +165,7 @@ Project Lifecycle
 ❤ `Documents created in this phase`:
 
 * `Project Charter <https://docs.google.com/document/d/1hbKjSAiq3VvIB1aLjazNck4U5kUvAhNQBa4IYrNq3Sg/edit?usp=sharing>`_
+* `SMART Goals <https://docs.google.com/document/d/1-Jxi3j_FwX8sFQ4TQJFz4P0Vza4L6gT2V2cQNFG3_DA/edit?usp=sharing>`_
 * `Stakeholder Analysis <https://docs.google.com/presentation/d/1qOxMk-8Fwhss3GvGAS7LHewLROBiNArB_jrMdVtW_xY/edit?usp=sharing>`_
 * `RACI Chart 1 <https://docs.google.com/spreadsheets/d/1UXsIM6wEvnhjrI2SklvNltrK9txsrNqA0Vmh5qhcLK4/edit?usp=sharing>`_
 * `RACI Chart 2 <https://docs.google.com/spreadsheets/d/1RR6ioh3yStTLRQ5mB3AePeZ8-bzRMoE4pG1ZLhxEb3M/edit?usp=sharing>`_
