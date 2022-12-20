@@ -11,6 +11,8 @@ Project Initiation
 
 ★ `Organize Resources` - all the information available to you about the project - Determine stakeholders (anyone involved or impacted by the project) - Determine resources, budget, people, equipment/materials, software programs, vendors, physical space, or locations, & other project details. Anything considered needed to complete the project is a resource. Record all these details in your project proposal and get them approved.
 
+★ `Reference Historical Project Data` - Your project may be similar to a previous project your organization has worked on. It is important to review how past projects were handled including the budget, schedule, project team, roles & responsibilities, risks, & communication plans. Review any past project documents that may help you plan your project, you can even search the web for similar projects to seek extra help.
+
 ★ `Define Project Goals` - Critical tasks - Clarify the details of your project - What you are asked to do & what you're trying to accomplish.
 
 ★ `Scope` - This is the process to define work that needs to happen to complete the project - This is also the time to decide what is in scope & what is out of scope (what is not included in the project) - Set project boundaries.
