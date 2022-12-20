@@ -60,7 +60,7 @@ Planning & Organizing
 
 Focus on the Customer & Team
 ===============================
-Project managers can add value by building relationships, make sure the team is heard and satisfied with the result. Understand the team's motivation, strengths, and weaknesses. To build the right team, consider the skills and resources needed for the project. Allow the team to have input, ask questions, and address their needs ASAP. Clearly understand customer expectations. Write/gather requirements for customers and translate information into documentation for engineers so they can implement it. Manage timelines, tasks, understand all the pieces of who needs to be involved. 
+❤ Project managers can add value by building relationships, make sure the team is heard and satisfied with the result. Understand the team's motivation, strengths, and weaknesses. To build the right team, consider the skills and resources needed for the project. Allow the team to have input, ask questions, and address their needs ASAP. Clearly understand customer expectations. Write/gather requirements for customers and translate information into documentation for engineers so they can implement it. Manage timelines, tasks, understand all the pieces of who needs to be involved. 
 
 Build the Project Team
 ==========================
@@ -158,9 +158,13 @@ Influencing is the ability to alter another person's thinking or behaviors.
 Handling Ambiguity
 ===================
 ❤ Keep calm
+
 ❤ Express empathy - let them know you care about the challenges they're facing & are there for support
+
 ❤ Communicate what you know clearly - define the aspects of the project that are confirmed & will not change regardless of the unknown
+
 ❤ Make decisions and stick to them - try not to second guess yourself in front of the team. If you need to change course, clearly explain why
+
 ❤ Trust the expertise of your team - increase clarity by having everyone discuss what they already know or believe to be true about the project, such as what is involved in specific tasks or resources needed, based on their areas of expertise. Then discuss what you don't know & brainstorm ways to gather more info
 
 Project Lifecycle
