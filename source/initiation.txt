@@ -21,9 +21,9 @@ Project Initiation
 
 ★ `Select Success Criteria` - These will measure how successful the project was at reaching our goals. `Quality Standards <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
 
-★ `Create `Project Charter <https://docs.google.com/document/d/1DyHE7xDgpKCcy6b0VKEILxcyNm6Tk-OA3d-ecrev43Y/edit?usp=sharing&resourcekey=0-TEJQtXbnGWTEiTYu01k6WQ>`_` - Document work: scope, goals, & deliverables - Clearly defines the project & the project goals, then outlines what is needed to accomplish them. The charter sets a framework for what needs to get done & communicates those details to all stakeholders. - `Project Charter <https://docs.google.com/document/d/1DyHE7xDgpKCcy6b0VKEILxcyNm6Tk-OA3d-ecrev43Y/edit?usp=sharing&resourcekey=0-TEJQtXbnGWTEiTYu01k6WQ>`_
+★ Create `Project Charter <https://docs.google.com/document/d/1DyHE7xDgpKCcy6b0VKEILxcyNm6Tk-OA3d-ecrev43Y/edit?usp=sharing&resourcekey=0-TEJQtXbnGWTEiTYu01k6WQ>`_ - Document work: scope, goals, & deliverables - Clearly defines the project & the project goals, then outlines what is needed to accomplish them. The charter sets a framework for what needs to get done & communicates those details to all stakeholders.
 
-★ `Determine `Methodology <https://hotonah.github.io/hotonahcom/methodologies>`_`
+★ Determine `Methodology <https://hotonah.github.io/hotonahcom/methodologies>`_
 
 ★ `Select Tools` 
 
