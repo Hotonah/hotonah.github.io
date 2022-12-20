@@ -189,6 +189,8 @@ Project Lifecycle
 ==================
 ★ `Initiate the Project` - This is the launchpad for the entire project: Gather skillsets required, timeline, & costs. Define project goals & deliverables, identify the budget & resources you'll need, the people involved in your project, & any other details that can impact the successful completion of your project. Document all this information in once place to showcase the projects value & get approval to move forward.
 
+.. image:: media/cycle.PNG
+
 ❤ `Documents created in this phase`:
 
 * `Project Charter <https://docs.google.com/document/d/1hbKjSAiq3VvIB1aLjazNck4U5kUvAhNQBa4IYrNq3Sg/edit?usp=sharing>`_
@@ -233,5 +235,3 @@ Project Lifecycle
 
 * `Closeout Report <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGqfVia52d6VqS6reOQecgr7Enp4/edit?usp=sharing>`_
 * `Impact Report <https://docs.google.com/presentation/d/1tnY_LFGXR_MWHGs8tx913Qcbu66OLnTI-S1t7AoxiuM/edit?usp=sharing>`_
-
-.. image:: media/it.png
