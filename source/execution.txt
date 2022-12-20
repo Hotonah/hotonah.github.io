@@ -47,13 +47,13 @@ Types of Tracking Methods
 
 ◆ `Commonly Tracked Items:`
 
-❤ Schedule – Tasks & Activities
-❤ Status of Action Items
-❤ Tracking Progress Towards Milestones
-❤ Costs
-❤ Risks
-❤ Scope
-❤ Dependencies
+* Schedule – Tasks & Activities
+* Status of Action Items
+* Tracking Progress Towards Milestones
+* Costs
+* Risks
+* Scope
+* Dependencies
 
 Collecting & Analyzing Data
 =======================
@@ -92,10 +92,10 @@ Data Visualization
 
 ◆ `Other Data Visualization Tools:`
 
-❤ Scatter Plots – Show Relationships
-❤ Bar Graphs – Compare Value, Clarify Trends, & Identify Patterns
-❤ Pie Charts – Demonstrate Composition & Shows how much each part makes a whole
-❤ Line Graphs – Analyze Trends & Behaviors & Shows Change Over Time
+* Scatter Plots – Show Relationships
+* Bar Graphs – Compare Value, Clarify Trends, & Identify Patterns
+* Pie Charts – Demonstrate Composition & Shows how much each part makes a whole
+* Line Graphs – Analyze Trends & Behaviors & Shows Change Over Time
 
 ★ When it is time to present you data to your audience, you do not just want to tell them about your findings & what they mean. You want to `show` them. Data visualization helps us organize data & turn it into information that is clear & easy for your audience to digest. Figure out what data you want to show your audience & `why`.
 
@@ -137,7 +137,7 @@ Presenting Data to Tell a Story
 
 ❤ Be clear & specific about what you want to get out of the meeting, frame the discussion with that goal in mind. Tell them exactly what you are looking for & send slides to audience in advance.
 
-❤ If appropriate send a follow-up email with summary notes, action items, & time frames.`Communication Practices <https://hotonah.github.io/hotonahcom/planning#id12>`_
+❤ If appropriate send a follow-up email with summary notes, action items, & time frames. `Communication Practices <https://hotonah.github.io/hotonahcom/planning#id12>`_
 
 ❤ Ask for feedback what went well & what could have gone better? 
 
@@ -146,7 +146,7 @@ Continuous Improvements
 
 .. image:: media/Retro_Framework.PNG
 
-❤ Conduct a Retrospective (Retros) – Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases. You can conduct retros when you miss deadlines, miscommunications, end of sprints, etc. This is a form of process improvement.
+❤ Conduct `Retrospectives <https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing>`_ – Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases. You can conduct retros when you miss deadlines, miscommunications, end of sprints, etc. This is a form of process improvement.
 
 * Encourage Team Building
 * Improved Collaboration
@@ -160,7 +160,7 @@ Continuous Improvements
 
 ❤ `Project Summary` - Fill in basic project information.
 
-*  Goals & Objectives
+* Goals & Objectives
 * Duration
 * Team Members
 * Methodology
@@ -176,5 +176,3 @@ Continuous Improvements
 ❤ `Future Considerations` - Ask team to think about next steps in their list & risks that could come up & impede their success. Project manager should take notes on risks & mitigation plans. 
 
 ❤ `Resources & Notes` - Retro serves as a reference for how that project went & what was accomplished. Add project notes which the team found valuable.
-
-`Retrospective <https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing>`_
