@@ -77,7 +77,7 @@ Questions When Interviewing Key Stakeholders
 
 Setting Goals
 ================
-★ `Objective & Key Results <https://drive.google.com/drive/folders/1sGMUvV0rHaajIE2-Z8x3DtE69y6YmM7h>`_ (OKRs): Combine a goal & a metric to determine a measurable outcome. If you do not know the companies OKRs, remember to ask. The more you can relate your smaller project goals to the companies larger OKRs, the more valuable your project will seem to the company as a whole and they will more likely approve your project moving forward. 
+★ `Objective & Key Results <https://docs.google.com/document/d/1QhQHUOf6R5iQJkDeu8SG_mSYV-RJnGPjPBOORC3sGEQ/edit?usp=sharing>`_ (OKRs): Combine a goal & a metric to determine a measurable outcome. If you do not know the companies OKRs, remember to ask. The more you can relate your smaller project goals to the companies larger OKRs, the more valuable your project will seem to the company as a whole and they will more likely approve your project moving forward. 
 
 ❤ `Objective`
 
