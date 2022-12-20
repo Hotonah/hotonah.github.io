@@ -21,7 +21,7 @@ Planning the Project
 
 ★ `Create a Work Breakdown Structure (WBS)` - A visual tool that sorts milestones & tasks of a project in a hierarchy. The tasks should be visable in one place with clear descriptions, owners, & due dates. Should also contain detailed milestones & statuses related to the tasks. Helps understand all of the essential project tasks like, estimating costs, developing schedules, assigning roles & responsibilities, & tracking progress - Use tools like Asana or Tree Diagrams to create your WBS.
 
-❤ `Develop a `WBS <https://docs.google.com/spreadsheets/d/1Qeww1m7-ZvAiO-0xHACCG91aGjbDfR4nxDSBiyM_AWY/edit?usp=sharing&resourcekey=0-nmxxXkRTioysq61EcVGvgQ>`_:` 
+❤ Develop a `WBS <https://docs.google.com/spreadsheets/d/1Qeww1m7-ZvAiO-0xHACCG91aGjbDfR4nxDSBiyM_AWY/edit?usp=sharing&resourcekey=0-nmxxXkRTioysq61EcVGvgQ>`_ 
 
 * Brainstorm with the team to list major deliverables & milestones
 * Identify taskes to meet milestones
@@ -29,14 +29,14 @@ Planning the Project
 
 .. image::media/wbs.PNG
 
-★ `Create a `Schedule & Gantt Chart <https://docs.google.com/spreadsheets/d/165nB6opSYj0oup4Nm7BuWmiruAmQsE_CIzyHL1CqgTM/edit?usp=sharing>`_` - Create a plan from start to finish - Use scheduleing tools lik e MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule - Properly manage resources, budget, materials, & Timeline. 
+★ Create a `Schedule & Gantt Chart <https://docs.google.com/spreadsheets/d/165nB6opSYj0oup4Nm7BuWmiruAmQsE_CIzyHL1CqgTM/edit?usp=sharing>`_ - Create a plan from start to finish - Use scheduleing tools lik e MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule - Properly manage resources, budget, materials, & Timeline. 
 
-★ `Set Costs & Create `Budget <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc6ZR_oMxj7uFKjZJTt_7HDc0/edit?usp=sharing>`_` - Estimate costs of tasks & milestones (Link to Budget Section)
+★ Set Costs & Create `Budget <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc6ZR_oMxj7uFKjZJTt_7HDc0/edit?usp=sharing>`_ - Estimate costs of tasks & milestones
 
 ★ `Procurement` - Legal documents of what you need from the vendor & what they need from you - Documents include: non disclosure agreement (NDA), Request for proposal (RFP), & statement of work (SOW).
 
-* `Request for Proposal (RFP) <https://docs.google.com/document/d/1zNbopN-IEZLrotVVHjswR85b19cwCbo0QeHDhaAKknY/edit?usp=sharing>`_ Includes: Overview, scope, goals, milestones, submittion requirements, questions you'd like the vendor to answer. (Link to RFP template or example)
-* `Statement of Work (SOW) <https://docs.google.com/document/d/1HUUx9zyXZ2wHSEj3dnxHS8Yo3oamT1wgRru-PMXT6Yc/edit?usp=sharing>`_ Includes: Products and services a vendor or contraactor will provide for the organization - Ask for input from SMEs' when writting the contract. (Link to SOW)
+* `Request for Proposal (RFP) <https://docs.google.com/document/d/1zNbopN-IEZLrotVVHjswR85b19cwCbo0QeHDhaAKknY/edit?usp=sharing>`_ Includes: Overview, scope, goals, milestones, submittion requirements, questions you'd like the vendor to answer.
+* `Statement of Work (SOW) <https://docs.google.com/document/d/1HUUx9zyXZ2wHSEj3dnxHS8Yo3oamT1wgRru-PMXT6Yc/edit?usp=sharing>`_ Includes: Products and services a vendor or contraactor will provide for the organization - Ask for input from SMEs' when writting the contract.
 
 1. Initiating: Planning what you need to meet your project goals (NDA)
 2. Selecting: Deciding which supplies & vendors to use (RFP)
@@ -46,9 +46,9 @@ Planning the Project
 
 ★ `Create `Risk Management Plan <https://docs.google.com/document/d/1K_8MrxC_qv0IeusNSPIsRgiJzy2BjNf1LYT3VB7_6hc/edit?usp=sharing>`_` - Risks could include: Budget, schedule, staffing shortages, shipping delays, holidays, sick time, etc. (Insert Link to Risk section)
 
-★ `Create `Communication Plan <https://docs.google.com/spreadsheets/d/1ysubBfB1k8NgwR-Y3kwXNUFAFvVUrR9sglA6poafgK8/edit?usp=sharing&resourcekey=0-fPDA_gUMvP3UdYzfTO9fAg>`_` - (Insert Link to Communication Plan section)
+★ Create `Communication Plan <https://docs.google.com/spreadsheets/d/1ysubBfB1k8NgwR-Y3kwXNUFAFvVUrR9sglA6poafgK8/edit?usp=sharing&resourcekey=0-fPDA_gUMvP3UdYzfTO9fAg>`_ - (Insert Link to Communication Plan section)
 
-★ `Create `Project Plan <https://docs.google.com/spreadsheets/d/1Uu8L845GeFLTBKawECebXj1-RhyqqUPVRt0-aiWr6gQ/edit?usp=sharing>`_` - A document that stores all project documents in one central location - Center of the project plan is the project schedule, which helps estimate the amount of time it will take to complete the project & provides the team with a way to track the projects progress against your goals. (Link to Project plan Template or Example)
+★ Create `Project Plan <https://docs.google.com/spreadsheets/d/1Uu8L845GeFLTBKawECebXj1-RhyqqUPVRt0-aiWr6gQ/edit?usp=sharing>`_ - A document that stores all project documents in one central location - Center of the project plan is the project schedule, which helps estimate the amount of time it will take to complete the project & provides the team with a way to track the projects progress against your goals.
 
 ❤ `Project Plan Includes:` 
 
@@ -90,7 +90,7 @@ Project Planning Best Practices
 
 ★ `Implement ways to measure customer satisfaction` - Try to imagine what they want, it puts you in a unique place where you need to put yourself in their shoes & imagine the world or imagine the product through their eyes. Being able to empathize & understand how different people in the world will interact with your product is really important & gives you an amazing perspective.
 
-❤ Customer Feedback Surveys - Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
+❤ Customer Feedback Surveys - `Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
 ❤ User Acceptance Testing (UAT)
 
 * Present the product
