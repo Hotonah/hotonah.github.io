@@ -217,16 +217,16 @@ Sprint
 
 Sprint Planning
 ==============
-◆ The entire team comes together & meets to confirm how much capacity, time, & people, are available during this sprint & then they identify what items from backlog will be done during the sprint. This becomes the sprint backlog & ultimately, the sprint goal.
+❤ The entire team comes together & meets to confirm how much capacity, time, & people, are available during this sprint & then they identify what items from backlog will be done during the sprint. This becomes the sprint backlog & ultimately, the sprint goal.
 
 ★ Scrum master facilitates communication:
 
-❤ Who is available during this sprint?
-❤ Are there any vacations of conflicts?
-❤ What is the teams point capacity?
-❤ How long is the sprint?
-❤ What should we accomplish?
-❤ What is the sprint goal?
+* Who is available during this sprint?
+* Are there any vacations of conflicts?
+* What is the teams point capacity?
+* How long is the sprint?
+* What should we accomplish?
+* What is the sprint goal?
 
 ★ Sprints are the heartbeat of Scrum, where ideas are turned into value.
 
