@@ -81,18 +81,13 @@ Leadership & Management on Teams
 =================================
 1. Create, implement, & improve: standardize, measurable, repeatable & scalable workflows/processes for your team. (i.e. You might set up a process for how & when a teammate should let you know they've completed a task)
 
-
 2. Regular team meetings & status emails. Regularly connect with individual teammates - understand their unique communication styles. Ask people on your team how they prefer to communicate. (i.e. create small talk with those who enjoy it or get straight to the point with colleagues who prefer not to chat. 
-
 
 3. Conduct weekly status meetings, daily standups, schedule time for open, thoughtful & inclusive discussions. You might model this by asking for help solving a problem that is impacting the team. Encourage contributions from all team members regardless of their roles or rank.
 
-
 4. Create motivation by being present, listening, & asking questions. Avoid making assumptions about what someone is thinking or feeling - remain quiet & curious to learn more. - Recognize a job well done!
 
-
 5. Work with your team to build consensus around priorities, explaining your rationale can help you get buy-in & increase their commitment to work. Help the team understand `why` those tasks are a priority to you.
-
 
 6. Celebrate big & small wins - boosts teams' engagement. (Small gift, team lunch, email)
 
@@ -120,34 +115,33 @@ Leadership & Management on Teams
 ==============================
 When conducting meetings make sure they are structured, intentional, collaborative & inclusive. Provide a clear agenda, attendee list, and take detailed notes (maybe ask someone else to take notes for you). After the meeting send a follow-up email to all attendees' include a summary of the meeting and any action items: use bullet points, labels, and hyperlinks in your email.
 
-1. `Project Kick-off Meeting` - The official beginning of a project & serves as a way to align the teams understanding of the project goals with actual plans and procedures.
+❤ `Project Kick-off Meeting` - The official beginning of a project & serves as a way to align the teams understanding of the project goals with actual plans and procedures.
 
-2. `Status Update Meetings` - This category includes regular team meetings where the primary goal is to align the team on updates, progress, challenges, & next steps.
-❤ Overall project health
-❤ Tasks updates - accomplishments
-❤ Schedule status
-❤ Budget status 
-❤ Scope status
-❤ Risks - changes, resource issues, vendor issues
-❤ Action items - wrap-up the meeting
+❤ `Status Update Meetings` - This category includes regular team meetings where the primary goal is to align the team on updates, progress, challenges, & next steps.
 
-3. `Stakeholder Meetings` - The goal of a stakeholder meeting is to get buy-in & support. Sometimes one-on-one basis or sometimes in groups. 
-❤ 2-5 min - present project updates
-❤ Seek out & listen to feedback
-❤ Help make a decision or resolve major issue/s
+* Overall project health
+* Tasks updates - accomplishments
+* Schedule status
+* Budget status 
+* Scope status
+* Risks - changes, resource issues, vendor issues
+* Action items - wrap-up the meeting
 
-4. `Project Reviews` - The end of the project, the end of a project phase, or the end of a significant milestone is an opportunity to review how the project unfolded. Conduct retrospectives throughout the project to review lessons learned about what is going well, what you can keep doing, and what can be improved. Celebrate project success!
+❤ `Stakeholder Meetings` - The goal of a stakeholder meeting is to get buy-in & support. Sometimes one-on-one basis or sometimes in groups. 
+
+* 2-5 min - present project updates
+* Seek out & listen to feedback
+* Help make a decision or resolve major issue/s
+
+❤ `Project Reviews` - The end of the project, the end of a project phase, or the end of a significant milestone is an opportunity to review how the project unfolded. Conduct retrospectives throughout the project to review lessons learned about what is going well, what you can keep doing, and what can be improved. Celebrate project success!
 
 4 Steps for Influencing People
 ===============================
 Influencing is the ability to alter another person's thinking or behaviors.
 
 1. Establish credibility - `Why` they should listen to you!
-
 2. Frame for common good
-
 3. Provide evidence
-
 4. Connect emotionally - Help others achieve their own goals
 
 Handling Ambiguity
