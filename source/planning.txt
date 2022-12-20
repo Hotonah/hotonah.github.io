@@ -31,6 +31,8 @@ Planning the Project
 
 ★ Create a `Schedule & Gantt Chart <https://docs.google.com/spreadsheets/d/165nB6opSYj0oup4Nm7BuWmiruAmQsE_CIzyHL1CqgTM/edit?usp=sharing>`_ - Create a plan from start to finish - Use scheduleing tools lik e MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule - Properly manage resources, budget, materials, & Timeline. 
 
+.. image:: media/schedule.PNG
+
 ★ Set Costs & Create `Budget <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc6ZR_oMxj7uFKjZJTt_7HDc0/edit?usp=sharing>`_ - Estimate costs of tasks & milestones
 
 ★ `Procurement` - Legal documents of what you need from the vendor & what they need from you - Documents include: non disclosure agreement (NDA), Request for proposal (RFP), & statement of work (SOW).
