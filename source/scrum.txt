@@ -2,6 +2,11 @@ Elements of Scrum
 ===============================
 ❤ `Documents created in this phase`:
 
+* `Product Backlog <https://docs.google.com/spreadsheets/d/1p24hXLgZpfpsXIjCKhkOh0_jzc9Uq_5Yi5qUQ8dHvks/edit?usp=sharing&resourcekey=0-fBujRTrK43hsS3mWDZ-SGA>`_
+* `Sprint Backlog <https://docs.google.com/spreadsheets/d/1YCt-YniVt3b7LGTS_OYC9UyWg2oTBWoGacvEiOSY2hs/edit?usp=sharing>`_
+* `Sprint Retro <https://docs.google.com/presentation/d/1k6o3QIdE1aEHbeKtUhHT7zyFi4ZwEcrvmPNcPTHqmdI/edit?usp=sharing>`_
+* `Sprint Retro Email <https://docs.google.com/document/d/1EPnC_1NlKtkCumznxh8bBz8YFz_C8o78soCrqDID9To/edit?usp=sharing>`_
+
 ◆ A framework for developing, delivering, & sustaining complex products. This is a iterative & incremental approach. Scrum is the most popular methodology of agile project management. You form a team that will work together quickly to develop & test a deliverable. The is completed in short cycles & the team meets daily to discuss current tasks & clear-up anything that’s blocking their progress.
 
 ★ `Product Backlog` - The central artifact in scrum, where all possible ideas, deliverables, features, or tasks are captured for the team to work on.
@@ -83,9 +88,8 @@ Scrum Master
 
 ❤ Prevent unhelpful interactions from outside the team. Ask - How can I help?
 
-Product Backlog
+`Product Backlog <https://docs.google.com/spreadsheets/d/1p24hXLgZpfpsXIjCKhkOh0_jzc9Uq_5Yi5qUQ8dHvks/edit?usp=sharing&resourcekey=0-fBujRTrK43hsS3mWDZ-SGA>`_
 ==============
-(Link to example or Template)
 ◆ The single authoritative source for things that a team works on to achieve the product goal.
 
 * Product Features
@@ -101,7 +105,11 @@ Product Backlog
 * Description – Create user stories & epics
 * Value 
 * Order
-* Estimate (effort) – Low, Medium, High – Done in the `Sprint Backlog`
+* Estimate (effort) – Low, Medium, High – Done in the `Sprint Backlog <https://docs.google.com/spreadsheets/d/1YCt-YniVt3b7LGTS_OYC9UyWg2oTBWoGacvEiOSY2hs/edit?usp=sharing>`_
+
+.. image:: media/pb1.PNG
+
+.. image:: media/pb3.PNG
 
 The components of user stories & epics
 =============================================
@@ -174,7 +182,8 @@ T-shirt sizes and story points
 
 * Agrees on the permitted points values. Some teams cap the size at a certain number, like 21. Some teams decide to jump from 21 to 100 as the next larger value. This is a team decision.
 * Identifies at least one anchor backlog item and agrees to assign it a points value. Some teams will choose two anchor items, one at the top of the range and one at the bottom of the range.
-* Sorts through the remaining backlog items as a team, agrees on an estimate for each item, and captures it in the backlog management system. 
+* Sorts through the remaining backlog items as a team, agrees on an estimate for each item, and captures it in the backlog management system.
+
 ★ `Best practices`
 
 ❤ Some best practices, regardless of the technique you use, include:
@@ -189,6 +198,10 @@ T-shirt sizes and story points
 Sprint
 =============
 ◆ Think of it as a mini project – Planning, execution, delivery, closing, & a retrospective all wrapped into a bite-sized package.
+
+.. image:: media/sb1.PNG
+
+.. image:: media/sb2.PNG
 
 ★ `Timeboxes`:
 
@@ -258,7 +271,8 @@ Sprint Retrospective
 
 ◆ Sprint Retrospectives are a key practice that supports the Scrum theory and values. They are a critical moment to inspect and adapt to the outcomes produced within the Sprint timebox. Retrospectives occur much more often in Scrum than in traditional project management, so it is important to consider some best practices and pitfalls to avoid to help make them engaging and productive for the entire team.
 
-(link to sprint retro email)
+* `Sprint Retro <https://docs.google.com/presentation/d/1k6o3QIdE1aEHbeKtUhHT7zyFi4ZwEcrvmPNcPTHqmdI/edit?usp=sharing>`_
+* `Sprint Retro Email <https://docs.google.com/document/d/1EPnC_1NlKtkCumznxh8bBz8YFz_C8o78soCrqDID9To/edit?usp=sharing>`_
 
 ★ `Pitfalls`
 
