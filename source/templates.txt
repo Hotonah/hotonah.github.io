@@ -1,1 +1,76 @@
-templates page
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⠀⠀⠀⣀⣀⣀⠀⠀⠸⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣶⣿⣿⣿⣿⣿⣿⣿⣶⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣾⣿⡟⠁⡠⢄⠙⢿⣿⣿⣿⠿⠿⠿⣿⣿⣿⡿⠁⣠⠤⡈⢻⣿⣧⠀⠀⠀⠀⠀⠀⠀
+⣀⣀⣀⠀⠀⠀⣾⣿⣿⣇⠘⠿⠾⠁⣼⣿⣿⣿⣦⣤⣴⣿⣿⣿⣇⠀⠿⠶⠃⣸⣿⣿⣇⠀⠀⠀⣀⣀⡀
+⠀⠀⠈⠉⠉⢻⣿⣿⣿⣿⣶⣤⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣴⣾⣿⣿⣿⣿⡏⠉⠉⠀⠀⠀
+⠀⠒⠒⠒⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡓⠒⠒⠒⠀
+⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀
+⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠉⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀
+⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀
+⠀⠀⣾⣿⣿⣿⣿⣿⡿⠁⠀⣀⡀⠀⠀⠀⠀⠀⣠⣤⣄⠀⠀⠀⠀⠀⢀⡀⠀⠘⢿⣿⣿⣿⣿⣿⣇⠀⠀
+⠀⢀⣿⣿⣿⣿⣿⡟⠀⢀⣾⡿⢿⣦⡀⠀⢠⡾⠛⠛⠛⢷⡄⠀⣠⣾⠿⣿⣷⡀⠈⣿⣿⣿⣿⣿⣿⠀⠀
+⠀⢸⣿⣿⣿⣿⣿⠃⠀⠛⠃⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠙⠓⠀⢸⣿⣿⣿⣿⣿⠀⠀
+⠀⢸⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⠀⠀
+⠀⠘⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⠀⠀
+⠀⠀⢻⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⡏⠀⠀
+⠀⠀⠈⢿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⡟⠀⠀⠀
+⠀⠀⠀⠈⠻⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⡿⠏⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠶⣤⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣠⣴⠾⠿⠛⠛⠉⠀⠀⠀⠀⠀⠀
+
+Initiation
+=====================
+
+* `Project Charter <https://docs.google.com/document/d/1JNTAwZLM_3InKEKV7Ffr9VhrqkNA3727NvNt-E7Q8EY/edit?usp=sharing>`_
+* `Stakeholder Analysis <https://docs.google.com/presentation/d/1nqfuXznSJ3l3Oo7rtTkCLQOVwPCvkBNft6BOjOgNvnI/edit?usp=sharing>`_
+* `SMART Goals <https://docs.google.com/document/d/1-Jxi3j_FwX8sFQ4TQJFz4P0Vza4L6gT2V2cQNFG3_DA/edit?usp=sharing>`_
+* `Project OKRs <https://docs.google.com/document/d/18e07EAVw4moBUr4teob2r2lfW8UPP6YIestTnMNjgO8/edit?usp=sharing>`_
+* `RACI Chart Phase 1 <https://docs.google.com/spreadsheets/d/1SCtzi8WL2vFlGeRVKUxWL-_Fh4i1r8kOthQXmowEcoI/edit?usp=sharing>`_
+* `RACI Chart Phase 2 <https://docs.google.com/spreadsheets/d/1g9bmTo0EEYnF6qpZCkgJB8WThxLwOQ9DMbnZ5IpOH1o/edit?usp=sharing>`_
+* `Quality Standards <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
+
+Planning
+=======================
+
+* `WBS Brainstorm <https://docs.google.com/presentation/d/1nvG1en6tFlgxrCSHUUJGsvLFbNjvmBN64tRuYf0JAzg/edit?usp=sharing>`_
+* `WBS <https://docs.google.com/spreadsheets/d/16wrQAvtOhsJPa_IKy4SCCjrUZ5Bj8WxlQpkn7HbfRbY/edit?usp=sharing>`_
+* `Schedule & Gantt Chart <https://docs.google.com/spreadsheets/d/11PJKmOxELeXvN0OpHRwAGPkYwcDh49qapnASYWP9eNw/edit?usp=sharing>`_
+* `Communication Plan <https://docs.google.com/spreadsheets/d/1YuR49uNGZBstH7HQZI008fgLmNQq3qkC4wY0Yzlg_t4/edit?usp=sharing>`_
+* `Budget Template <https://docs.google.com/spreadsheets/d/1wBXbp_8YAY7xeKrRFtys2T-VkTG4zBR9n3bI6uY-F94/edit?usp=sharing>`_
+* `Risk Management Plan <https://docs.google.com/document/d/1VBl8bv_AOmv-2D91oUpYlJG3ZGDO71F-_oVVM-J3_TA/edit?usp=sharing>`_
+* `Project Plan <https://docs.google.com/spreadsheets/d/1fK0YhvccMjJh0cX3woNnfPfOBEkVCQyryOqmouBYnJA/edit?usp=sharing>`_
+* `Statement of Work (SOW) <https://docs.google.com/document/d/1HUUx9zyXZ2wHSEj3dnxHS8Yo3oamT1wgRru-PMXT6Yc/edit?usp=sharing>`_
+* `Request for Proposal (RFP) <https://docs.google.com/document/d/1zNbopN-IEZLrotVVHjswR85b19cwCbo0QeHDhaAKknY/edit?usp=sharing>`_
+
+Execution
+====================
+
+* `Status Report <https://docs.google.com/spreadsheets/d/1wG6eczC8ovR5MxYrRD6zgDaXJF_EoeWy6FctCvMbb7Q/edit?usp=sharing>`_
+* `Meeting Agenda <https://docs.google.com/document/d/1_qZDXLs3i5WQjTqI9I6skxR3iNB4hzZkzSt3sj8M8IE/edit?usp=sharing>`_
+* `Retrospective Meeting <https://docs.google.com/document/d/1swWpcg8NLWaYrVj5qKkRdDRO7bI7zvTI_cYlFyoI7g8/edit?usp=sharing&resourcekey=0-gdVEs3xIB4Ez7O67H3hTww>`_
+* `Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
+* `Present Survey Results <https://docs.google.com/presentation/d/12jLeHJT4jfyqggyYhnL3ImaWOmjz_o8Kld4rw1uPEDk/edit?usp=sharing>`_
+* `Meeting Notes <https://docs.google.com/document/d/1V0yeIQAAAu3epCE7kWLnueWv8E5tzTUf/edit?usp=sharing&ouid=101002792930404714638&rtpof=true&sd=true>`_
+* `Roadmap <https://docs.google.com/spreadsheets/d/1vDJjeOn10XFGgU2fROZKRlPiR5SEMT76uL4pBOnP0es/edit?usp=sharing&resourcekey=0-p-tXXLkA3B5xEApYSUCFXg>`_
+* `ROAM Analysis <https://docs.google.com/spreadsheets/d/1h65QTVufEG2bgbV-UEbWg_Jm3CSgU7JnLW6K_cpsg08/edit?usp=sharing>`_
+* `Retrospective Review <https://docs.google.com/spreadsheets/d/1Qla6xNcXgL54bHtEqVC8byviYBh4y9BOnlhQ7tqdPp8/edit?usp=sharing>`_
+* `Escalation Email <https://docs.google.com/document/d/17kxLlcI_pp8iL9TL7z9Z5yEi-ToW6F1OcGwOqgscjfA/edit?usp=sharing>`_
+
+Closing
+==============
+
+* `Close Out Report <https://docs.google.com/document/d/1_iT40yTMrNWse_PHMLarR58V064t3f9Hb8GQodbpARs/edit?usp=sharing>`_
+* `Impact Report <https://docs.google.com/presentation/d/1tnY_LFGXR_MWHGs8tx913Qcbu66OLnTI-S1t7AoxiuM/edit?usp=sharing>`_
+
+Scrum
+==============
+
+* `Product Backlog <https://docs.google.com/spreadsheets/d/1pVFHKBP-97tCr1j6jFTDrZW7Kb1fIchlUO_lBX7i2Jk/edit?usp=sharing>`_
+* `Sprint Retro Email <https://docs.google.com/document/d/1T98RBhFIOW2bZC47TcXAV7h8cG0KPiTPEQNJMU97SVg/edit?usp=sharing>`_
