@@ -140,6 +140,8 @@ Leadership & Management on Teams
 * Give teammates meaning
 * Recognize everyone's value no matter how small, each step of the way!
 
+.. image:: media/kind.PNG
+
 4 Types of Project Meetings
 ==============================
 ❤ When conducting meetings make sure they are structured, intentional, collaborative & inclusive. Provide a clear agenda, attendee list, and take detailed notes (maybe ask someone else to take notes for you). After the meeting send a follow-up email to all attendees' include a summary of the meeting and any action items: use bullet points, labels, and hyperlinks in your email.
