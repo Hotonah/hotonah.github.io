@@ -118,3 +118,5 @@ Project `Closeout Report <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGq
 ❤ Be sure to list resources & team members. Explain who is involves? What their roles were – To acknowledge people. 
 
 ❤ Finally include a resources project achieve section with links to things like your original project plan, documented communication, feedback (like meeting notes), documents used to track &monitor, reports, technical info, user guides, & manuals. 
+
+.. image:: media/celebrate.PNG
