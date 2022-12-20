@@ -74,18 +74,20 @@ Project Planning Best Practices
 
 ★ Hold retrospective meetings: Focuses on identifying the contributing cause of an incident `without blaming anyone.` You should `always assume that everyone has good intentions & did the right thing with the information they had` whether or not it worked out well in the end. There's always a chance to learn & do better. It's important to identify effective techniques for communicating changes to the team or an individual.
 
-❤ Carefully review deliverables, milestones, & tasks
-❤ Give yourself time to plan
-❤ Recognize & plan for the inevitable: things will go wrong (Link to Risk Section)
-❤ Stay curious
-❤ Reference Historical Project Data
-❤ Utilize your team, mentors, or manager
-❤ Check, Check, and Double Check!
+* Carefully review deliverables, milestones, & tasks
+* Give yourself time to plan
+* Recognize & plan for the inevitable: things will go wrong (Link to Risk Section)
+* Stay curious
+* Reference Historical Project Data
+* Utilize your team, mentors, or manager
+* Check, Check, and Double Check!
 
 ★ `Define quality standards at the beginning of the projet` - Well defined standards
 
 ❤ Quality Planning - Determine the quality standard & processes to satisfy them
+
 ❤ Quality Assurance - Regularly check-in to make sure you & your team are meeting those agreed on standards
+
 ❤ Quality Control - Correct any areas that are not meeting the set standards
 
 `Quality Standards <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
@@ -93,6 +95,7 @@ Project Planning Best Practices
 ★ `Implement ways to measure customer satisfaction` - Try to imagine what they want, it puts you in a unique place where you need to put yourself in their shoes & imagine the world or imagine the product through their eyes. Being able to empathize & understand how different people in the world will interact with your product is really important & gives you an amazing perspective.
 
 ❤ Customer Feedback Surveys - `Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
+
 ❤ User Acceptance Testing (UAT)
 
 * Present the product
@@ -105,10 +108,15 @@ Estimating Times for Tasks
 ★ How do you estimate the the amount of time a given tasks will take, you do this will the help of your team. Ask team members assigned to the tasks what they think. 
 
 ❤ How long does this take?
+
 ❤ How complex are the steps to complete this taks?
+
 ❤ What are the risks associated with the task?
+
 ❤ When do you think you can have this ready?
+
 ❤ Negotiate
+
 ❤ Ask about their workload, vacations, holidays, etc.
 
 ★ `Time Estimation` - Prediction of the total amount of time that it will take to complete a task 
@@ -126,25 +134,31 @@ Estimating Times for Tasks
 * `Critical Path Method for Beginners <https://www.workamajig.com/blog/critical-path-method>`_
 * `Critical Path Method: Project Management Essential <https://www.wrike.com/blog/critical-path-is-easy-as-123/>`_
 
-❤ List tasks, list dependencies, create network diagram (On CP in red, not on CP in blue), make estimates
-❤ Tasks that happen in parallel
-❤ Tasks that happen secuentially
-❤ Tasks with fixed start dates
+* List tasks, list dependencies, create network diagram (On CP in red, not on CP in blue), make estimates
+* Tasks that happen in parallel
+* Tasks that happen secuentially
+* Tasks with fixed start dates
 
 ★ `Types of Dependencies:`
 
 ❤ Finish to Start (FS) - Task A must be completed before task B
+
 ❤ Finish to Finish (FF) - Task B can't finish until task A finishes
+
 ❤ Start to Start (SS) - Task A can't begin until task B begins - Tasks start at the same time & run in parallel
+
 ❤ Start to Finish (SF) - Task A must start before task B can be completed.
 
 `Risk Management Plan <https://docs.google.com/document/d/1K_8MrxC_qv0IeusNSPIsRgiJzy2BjNf1LYT3VB7_6hc/edit?usp=sharing>`_
 ======================
 ★ A Living document that contains information regarding high level risks & the mitigation plans for those risks. Risk Management is an ongoing practice that you will take part in throughout the planning & execution of a project. 
 
-❤ Risk management evolves throughout the project, the plan should be updated regularly to add newly identified risks, remove risks that are no longer relevant, & include any changes in the mitigation plans. 
-❤ In the risk management document include author, project title, status, created date, & updated date. 
+❤ Risk management evolves throughout the project, the plan should be updated regularly to add newly identified risks, remove risks that are no longer relevant, & include any changes in the mitigation plans.
+
+❤ In the risk management document include author, project title, status, created date, & updated date.
+
 ❤ Talk with SMEs & stakeholders they may have insight on how to handle these risks with strategies you haven't thought of yet.
+
 ❤ Share risks & mitigation plan - discuss better mitigation tatics & new risks.
 
 ★ `Types of Risk`
@@ -157,17 +171,18 @@ Estimating Times for Tasks
 
 ★ `Risk Mitigation Strategies`
 
-❤ Avoid - Sidestep or avoid the situation as a whole
-❤ Minimize - Reduce or control it. Mitigating a risk involves trying to minimize the catastrophic effects
-❤ Transfer - The strategy of transferring shifts the responsibility of handing the risk to someone else
-❤ Accept - `Actively Accept` - usually means setting aside extra funds to pay your way out of trouble. `Passively Accept` - is the "do nothing" approach. (Not recommended for most single point of failure risks). It's important to mitigate risks ahead of time. (proactive) - This may save you from needing to accept risks. 
+* Avoid - Sidestep or avoid the situation as a whole
+* Minimize - Reduce or control it. Mitigating a risk involves trying to minimize the catastrophic effects
+* Transfer - The strategy of transferring shifts the responsibility of handing the risk to someone else
+* Accept - `Actively Accept` - usually means setting aside extra funds to pay your way out of trouble. `Passively Accept` - is the "do nothing" approach. (Not recommended for most single point of failure risks). It's important to mitigate risks ahead of time. (proactive) - This may save you from needing to accept risks. 
 
 ★ `Risk Management Life Cycle`
-❤ Identify the Risk
-❤ Analyze the Risk - Liklihood, impact, prioritize
-❤ Evaluate the Risk
-❤ Treat the Risk - Response plan
-❤ Monitor & Control the risk - Assign team members to track & mitigate risks
+
+* Identify the Risk
+* Analyze the Risk - Liklihood, impact, prioritize
+* Evaluate the Risk
+* Treat the Risk - Response plan
+* Monitor & Control the risk - Assign team members to track & mitigate risks
 
 ★ `Uncover opportunities using Risk Management`
 
@@ -221,36 +236,38 @@ Project Budgeting Best Practices
 ★ `Daily Meetings (if necessary)` - Designed to bring everyone up to date on key information. Here, each team member briefly describes any in progress work, completed work, & any barriers that stand in their way. You can also discuss next steps. 
 
 ★ `Key Stakeholders` - Send project newsletters, a brief email that asks three questions:
+
 * What is working in how we communicate with you about the project?
 * What is not working or is not effective in our communications?
 * Where can I improve our communications with you?
-◆ Include a link to all documents within a centralized location ◆
 
-❤ Recognize & Understand Individual Differences
-❤ Brainstorm & Craft the Appropriate Message
-❤ Deliver your Message
-❤ Obtain Feedback & Incorporate that Feedback Going Forward
-❤ Negotiate 
-❤ Set Communication Expectations
-❤ Empathetic Listening 
-❤ Build Trust by Asking Open Ended Question
-❤ Don’t Overwhelm Sponsors with too Many Details
-❤ Communication Should be Clear, Honest, Frequent, & Relevant
+❤ Include a link to all documents within a centralized location
 
-◆ `Writing Emails Best Practices`
+* Recognize & Understand Individual Differences
+* Brainstorm & Craft the Appropriate Message
+* Deliver your Message
+* Obtain Feedback & Incorporate that Feedback Going Forward
+* Negotiate 
+* Set Communication Expectations
+* Empathetic Listening 
+* Build Trust by Asking Open Ended Question
+* Don’t Overwhelm Sponsors with too Many Details
+* Communication Should be Clear, Honest, Frequent, & Relevant
 
-❤ Always Include a Descriptive Subject Line
-❤ Be Clear & Concise
-❤ Be Respectful
-❤ Always Proofread your Emails
-❤ Alter the Subject Line to Reflect New Changes
-❤ Start with a Warm Greeting
-❤ Get to the Point Quickly
-❤ Use Numbered & Bulleted lists or Other Text Formatting
-❤ Summarize Long Emails
-❤ Assign Action Items Clearly
-❤ Close the Email
-❤ Make it Clear Who Should Respond & Why
+❤ `Writing Emails Best Practices`
+
+* Always Include a Descriptive Subject Line
+* Be Clear & Concise
+* Be Respectful
+* Always Proofread your Emails
+* Alter the Subject Line to Reflect New Changes
+* Start with a Warm Greeting
+* Get to the Point Quickly
+* Use Numbered & Bulleted lists or Other Text Formatting
+* Summarize Long Emails
+* Assign Action Items Clearly
+* Close the Email
+* Make it Clear Who Should Respond & Why
 
 `Email Best Practices <https://emailanalytics.com/email-best-practices/>`_
 
@@ -262,24 +279,24 @@ Project Budgeting Best Practices
 
 ★ It is a project managers responsibility to resolve problems & remove constraints that are a detriment to the project’s success. One way to do this is escalation: the process of enlisting the help of higher-level project leadership or management to remove an obstacle, clarify or reinforce priorities, and validate next steps. Detailing these problems, their potential impact, & the support you need can be an effective communication tool. 
 
-◆ `Escalation Email <https://docs.google.com/document/d/17kxLlcI_pp8iL9TL7z9Z5yEi-ToW6F1OcGwOqgscjfA/edit?usp=sharing>`_ 
+❤ `Escalation Email <https://docs.google.com/document/d/17kxLlcI_pp8iL9TL7z9Z5yEi-ToW6F1OcGwOqgscjfA/edit?usp=sharing>`_ 
 
-❤ Maintain a friendly & blameless tone
-❤ State your connection to the project
-❤ Explain the problem succinctly
-❤ Explain the consequences – Describe how this issue is negatively impacting the project or has the potential. If it makes sense link the issue to the organizations larger OKRs.
-❤ Make a Request – propose a course of action, solution, or solutions
-❤ State what you need from the recipient 
-❤ Request a meeting
+* Maintain a friendly & blameless tone
+* State your connection to the project
+* Explain the problem succinctly
+* Explain the consequences – Describe how this issue is negatively impacting the project or has the potential. If it makes sense link the issue to the organizations larger OKRs.
+* Make a Request – propose a course of action, solution, or solutions
+* State what you need from the recipient 
+* Request a meeting
 
 .. image:: media/Escalation_Email.PNG
 
-◆ `ROAM Analysis <https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing>`_
+❤ `ROAM Analysis <https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing>`_
 
-❤ `R: Resolved` - The issue has been eliminated & no longer poses a problem.
-❤ `O: Owned` - The issue has been assigned to a team member who will monitor it through completion.
-❤ `A: Accepted` - The issue is minor or cannot be resolved, so the team chooses to accept it & work around it.
-❤ `M: Mitigated` - The team has taken action to reduce the impact of the issue or reduce the likelihood of a risk that has not materialized.
+* `R: Resolved` - The issue has been eliminated & no longer poses a problem.
+* `O: Owned` - The issue has been assigned to a team member who will monitor it through completion.
+* `A: Accepted` - The issue is minor or cannot be resolved, so the team chooses to accept it & work around it.
+* `M: Mitigated` - The team has taken action to reduce the impact of the issue or reduce the likelihood of a risk that has not materialized.
 
 Kickoff Meeting!
 =============
