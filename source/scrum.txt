@@ -365,7 +365,7 @@ Responding to change over following a plan
 2.	Deciding to make the change
 3.	Implementing the change
 
-❤  `Step 1: Identifying a needed change `
+❤ `Step 1: Identifying a needed change `
 
 ◆ First, how do you know if your plan needs to be changed? Here are some aspects of your project that may be candidates for change: scope, time, and costs (or resources). As we previously learned, these are called the “triple constraint,” and they provide a great framework for evaluating change in Agile and traditional projects.
 
