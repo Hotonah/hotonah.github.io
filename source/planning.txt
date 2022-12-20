@@ -44,9 +44,9 @@ Planning the Project
 4. Controlling: Making payments, maintaining & ensuring quality
 5. Completing: Measuring your success - Document lessons learned
 
-★ `Create `Risk Management Plan <https://docs.google.com/document/d/1K_8MrxC_qv0IeusNSPIsRgiJzy2BjNf1LYT3VB7_6hc/edit?usp=sharing>`_` - Risks could include: Budget, schedule, staffing shortages, shipping delays, holidays, sick time, etc. (Insert Link to Risk section)
+★ `Create `Risk Management Plan <https://docs.google.com/document/d/1K_8MrxC_qv0IeusNSPIsRgiJzy2BjNf1LYT3VB7_6hc/edit?usp=sharing>`_ - Risks could include: Budget, schedule, staffing shortages, shipping delays, holidays, sick time, etc.
 
-★ Create `Communication Plan <https://docs.google.com/spreadsheets/d/1ysubBfB1k8NgwR-Y3kwXNUFAFvVUrR9sglA6poafgK8/edit?usp=sharing&resourcekey=0-fPDA_gUMvP3UdYzfTO9fAg>`_ - (Insert Link to Communication Plan section)
+★ Create `Communication Plan <https://docs.google.com/spreadsheets/d/1ysubBfB1k8NgwR-Y3kwXNUFAFvVUrR9sglA6poafgK8/edit?usp=sharing&resourcekey=0-fPDA_gUMvP3UdYzfTO9fAg>`_ 
 
 ★ Create `Project Plan <https://docs.google.com/spreadsheets/d/1Uu8L845GeFLTBKawECebXj1-RhyqqUPVRt0-aiWr6gQ/edit?usp=sharing>`_ - A document that stores all project documents in one central location - Center of the project plan is the project schedule, which helps estimate the amount of time it will take to complete the project & provides the team with a way to track the projects progress against your goals.
 
@@ -115,7 +115,8 @@ Estimating Times for Tasks
 
 ★ `Capacity` - The amount of work that the people or resources assigned to the project can reasonibly complete in a set period of time. 
 
-★ `Critical Path (CP)` - The list of project milestones that you must reach in order to meet the project goal on schedule. As well as the mandatory tasks that contribute to the completion of each milestone. Your critical path includes the bare minimum number of tasks & milestones you need to reach your project goal. 
+★ `Critical Path (CP)` - The list of project milestones that you must reach in order to meet the project goal on schedule. As well as the mandatory tasks that contribute to the completion of each milestone. Your critical path includes the bare minimum number of tasks & milestones you need to reach your project goal. When creating a critical path, focus on the essential, “need to do” tasks, rather than the “nice to do” tasks that aren’t essential for the completion of the project. Here is an example of critical tasks for building the structure of a house:
+
 
 ❤ List tasks, list dependencies, create network diagram (On CP in green, not on CP in blue), make estimates
 ❤ Tasks that happen in parallel
@@ -189,13 +190,13 @@ Project Budgeting Best Practices
 
 .. image:: media/Budget_Table.PNG
 
-★ `Develop a Baseline `Budget <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc6ZR_oMxj7uFKjZJTt_7HDc0/edit?usp=sharing>`_` - An estimate (dollar amount) of project costs that you start with at the beginning of your project. Once budget is approved, you hsould publish this baseline & use it to compare against actual performance progress. This will provide insight into how the project is doing & allow you to make informed adjustments. Continually monitor your project budget & make necessary changes. Update can require the same approval as the initial budget. Re-baseline if you make significant changes.
+★ Develop a Baseline `Budget <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc6ZR_oMxj7uFKjZJTt_7HDc0/edit?usp=sharing>`_ - An estimate (dollar amount) of project costs that you start with at the beginning of your project. Once budget is approved, you hsould publish this baseline & use it to compare against actual performance progress. This will provide insight into how the project is doing & allow you to make informed adjustments. Continually monitor your project budget & make necessary changes. Update can require the same approval as the initial budget. Re-baseline if you make significant changes.
 
 ★ `Perform a Reserve Analysis` - A reserve analysis wil help you account for any buffer fund you may need. 1st review all potential risks to your project & determine if you need to add buffer funds. 
 
 ❤ Use milestones as checkpoints for budget.
 
-`Communication Plan <https://docs.google.com/spreadsheets/d/1ysubBfB1k8NgwR-Y3kwXNUFAFvVUrR9sglA6poafgK8/edit?usp=sharing&resourcekey=0-fPDA_gUMvP3UdYzfTO9fAg>`_ Best Practices
+`Communication Plan <https://docs.google.com/spreadsheets/d/1ysubBfB1k8NgwR-Y3kwXNUFAFvVUrR9sglA6poafgK8/edit?usp=sharing&resourcekey=0-fPDA_gUMvP3UdYzfTO9fAg>`_ 
 ===============================
 ◆ Identify, Identify, Identify
 
@@ -236,7 +237,7 @@ Project Budgeting Best Practices
 
 ★ It is a project managers responsibility to resolve problems & remove constraints that are a detriment to the project’s success. One way to do this is escalation: the process of enlisting the help of higher-level project leadership or management to remove an obstacle, clarify or reinforce priorities, and validate next steps. Detailing these problems, their potential impact, & the support you need can be an effective communication tool. 
 
-◆ ``Escalation Email <https://docs.google.com/document/d/17kxLlcI_pp8iL9TL7z9Z5yEi-ToW6F1OcGwOqgscjfA/edit?usp=sharing>`_ Best Practices:` 
+◆ `Escalation Email <https://docs.google.com/document/d/17kxLlcI_pp8iL9TL7z9Z5yEi-ToW6F1OcGwOqgscjfA/edit?usp=sharing>`_ 
 
 ❤ Maintain a friendly & blameless tone
 ❤ State your connection to the project
@@ -248,7 +249,7 @@ Project Budgeting Best Practices
 
 .. image:: media/Escalation_Email.PNG
 
-◆ ``ROAM Analysis <https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing>`_` 
+◆ `ROAM Analysis <https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing>`_
 
 ❤ `R: Resolved` - The issue has been eliminated & no longer poses a problem.
 ❤ `O: Owned` - The issue has been assigned to a team member who will monitor it through completion.
