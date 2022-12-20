@@ -27,7 +27,7 @@ Planning the Project
 * Identify taskes to meet milestones
 * Breakdown tasks into subtasks
 
-.. image::media/wbs.PNG
+.. image:: media/wbs.PNG
 
 ★ Create a `Schedule & Gantt Chart <https://docs.google.com/spreadsheets/d/165nB6opSYj0oup4Nm7BuWmiruAmQsE_CIzyHL1CqgTM/edit?usp=sharing>`_ - Create a plan from start to finish - Use scheduleing tools lik e MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule - Properly manage resources, budget, materials, & Timeline. 
 
@@ -44,7 +44,7 @@ Planning the Project
 4. Controlling: Making payments, maintaining & ensuring quality
 5. Completing: Measuring your success - Document lessons learned
 
-★ `Create `Risk Management Plan <https://docs.google.com/document/d/1K_8MrxC_qv0IeusNSPIsRgiJzy2BjNf1LYT3VB7_6hc/edit?usp=sharing>`_ - Risks could include: Budget, schedule, staffing shortages, shipping delays, holidays, sick time, etc.
+★ `Create Risk Management Plan <https://docs.google.com/document/d/1K_8MrxC_qv0IeusNSPIsRgiJzy2BjNf1LYT3VB7_6hc/edit?usp=sharing>`_ - Risks could include: Budget, schedule, staffing shortages, shipping delays, holidays, sick time, etc.
 
 ★ Create `Communication Plan <https://docs.google.com/spreadsheets/d/1ysubBfB1k8NgwR-Y3kwXNUFAFvVUrR9sglA6poafgK8/edit?usp=sharing&resourcekey=0-fPDA_gUMvP3UdYzfTO9fAg>`_ 
 
@@ -117,8 +117,14 @@ Estimating Times for Tasks
 
 ★ `Critical Path (CP)` - The list of project milestones that you must reach in order to meet the project goal on schedule. As well as the mandatory tasks that contribute to the completion of each milestone. Your critical path includes the bare minimum number of tasks & milestones you need to reach your project goal. When creating a critical path, focus on the essential, “need to do” tasks, rather than the “nice to do” tasks that aren’t essential for the completion of the project. Here is an example of critical tasks for building the structure of a house:
 
+.. image:: media/cp1.PNG
 
-❤ List tasks, list dependencies, create network diagram (On CP in green, not on CP in blue), make estimates
+.. image:: media/cp2.PNG
+
+* `Critical Path Method for Beginners <https://www.workamajig.com/blog/critical-path-method>`_
+* `Critical Path Method: Project Management Essential <https://www.wrike.com/blog/critical-path-is-easy-as-123/>`_
+
+❤ List tasks, list dependencies, create network diagram (On CP in red, not on CP in blue), make estimates
 ❤ Tasks that happen in parallel
 ❤ Tasks that happen secuentially
 ❤ Tasks with fixed start dates
@@ -174,7 +180,7 @@ Estimating Times for Tasks
 * Brainstorm causes
 * Analyze causes
 
-.. image::media/fishbone.PNG
+.. image:: media/fishbone.PNG
 
 Project Budgeting Best Practices
 ==================================
