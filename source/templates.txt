@@ -58,4 +58,6 @@ Scrum
 ==============
 
 * `Product Backlog <https://docs.google.com/spreadsheets/d/1pVFHKBP-97tCr1j6jFTDrZW7Kb1fIchlUO_lBX7i2Jk/edit?usp=sharing>`_
-* `Sprint Retro Email <https://docs.google.com/document/d/1T98RBhFIOW2bZC47TcXAV7h8cG0KPiTPEQNJMU97SVg/edit?usp=sharing>`_
+* `Sprint Backlog <https://docs.google.com/spreadsheets/d/1YCt-YniVt3b7LGTS_OYC9UyWg2oTBWoGacvEiOSY2hs/edit?usp=sharing>`_
+* `Sprint Retro <https://docs.google.com/presentation/d/1k6o3QIdE1aEHbeKtUhHT7zyFi4ZwEcrvmPNcPTHqmdI/edit?usp=sharing>`_
+* `Sprint Retro Email <https://docs.google.com/document/d/1EPnC_1NlKtkCumznxh8bBz8YFz_C8o78soCrqDID9To/edit?usp=sharing>`_
