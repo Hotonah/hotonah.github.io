@@ -48,7 +48,7 @@ Your role as project manager is to communicate with your stakeholders, clarify o
 
 ★ `Don't be afraid to ask for help` ★
 
-.. image:: media/help.PNG
+.. image:: media/ask_for_help.jgp
 
 Planning & Organizing
 ========================
