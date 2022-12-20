@@ -15,7 +15,7 @@ Project Execution – Running the Project
 
 ★ `Manage & Monitor` - The progress – Oversee teams’ efforts & make sure they understand what is expected of them - What tasks need to be done - How & when tasks need to be done – Alert the right people if there might be a delay to the project – Help keep team aware of schedule & deliverable expectations. 
 
-★ `Remove Barriers to Progress` - Breakdown barriers that would slow down or stop the team from completing tasks - Removing barriers is one of your most important tasks as a project manager. But you cannot always do it alone. When your team encounters issues you will write an escalation email to get support & advice from senior stakeholders. (Insert Link to escalation email section)
+★ `Remove Barriers to Progress` - Breakdown barriers that would slow down or stop the team from completing tasks - Removing barriers is one of your most important tasks as a project manager. But you cannot always do it alone. When your team encounters issues you will write an escalation email to get support & advice from senior stakeholders. `Communication Practices <https://hotonah.github.io/hotonahcom/planning#id12>`_
 
 ★ `Communicate` - With your team & anyone else involved in the project through meetings, written communication (emails, memos, chat tools, reports & documents) - overcommunicate. -Daily Standups (Add what they consist of) – Daily Check-ins for status updates, see if anyone needs help on a task/s.
 
@@ -23,24 +23,27 @@ Project Execution – Running the Project
 
 ★ Follow the `ROAM Analysis <https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing>`_ - To help your team stay organized you will categorize issues as Resolved, Owned, Accepted, or Mitigated. Knowing how you will handle these issues keeps you on track to complete the project.
 
-★ `Meetings` – Create presentations for your team to keep them informed on the project – To make your presentation engaging & memorable, you will tell a story using key data points, summarize take aways, & outline next steps. – Plan meetings to discuss open issues, after your presentation you will meet & discuss areas to improve as you prepare for launch. To ensure a focused & productive discussion create a meeting agenda that lays out open issues & lists topics for discussion. - (Link to presentation templates & meeting agenda templates)
+★ `Meetings` – Create presentations for your team to keep them informed on the project – To make your presentation engaging & memorable, you will tell a story using key data points, summarize take aways, & outline next steps. – Plan meetings to discuss open issues, after your presentation you will meet & discuss areas to improve as you prepare for launch. To ensure a focused & productive discussion create a meeting agenda that lays out open issues & lists topics for discussion. `Meeting Agenda <https://docs.google.com/document/d/1q9S1ftMbQWR-t_ZbA5TXUT3EERFUcIX7x0vqVBRFPBI/edit?usp=sharing>`_
 
 ★ `Project Status Reports <https://docs.google.com/spreadsheets/d/1bPNLLhd-P6VL8AQrJgyP4ZcdRr04stt5pvtJ8zmJ1Fc/edit?usp=sharing>`_ - Red, Yellow, Green (RYG) reports improve & simplify communication across the team, keep everyone informed, including key stakeholders. Request more resources & support if needed. Create structure & transparency by recording the project status in a centralized place.
 
 ★ `Conduct Ongoing Surveys` - To gain essential feedback from users & improve processes, Implement surveys when possible. `Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
 
-★ `Conduct Retrospectives (Retros)` - Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases – Form of process improvement. 
+★ Conduct `Retrospectives <https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing>`_ - Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases – Form of process improvement. 
 
 Types of Tracking Methods
 ========================
 ★ `Gantt Chart` – Lots of dependencies & used primarily waterfall methodologies.
-(Insert Picture)
+
+.. image:: media/gantt.PNG
 
 ★ `Roadmaps` - Used for tracking big milestones. High-level tracking of large milestones.
-(Picture)
+
+.. image:: media/roadmap.PNG
 
 ★ `Burndown Charts` - Typically used by Agile Scrum teams. Burndown charts reveal how quickly your team is working by displaying how much work is left & how much time remains to complete the work. Used near closing when needing to hit hard deadlines. 
-(Picture)
+
+.. image:: media/burndown.PNG
 
 ◆ `Commonly Tracked Items:`
 
@@ -64,6 +67,7 @@ Collecting & Analyzing Data
 * Act
 
 ◆ Common types of data PMs collect & analyze.
+
 .. image:: media/Data_Methods.PNG
 
 ❤ `Analyzing Data Benefits in Project Management` - Use data to make decisions, solve problems, improve performance, improve processes, & understand your users. Data defines information you need to know about your project such as, productivity, quality & engagement. The more engaged your team is the more productive they are.
@@ -133,13 +137,13 @@ Presenting Data to Tell a Story
 
 ❤ Be clear & specific about what you want to get out of the meeting, frame the discussion with that goal in mind. Tell them exactly what you are looking for & send slides to audience in advance.
 
-❤ If appropriate send a follow-up email with summary notes, action items, & time frames.
-(Insert link to email writing best practices)
+❤ If appropriate send a follow-up email with summary notes, action items, & time frames.`Communication Practices <https://hotonah.github.io/hotonahcom/planning#id12>`_
 
 ❤ Ask for feedback what went well & what could have gone better? 
 
 Continuous Improvements
 ===================
+
 .. image:: media/Retro_Framework.PNG
 
 ❤ Conduct a Retrospective (Retros) – Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases. You can conduct retros when you miss deadlines, miscommunications, end of sprints, etc. This is a form of process improvement.
@@ -173,4 +177,4 @@ Continuous Improvements
 
 ❤ `Resources & Notes` - Retro serves as a reference for how that project went & what was accomplished. Add project notes which the team found valuable.
 
-(Link to retro example or template)
+`Retrospective <https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing>`_
