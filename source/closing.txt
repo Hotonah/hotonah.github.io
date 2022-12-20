@@ -4,6 +4,9 @@ The process performed to formally complete the project, the current phase, & con
 
 ❤ `Documents created in this phase`:
 
+* `Closeout Report <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGqfVia52d6VqS6reOQecgr7Enp4/edit?usp=sharing>`_
+* `Impact Report <https://docs.google.com/presentation/d/1tnY_LFGXR_MWHGs8tx913Qcbu66OLnTI-S1t7AoxiuM/edit?usp=sharing>`_
+
 ★ Assure all work is done – Ensure that the agreed upon project management processes are executes & get formal recognition from stakeholders that the project is done. Double check that all work is done.
 
 ★ Agreed upon project management processes are executed – procedural, administrative, HR work that needs to take place afterward.
@@ -45,11 +48,10 @@ Steps to Conducting a Closing Process at the `End` of your Project
 
 ❤ Disband & thank the project team.
 
-Impact Reporting
+`Impact Reporting <https://docs.google.com/presentation/d/1tnY_LFGXR_MWHGs8tx913Qcbu66OLnTI-S1t7AoxiuM/edit?usp=sharing>`_
 ==============
  
 ❤ Presentation that is given at the end of project for key stakeholders. Typically includes the stakeholders you had at the initial kick-off meeting. The purpose is to demonstrate how the project went & discuss the impact of your product or service. It is important because you will be able to demonstrate the success of your project on your terms & present the work you did to add value to the business (Link to company OKRs when possible). In this presentation you will cover how the project landed in terms of time, scope, & budget. You will discuss when the new service or product launched & state any available feedback from users & explain how the desired outcomes were achieved. 
-(Link to Impact Report template or example)
 
 ❤ `Highlight Key Performance Areas` - Goals, objectives, budget, schedule, & KPIs need to be determined at the beginning of your project. You report should demonstrate how well you did against those early targets. Answer the question – What was the problem we were trying to solve & how did we solve it?
 
@@ -88,7 +90,7 @@ Impact Reporting
 
 ❤ Metrices & data points are one of the best ways to present impact. Throughout the project collect data & track progress in each of the areas you want to measure. If you can complement your metrics with the appropriate visuals & tie them back to the projects larger goals, you can quickly demonstrate your projects success & value. 
 
-Project Closeout Report
+Project `Closeout Report <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGqfVia52d6VqS6reOQecgr7Enp4/edit?usp=sharing>`_
 =========================
 
 ★ It is a blueprint to document what the team did, how they did it, & what they delivered.
@@ -110,5 +112,3 @@ Project Closeout Report
 ❤ Be sure to list resources & team members. Explain who is involves? What their roles were – To acknowledge people. 
 
 ❤ Finally include a resources project achieve section with links to things like your original project plan, documented communication, feedback (like meeting notes), documents used to track &monitor, reports, technical info, user guides, & manuals. 
-
-(Link to project closing document template or example)
