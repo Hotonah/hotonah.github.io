@@ -1,1 +1,19 @@
-project page
+⠀⠀⠀⢰⣶⣄⡀⠀⠀⠀⠀⢸⠈⣿⠞⢻⣻⣿⣦⡀⠈⢟⡇⢸⢸⢨⡇⢸⡇⡄
+⠀⠀⠀⡎⠀⠘⢿⣦⣄⠀⠀⣸⠞⢥⠀⢸⣿⣿⣿⣷⡀⠘⡆⣾⣽⠈⡇⢸⣧⠀
+⠀⠀⠀⢻⠀⠀⠀⢻⣿⣧⡀⡇⠀⢸⣀⣸⣿⣿⣿⣿⣇⠀⣇⢸⠘⣾⡇⢸⣯⠂
+⠀⠀⠀⢸⠀⠀⠀⢸⣿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⣼⢸⠀⠘⠇⢸⡟⠀
+⠀⠀⠀⠀⢇⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉⠻⣿⣿⠀⠀⠀⢘⣿⠶
+⣶⣶⣶⣶⣾⡄⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢠⡄⠀⢈⣿⣇⡠⠖⢘⠋⠀
+⣿⣿⣿⣿⣿⠷⣰⣿⣿⠋⠀⠀⡈⢻⣿⣿⣿⣿⣷⣌⣋⣀⣼⣿⡇⠀⣀⢠⠠⠱
+⠉⠙⢿⣿⠋⠀⢸⣿⣿⡀⠀⠈⠿⢨⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⢰⠀⠀
+⠀⠀⠀⠉⠁⠀⠈⣿⣿⣿⣶⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣽⠀⠀⠀⠘⠀⠀
+⠀⠀⠐⠋⠉⠁⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡇⢹⠀⠀⠀⢀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⠤⠊⠁⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⠀⠀⠀⠈⠀
+
+Completed Projects
+=======================
+
+* `MFA Project <https://docs.google.com/document/d/1Nbjc5FCr3AByuRZIDOrtULYQi_oHlmWu/edit?usp=sharing&ouid=101002792930404714638&rtpof=true&sd=true>`_
+* `Plant Pals <https://docs.google.com/document/d/1Yd3AhQUpopCWzXaFUruyuoq71VAfhLl9ZR_6d4Co59U/edit?usp=sharing>`_
+* `Sauce & Spoon <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGqfVia52d6VqS6reOQecgr7Enp4/edit?usp=sharing>`_
+* `Virtual Verde (Scrum) <https://drive.google.com/drive/folders/13GT2Ye0BUjizRm25RBfbHc9N3pBuO7UE?usp=sharing>`_
