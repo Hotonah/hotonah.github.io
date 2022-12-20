@@ -35,16 +35,27 @@ Your role as project manager is to communicate with your stakeholders, clarify o
 Planning & Organizing
 ========================
 ❤ Use an abundance of productivity tools & create processes
+
 ❤ Planning and scheduling software (templates, workflows, calendar)
+
 ❤ Collaboration tools (email, collaboration software, dashboards)
+
 ❤ Documentation (files, plans, spreadsheets)
+
 ❤ Quality Assurance tools (evaluations, productivity trackers, reports)
+
 ❤ Create plans, timelines, schedules, & other forms of documentation to track project completion
+
 ❤ Maintain those documents
+
 ❤ Monitor & manage budget.
+
 ❤ Track issues & risks (find ways to mitigate risks)
+
 ❤ Manage quality
+
 ❤ Remove unforeseen barriers (when needed escalate issues to secure needed resources to move forward with the project)
+
 ❤ Manage tasks, keep track of tasks, update stakeholders on progress, and keep tabs on everyone's work
 
 Focus on the Customer & Team
