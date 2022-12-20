@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome!
+❤ Welcome!
 ========
 This site contains information about being a project manager, running projects, and helpful tips!
 
@@ -124,7 +124,7 @@ Leadership & Management on Teams
 
 4 Types of Project Meetings
 ==============================
-When conducting meetings make sure they are structured, intentional, collaborative & inclusive. Provide a clear agenda, attendee list, and take detailed notes (maybe ask someone else to take notes for you). After the meeting send a follow-up email to all attendees' include a summary of the meeting and any action items: use bullet points, labels, and hyperlinks in your email.
+❤ When conducting meetings make sure they are structured, intentional, collaborative & inclusive. Provide a clear agenda, attendee list, and take detailed notes (maybe ask someone else to take notes for you). After the meeting send a follow-up email to all attendees' include a summary of the meeting and any action items: use bullet points, labels, and hyperlinks in your email.
 
 ❤ `Project Kick-off Meeting` - The official beginning of a project & serves as a way to align the teams understanding of the project goals with actual plans and procedures.
 
@@ -148,7 +148,7 @@ When conducting meetings make sure they are structured, intentional, collaborati
 
 4 Steps for Influencing People
 ===============================
-Influencing is the ability to alter another person's thinking or behaviors.
+❤ Influencing is the ability to alter another person's thinking or behaviors.
 
 1. Establish credibility - `Why` they should listen to you!
 2. Frame for common good
