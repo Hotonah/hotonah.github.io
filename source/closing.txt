@@ -28,9 +28,13 @@ Steps to Conducting Closing Process After Each Phase or Milestone
 =================================================
 
 ❤ Refer to prior documentation
+
 ❤ Put together closing documentation
+
 ❤ Conduct administrative closure of the procurement process
+
 ❤ Make sure all stakeholders are aware that a phase or project is ending
+
 ❤ Execute follow-up work
 
 Steps to Conducting a Closing Process at the `End` of your Project
@@ -94,18 +98,20 @@ Project `Closeout Report <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGq
 =========================
 
 ★ It is a blueprint to document what the team did, how they did it, & what they delivered.
+
 ★ It provides an evaluation of the quality of work.
+
 ★ It evaluates the project’s performance with respect to budget & schedule.
 
 ❤ Can be used to determine best practices when it comes to future projects. Think of it as a transfer of knowledge from you to future project managers. Once a project closes, there is a chance a similar project or a continuation of that project will come up within the organization & a different PM is assigned. If you create an in-depth closeout report, it will help the new PM know what happened. Your closeout report could include things that worked well & things that did not work well. Creating a closeout report will help reduce the questions from new PMs. 
 
 ◆ `Include`:
 
-★ An executive summary – Purpose of the project (Short & concise)
-★ A list of key accomplishments
-★ Lessons learned – What went well & What went wrong – What processes did not work well? – What were the effects of key problem areas (scope creep, schedule slip)
-★Technical challenges
-★ Next steps – Expected follow-up projects – Is there maintenance required – Open items – Things you did not get to or ideas for changes you would make if you had more time
+* An executive summary – Purpose of the project (Short & concise)
+* A list of key accomplishments
+* Lessons learned – What went well & What went wrong – What processes did not work well? – What were the effects of key problem areas (scope creep, schedule slip)
+* Technical challenges
+* Next steps – Expected follow-up projects – Is there maintenance required – Open items – Things you did not get to or ideas for changes you would make if you had more time
 
 ❤ Include important info about schedules & important deadlines like; what were your milestones & how did you choose them? How long did the project take? Did the project stay on track? & Information about major setbacks. 
 
