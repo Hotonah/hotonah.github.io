@@ -74,6 +74,8 @@ Project Planning Best Practices
 
 ★ Hold retrospective meetings: Focuses on identifying the contributing cause of an incident `without blaming anyone.` You should `always assume that everyone has good intentions & did the right thing with the information they had` whether or not it worked out well in the end. There's always a chance to learn & do better. It's important to identify effective techniques for communicating changes to the team or an individual.
 
+.. image::media/good.PNG
+
 * Carefully review deliverables, milestones, & tasks
 * Give yourself time to plan
 * Recognize & plan for the inevitable: things will go wrong (Link to Risk Section)
