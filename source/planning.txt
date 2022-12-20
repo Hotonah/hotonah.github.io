@@ -309,7 +309,7 @@ Kickoff Meeting!
 * Ask their thoughts on if this is a good way to start the project?
 * Are there any areas that need to be addressed or done differently?
 
-(Link to Kickoff meeting example)
+`Kickoff Meeting Templates <https://www.template.net/business/agenda-templates/kickoff-meeting-agenda/#:~:text=9%2B%20Sample%20Kickoff%20Meeting%20Agenda%20Templates%201%20Construction,Importance%20of%20Agendas%20in%20Meetings%20...%20More%20items>`_
 
 ★ Once the Kickoff meeting has ended send a follow-up email to all attendees with key items that were discussed, summarize the meeting, & allow them to ask questions.
-(Link to Writing Email Best Practices section)
+`Email Best Practices <https://hotonah.github.io/hotonahcom/planning#id12>`_
