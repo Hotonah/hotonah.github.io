@@ -237,9 +237,26 @@ Project Budgeting Best Practices
 
 ◆ `Writing Emails Best Practices`
 
-❤ Use Bullet Points 
+❤ Always Include a Descriptive Subject Line
+❤ Be Clear & Concise
+❤ Be Respectful
+❤ Always Proofread your Emails
+❤ Alter the Subject Line to Reflect New Changes
+❤ Start with a Warm Greeting
+❤ Get to the Point Quickly
+❤ Use Numbered & Bulleted lists or Other Text Formatting
+❤ Summarize Long Emails
+❤ Assign Action Items Clearly
+❤ Close the Email
+❤ Make it Clear Who Should Respond & Why
 
-(Include email example or template link)
+`Email Best Practices <https://emailanalytics.com/email-best-practices/>`_
+
+.. image:: media/email1.PNG
+
+.. image:: media/email2.PNG
+
+.. image:: media/email3.PNG
 
 ★ It is a project managers responsibility to resolve problems & remove constraints that are a detriment to the project’s success. One way to do this is escalation: the process of enlisting the help of higher-level project leadership or management to remove an obstacle, clarify or reinforce priorities, and validate next steps. Detailing these problems, their potential impact, & the support you need can be an effective communication tool. 
 
