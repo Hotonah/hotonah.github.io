@@ -187,9 +187,10 @@ Handling Ambiguity
 
 Project Lifecycle
 ==================
-★ `Initiate the Project` - This is the launchpad for the entire project: Gather skillsets required, timeline, & costs. Define project goals & deliverables, identify the budget & resources you'll need, the people involved in your project, & any other details that can impact the successful completion of your project. Document all this information in once place to showcase the projects value & get approval to move forward.
 
-.. image:: media/cycle.PNG
+.. image:: media/cycle2.PNG
+
+★ `Initiate the Project` - This is the launchpad for the entire project: Gather skillsets required, timeline, & costs. Define project goals & deliverables, identify the budget & resources you'll need, the people involved in your project, & any other details that can impact the successful completion of your project. Document all this information in once place to showcase the projects value & get approval to move forward.
 
 ❤ `Documents created in this phase`:
 
