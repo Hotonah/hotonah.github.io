@@ -2,6 +2,17 @@ Project Execution – Running the Project
 ===============================
 ❤ `Documents created in this phase`:
 
+* `Project Status Reports <https://docs.google.com/spreadsheets/d/1bPNLLhd-P6VL8AQrJgyP4ZcdRr04stt5pvtJ8zmJ1Fc/edit?usp=sharing>`_
+* `Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
+* `Present Survey Results <https://docs.google.com/presentation/d/12jLeHJT4jfyqggyYhnL3ImaWOmjz_o8Kld4rw1uPEDk/edit?usp=sharing>`_
+* `Retrospective Email <https://docs.google.com/document/d/1Jxs7KDxHp9PipGBREGIJQNImFfL3EAGdxEzBkX8Rg9M/edit?usp=sharing&resourcekey=0-varcMcCYu0Umdvl2-1n-4A>`_
+* `Meeting Agenda <https://docs.google.com/document/d/1q9S1ftMbQWR-t_ZbA5TXUT3EERFUcIX7x0vqVBRFPBI/edit?usp=sharing>`_
+* `Retrospective <https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing>`_
+* `Meeting Notes <https://docs.google.com/document/d/1V0yeIQAAAu3epCE7kWLnueWv8E5tzTUf/edit?usp=sharing&ouid=101002792930404714638&rtpof=true&sd=true>`_
+* `Email Coalition <https://docs.google.com/document/d/1pFc8hrsyDFfOy8MT_S2YHMs8lCWFKGSx0j9ZxL0Nk18/edit?usp=sharing>`_
+* `Escalation Email <https://docs.google.com/document/d/17kxLlcI_pp8iL9TL7z9Z5yEi-ToW6F1OcGwOqgscjfA/edit?usp=sharing>`_
+* `ROAM Analysis <https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing>`_
+
 ★ `Manage & Monitor` - The progress – Oversee teams’ efforts & make sure they understand what is expected of them - What tasks need to be done - How & when tasks need to be done – Alert the right people if there might be a delay to the project – Help keep team aware of schedule & deliverable expectations. 
 
 ★ `Remove Barriers to Progress` - Breakdown barriers that would slow down or stop the team from completing tasks - Removing barriers is one of your most important tasks as a project manager. But you cannot always do it alone. When your team encounters issues you will write an escalation email to get support & advice from senior stakeholders. (Insert Link to escalation email section)
@@ -10,13 +21,13 @@ Project Execution – Running the Project
 
 ★ `Make Adjustments` - Make adjustments to plans throughout the project as required & make sure they’re communicated to all the correct stakeholders – Address weaknesses in your process or examine places where your team may need additional training – Adapt to changes in the project as they arise.
 
-★ ` Follow the ROAM Analysis` - To help your team stay organized you will categorize issues as Resolved, Owned, Accepted, or Mitigated. Knowing how you will handle these issues keeps you on track to complete the project. (Insert link to ROAM section)
+★ Follow the `ROAM Analysis <https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing>`_ - To help your team stay organized you will categorize issues as Resolved, Owned, Accepted, or Mitigated. Knowing how you will handle these issues keeps you on track to complete the project.
 
 ★ `Meetings` – Create presentations for your team to keep them informed on the project – To make your presentation engaging & memorable, you will tell a story using key data points, summarize take aways, & outline next steps. – Plan meetings to discuss open issues, after your presentation you will meet & discuss areas to improve as you prepare for launch. To ensure a focused & productive discussion create a meeting agenda that lays out open issues & lists topics for discussion. - (Link to presentation templates & meeting agenda templates)
 
-★ `Project Status Reports` - Red, Yellow, Green (RYG) reports improve & simplify communication across the team, keep everyone informed, including key stakeholders. Request more resources & support if needed. Create structure & transparency by recording the project status in a centralized place. (Link to RYG Status Report)
+★ `Project Status Reports <https://docs.google.com/spreadsheets/d/1bPNLLhd-P6VL8AQrJgyP4ZcdRr04stt5pvtJ8zmJ1Fc/edit?usp=sharing>`_ - Red, Yellow, Green (RYG) reports improve & simplify communication across the team, keep everyone informed, including key stakeholders. Request more resources & support if needed. Create structure & transparency by recording the project status in a centralized place.
 
-★ `Conduct Ongoing Surveys` - To gain essential feedback from users & improve processes, Implement surveys when possible. (Link to Survey Section)
+★ `Conduct Ongoing Surveys` - To gain essential feedback from users & improve processes, Implement surveys when possible. `Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
 
 ★ `Conduct Retrospectives (Retros)` - Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases – Form of process improvement. 
 
