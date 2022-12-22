@@ -193,10 +193,10 @@ Estimating Times for Tasks
 
 ★ `Brainstorm` - Build a decision tree when building mitigation plans: A flow chart that helps visualize the wider impact of a decision on the rest of your project.
 
-* Define the problem
-* Identify categories
-* Brainstorm causes
-* Analyze causes
+* `Define` the problem
+* `Identify` categories
+* `Brainstorm` causes
+* `Analyze` causes
 
 .. image:: media/fishbone.PNG
 
