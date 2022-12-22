@@ -92,10 +92,10 @@ Data Visualization
 
 ◆ `Other Data Visualization Tools:`
 
-* Scatter Plots – Show Relationships
-* Bar Graphs – Compare Value, Clarify Trends, & Identify Patterns
-* Pie Charts – Demonstrate Composition & Shows how much each part makes a whole
-* Line Graphs – Analyze Trends & Behaviors & Shows Change Over Time
+* `Scatter Plots` – Show Relationships
+* `Bar Graphs` – Compare Value, Clarify Trends, & Identify Patterns
+* `Pie Charts` – Demonstrate Composition & Shows how much each part makes a whole
+* `Line Graphs` – Analyze Trends & Behaviors & Shows Change Over Time
 
 ★ When it is time to present you data to your audience, you do not just want to tell them about your findings & what they mean. You want to `show` them. Data visualization helps us organize data & turn it into information that is clear & easy for your audience to digest. Figure out what data you want to show your audience & `why`.
 
