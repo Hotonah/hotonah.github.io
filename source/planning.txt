@@ -121,7 +121,7 @@ Estimating Times for Tasks
 
 ★ `Time Estimation` - Prediction of the total amount of time that it will take to complete a task 
 
-★ 'Effort Estimation` - Prediction of the amount & difficulty of active work to complete a task - ONCE you have this information you need to determine if you have the right amount of people. To do this use a technique called capacity planning.
+★ `Effort Estimation` - Prediction of the amount & difficulty of active work to complete a task - ONCE you have this information you need to determine if you have the right amount of people. To do this use a technique called capacity planning.
 
 ★ `Capacity` - The amount of work that the people or resources assigned to the project can reasonably complete in a set period of time. 
 
@@ -222,7 +222,7 @@ Project `Budgeting <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc
 
 `Communication Plan <https://docs.google.com/spreadsheets/d/1ysubBfB1k8NgwR-Y3kwXNUFAFvVUrR9sglA6poafgK8/edit?usp=sharing&resourcekey=0-fPDA_gUMvP3UdYzfTO9fAg>`_ 
 ===============================
-◆ Identify, Identify, Identify
+❤ `Identify, Identify, Identify`
 
 ★ `Project Stakeholders` - RACI Chart or stakeholder map. Who is your audience? Who will need to be informed at different points during the project life cycle?
  
@@ -242,7 +242,7 @@ Project `Budgeting <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc
 * What is not working or is not effective in our communications?
 * Where can I improve our communications with you?
 
-❤ Include a link to all documents within a centralized location
+❤ `Include a link to all documents within a centralized location`
 
 * Recognize & Understand Individual Differences
 * Brainstorm & Craft the Appropriate Message
@@ -278,7 +278,7 @@ Project `Budgeting <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc
 
 .. image:: media/email3.PNG
 
-★ It is a project managers responsibility to resolve problems & remove constraints that are a detriment to the project’s success. One way to do this is escalation: the process of enlisting the help of higher-level project leadership or management to remove an obstacle, clarify or reinforce priorities, and validate next steps. Detailing these problems, their potential impact, & the support you need can be an effective communication tool. 
+★ `It is a project managers responsibility to resolve problems & remove constraints that are a detriment to the project’s success. One way to do this is escalation: the process of enlisting the help of higher-level project leadership or management to remove an obstacle, clarify or reinforce priorities, and validate next steps. Detailing these problems, their potential impact, & the support you need can be an effective communication tool.` 
 
 ❤ `Escalation Email <https://docs.google.com/document/d/17kxLlcI_pp8iL9TL7z9Z5yEi-ToW6F1OcGwOqgscjfA/edit?usp=sharing>`_ 
 
@@ -301,7 +301,7 @@ Project `Budgeting <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc
 
 Kickoff Meeting!
 =============
-★ First meeting in which the project team comes together to ground everyone in a shared vision, gain a shared understanding of the project’s goals, scope, & to understand each person's individual roles within the team. This should include team members identified in the RACI chart created during initiation phase. Invite stakeholders & project sponsor. This meeting team members will learn more about how the team will work together to reach the project goals.
+★ `First meeting in which the project team comes together to ground everyone in a shared vision, gain a shared understanding of the project’s goals, scope, & to understand each person's individual roles within the team. This should include team members identified in the RACI chart created during initiation phase. Invite stakeholders & project sponsor. This meeting team members will learn more about how the team will work together to reach the project goals.`
 
 * Ask to record meeting if possible
 * Ask a teammate to take notes
