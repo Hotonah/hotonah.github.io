@@ -172,10 +172,10 @@ Estimating Times for Tasks
 
 ★ `Risk Mitigation Strategies`
 
-* Avoid - Sidestep or avoid the situation as a whole
-* Minimize - Reduce or control it. Mitigating a risk involves trying to minimize the catastrophic effects
-* Transfer - The strategy of transferring shifts the responsibility of handing the risk to someone else
-* Accept - `Actively Accept` - usually means setting aside extra funds to pay your way out of trouble. `Passively Accept` - is the "do nothing" approach. (Not recommended for most single point of failure risks). It's important to mitigate risks ahead of time. (proactive) - This may save you from needing to accept risks. 
+* `Avoid` - Sidestep or avoid the situation as a whole
+* `Minimize` - Reduce or control it. Mitigating a risk involves trying to minimize the catastrophic effects
+* `Transfer` - The strategy of transferring shifts the responsibility of handing the risk to someone else
+* `Accept` - `Actively Accept` - usually means setting aside extra funds to pay your way out of trouble. `Passively Accept` - is the "do nothing" approach. (Not recommended for most single point of failure risks). It's important to mitigate risks ahead of time. (proactive) - This may save you from needing to accept risks. 
 
 ★ `Risk Management Life Cycle`
 
