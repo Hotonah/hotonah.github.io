@@ -21,7 +21,7 @@ Project Execution – Running the Project
 
 ★ `Make Adjustments` - Make adjustments to plans throughout the project as required & make sure they’re communicated to all the correct stakeholders – Address weaknesses in your process or examine places where your team may need additional training – Adapt to changes in the project as they arise.
 
-★ Follow the `ROAM Analysis <https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing>`_ - To help your team stay organized you will categorize issues as Resolved, Owned, Accepted, or Mitigated. Knowing how you will handle these issues keeps you on track to complete the project.
+★ `Follow the` `ROAM Analysis <https://docs.google.com/spreadsheets/d/117UM42-K4kooBzD6RjXBIcGeRFMpaQ8WojX1trMVPFA/edit?usp=sharing>`_ - To help your team stay organized you will categorize issues as Resolved, Owned, Accepted, or Mitigated. Knowing how you will handle these issues keeps you on track to complete the project.
 
 ★ `Meetings` – Create presentations for your team to keep them informed on the project – To make your presentation engaging & memorable, you will tell a story using key data points, summarize take aways, & outline next steps. – Plan meetings to discuss open issues, after your presentation you will meet & discuss areas to improve as you prepare for launch. To ensure a focused & productive discussion create a meeting agenda that lays out open issues & lists topics for discussion. `Meeting Agenda <https://docs.google.com/document/d/1q9S1ftMbQWR-t_ZbA5TXUT3EERFUcIX7x0vqVBRFPBI/edit?usp=sharing>`_
 
@@ -29,7 +29,7 @@ Project Execution – Running the Project
 
 ★ `Conduct Ongoing Surveys` - To gain essential feedback from users & improve processes, Implement surveys when possible. `Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
 
-★ Conduct `Retrospectives <https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing>`_ - Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases – Form of process improvement. 
+★ `Conduct` `Retrospectives <https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing>`_ - Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases – Form of process improvement. 
 
 Types of Tracking Methods
 ========================
@@ -146,7 +146,7 @@ Continuous Improvements
 
 .. image:: media/Retro_Framework.PNG
 
-❤ Conduct `Retrospectives <https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing>`_ – Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases. You can conduct retros when you miss deadlines, miscommunications, end of sprints, etc. This is a form of process improvement.
+❤ `Conduct` `Retrospectives <https://docs.google.com/spreadsheets/d/1fuprNDHhMpItj9A-S7ywPidrQJ2eEBNVCD_KjMAJPjU/edit?usp=sharing>`_ – Throughout the project or after major milestones – Retros give you a chance to discuss successes & setbacks that took place within the project or phases. You can conduct retros when you miss deadlines, miscommunications, end of sprints, etc. This is a form of process improvement.
 
 * Encourage Team Building
 * Improved Collaboration
