@@ -29,9 +29,9 @@ Project Initiation
 
 * `Stakeholder Analysis <https://docs.google.com/presentation/d/1qOxMk-8Fwhss3GvGAS7LHewLROBiNArB_jrMdVtW_xY/edit?usp=sharing>`_ - Determines how & when to communicate
 * `RACI Chart 1 <https://docs.google.com/spreadsheets/d/1UXsIM6wEvnhjrI2SklvNltrK9txsrNqA0Vmh5qhcLK4/edit?usp=sharing>`_ - Determines roles and responsibilities 
-* Tracking Tools - Plan, track, complete work - Work management tools (Asana, Planner, Trello, Jira)
-* Communication Tools - Email, Asana, Teams, Slack
-* Scheduling Tools - MSProject, Google Docs, Smartsheet - Keep project on track
+* `Tracking Tools` - Plan, track, complete work - Work management tools (Asana, Planner, Trello, Jira)
+* `Communication Tools` - Email, Asana, Teams, Slack
+* `Scheduling Tools` - MSProject, Google Docs, Smartsheet - Keep project on track
 
 ★ `Ask yourself these questions:`
 
