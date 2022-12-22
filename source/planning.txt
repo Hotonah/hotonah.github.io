@@ -142,13 +142,13 @@ Estimating Times for Tasks
 
 ★ `Types of Dependencies:`
 
-❤ Finish to Start (FS) - Task A must be completed before task B
+❤ `Finish to Start (FS)` - Task A must be completed before task B
 
-❤ Finish to Finish (FF) - Task B can't finish until task A finishes
+❤ `Finish to Finish (FF)` - Task B can't finish until task A finishes
 
-❤ Start to Start (SS) - Task A can't begin until task B begins - Tasks start at the same time & run in parallel
+❤ `Start to Start (SS)` - Task A can't begin until task B begins - Tasks start at the same time & run in parallel
 
-❤ Start to Finish (SF) - Task A must start before task B can be completed.
+❤ `Start to Finish (SF)` - Task A must start before task B can be completed.
 
 `Risk Management Plan <https://docs.google.com/document/d/1K_8MrxC_qv0IeusNSPIsRgiJzy2BjNf1LYT3VB7_6hc/edit?usp=sharing>`_
 ======================
