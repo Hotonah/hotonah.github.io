@@ -7,17 +7,17 @@ The process performed to formally complete the project, the current phase, & con
 * `Closeout Report <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGqfVia52d6VqS6reOQecgr7Enp4/edit?usp=sharing>`_
 * `Impact Report <https://docs.google.com/presentation/d/1tnY_LFGXR_MWHGs8tx913Qcbu66OLnTI-S1t7AoxiuM/edit?usp=sharing>`_
 
-★ Assure all work is done – Ensure that the agreed upon project management processes are executes & get formal recognition from stakeholders that the project is done. Double check that all work is done.
+★ `Assure all work is done` – Ensure that the agreed upon project management processes are executes & get formal recognition from stakeholders that the project is done. Double check that all work is done.
 
-★ Agreed upon project management processes are executed – procedural, administrative, HR work that needs to take place afterward.
+★ `Agreed upon project management processes are executed` – procedural, administrative, HR work that needs to take place afterward.
 
-★ Formal recognition & agreement that the project is done by stakeholders.
+★ `Formal recognition & agreement` that the project is done by stakeholders.
 
-★ Pay special attention to protecting the scope of your project & you’re more likely to close the project successfully. If it feels the customer wants more from you then this project stated to deliver, the best option is to commit to a follow-up project & close the current one.
+★ Pay special attention to `protecting the scope of your project` & you’re more likely to close the project successfully. If it feels the customer wants more from you then this project stated to deliver, the best option is to commit to a follow-up project & close the current one.
 
-★ Formal close is important not only because improper closing may leave you on the hook for incomplete contracts r incomplete scop, but also because you want stakeholders to feel like their needs were met. Make sure stakeholders are satisfied with the quality of deliverables & end product.
+★ `Formal close` is important not only because improper closing may leave you on the hook for incomplete contracts r incomplete scop, but also because you want stakeholders to feel like their needs were met. Make sure stakeholders are satisfied with the quality of deliverables & end product.
 
-★ 1st decide if your project warrants a small closing process at the end of each milestone or a more formal comprehensive closing phase near the very end. You may even decide to do both the small closing process at the end of each milestone and a formal closing at the end. 
+★ 1st `decide if your project warrants a small closing process at the end of each milestone or a more formal comprehensive closing phase near the very end.` You may even decide to do both the small closing process at the end of each milestone and a formal closing at the end. 
 
 * Close out reports
 * Include notes from retros
@@ -40,17 +40,17 @@ Steps to Conducting Closing Process After Each Phase or Milestone
 Steps to Conducting a Closing Process at the `End` of your Project
 ===============================================
 
-❤ Provide the necessary trainings, tools, documentation, & capability to use your product. This includes things like manuals & how-to guides, which gives your customers & users an understanding of how to use the product or service after the project closed.
+❤ `Provide the necessary trainings, tools, documentation, & capability to use your product.` This includes things like manuals & how-to guides, which gives your customers & users an understanding of how to use the product or service after the project closed.
 
-❤ Ensure that the project has satisfied its goals & desired outcomes. Review the project to make sure all tasks & deliverables were completed & nothing is missing. Did you accomplish what you set out to do? Is the full scope of work completed?
+❤ `Ensure that the project has satisfied its goals & desired outcomes.` Review the project to make sure all tasks & deliverables were completed & nothing is missing. Did you accomplish what you set out to do? Is the full scope of work completed?
 
-❤ You will also want to document acceptance from all stakeholders like clients & sponsors. You have written proof that stakeholders are happy with the deliverables & outcomes. Retrospectives, project completion documents, or any other formal sign off.
+❤ You will also want to `document acceptance from all stakeholders like clients & sponsors.` You have written proof that stakeholders are happy with the deliverables & outcomes. Retrospectives, project completion documents, or any other formal sign off.
 
-❤ Review all contracts & documentation. This includes SOW, RFP, RACI chart, risk register, & procurement documents. Include your whole team in this review process to make sure nothing is missed.
+❤ `Review all contracts & documentation.` This includes SOW, RFP, RACI chart, risk register, & procurement documents. Include your whole team in this review process to make sure nothing is missed.
 
-❤ Conduct a formal retrospective, to document your lessons learned. Include your team & outside vendors in this meeting.
+❤ `Conduct a formal retrospective, to document your lessons learned.` Include your team & outside vendors in this meeting.
 
-❤ Disband & thank the project team.
+❤ `Disband & thank the project team.`
 
 `Impact Reporting <https://docs.google.com/presentation/d/1tnY_LFGXR_MWHGs8tx913Qcbu66OLnTI-S1t7AoxiuM/edit?usp=sharing>`_
 ==============
