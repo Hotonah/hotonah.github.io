@@ -105,7 +105,7 @@ Project Planning Best Practices
 
 Estimating Times for Tasks
 ============================
-★ How do you estimate the amount of time a given tasks will take, you do this will the help of your team. Ask team members assigned to the tasks what they think. 
+★ How do you estimate the amount of time a given tasks will take, you do this will the help of your team. `Ask team members assigned to the tasks what they think.` 
 
 ❤ How long does this take?
 
