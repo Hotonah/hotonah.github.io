@@ -19,17 +19,17 @@ Planning the Project
 * Milestone: An important point within the project schedule that indicates progress & usually signifies the completion of a deliverable in a phase of the project. To reach a milestone your team must complete multiple tasks.
 * Project Task: An activity that needs to be accomplished within a set period of time to keep the project schedule on track.
 
-★ `Create a Work Breakdown Structure (WBS)` - A visual tool that sorts milestones & tasks of a project in a hierarchy. The tasks should be visable in one place with clear descriptions, owners, & due dates. Should also contain detailed milestones & statuses related to the tasks. Helps understand all of the essential project tasks like, estimating costs, developing schedules, assigning roles & responsibilities, & tracking progress - Use tools like Asana or Tree Diagrams to create your WBS.
+★ `Create a Work Breakdown Structure (WBS)` - A visual tool that sorts milestones & tasks of a project in a hierarchy. The tasks should be visible in one place with clear descriptions, owners, & due dates. Should also contain detailed milestones & statuses related to the tasks. Helps understand all of the essential project tasks like, estimating costs, developing schedules, assigning roles & responsibilities, & tracking progress - Use tools like Asana or Tree Diagrams to create your WBS.
 
 ❤ Develop a `WBS <https://docs.google.com/spreadsheets/d/1Qeww1m7-ZvAiO-0xHACCG91aGjbDfR4nxDSBiyM_AWY/edit?usp=sharing&resourcekey=0-nmxxXkRTioysq61EcVGvgQ>`_ 
 
 * Brainstorm with the team to list major deliverables & milestones
-* Identify taskes to meet milestones
+* Identify tasks to meet milestones
 * Breakdown tasks into subtasks
 
 .. image:: media/wbs.PNG
 
-★ Create a `Schedule & Gantt Chart <https://docs.google.com/spreadsheets/d/165nB6opSYj0oup4Nm7BuWmiruAmQsE_CIzyHL1CqgTM/edit?usp=sharing>`_ - Create a plan from start to finish - Use scheduleing tools lik e MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule - Properly manage resources, budget, materials, & Timeline. 
+★ Create a `Schedule & Gantt Chart <https://docs.google.com/spreadsheets/d/165nB6opSYj0oup4Nm7BuWmiruAmQsE_CIzyHL1CqgTM/edit?usp=sharing>`_ - Create a plan from start to finish - Use scheduling tools like MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule - Properly manage resources, budget, materials, & Timeline. 
 
 .. image:: media/schedule.PNG
 
@@ -37,8 +37,8 @@ Planning the Project
 
 ★ `Procurement` - Legal documents of what you need from the vendor & what they need from you - Documents include: non disclosure agreement (NDA), Request for proposal (RFP), & statement of work (SOW).
 
-* `Request for Proposal (RFP) <https://docs.google.com/document/d/1zNbopN-IEZLrotVVHjswR85b19cwCbo0QeHDhaAKknY/edit?usp=sharing>`_ Includes: Overview, scope, goals, milestones, submittion requirements, questions you'd like the vendor to answer.
-* `Statement of Work (SOW) <https://docs.google.com/document/d/1HUUx9zyXZ2wHSEj3dnxHS8Yo3oamT1wgRru-PMXT6Yc/edit?usp=sharing>`_ Includes: Products and services a vendor or contraactor will provide for the organization - Ask for input from SMEs' when writting the contract.
+* `Request for Proposal (RFP) <https://docs.google.com/document/d/1zNbopN-IEZLrotVVHjswR85b19cwCbo0QeHDhaAKknY/edit?usp=sharing>`_ Includes: Overview, scope, goals, milestones, submission requirements, questions you'd like the vendor to answer.
+* `Statement of Work (SOW) <https://docs.google.com/document/d/1HUUx9zyXZ2wHSEj3dnxHS8Yo3oamT1wgRru-PMXT6Yc/edit?usp=sharing>`_ Includes: Products and services a vendor or contractor will provide for the organization - Ask for input from SMEs' when writing the contract.
 
 1. Initiating: Planning what you need to meet your project goals (NDA)
 2. Selecting: Deciding which supplies & vendors to use (RFP)
@@ -70,7 +70,7 @@ Project Planning Best Practices
 =================================
 ★ You aren't responsible for completing every task, You're responsible for identifying & helping assign these tasks, & estimating how long they will take to complete. These elements come together to determine the overall project schedule. 
 
-★ It may be necessary during a project to call a timeout: taking a moment to stop and step away from the project to takw a breath & regroup/adjust the game plan. (You may need to take a timeout when the client wants to redefine the scope or if team memebers are reassigned to another project & you need to backfill them. Throughout this you will want to hold meeting in order to discuss successes, setbacks, & possible furture improvements to the project. 
+★ It may be necessary during a project to call a timeout: taking a moment to stop and step away from the project to take a breath & regroup/adjust the game plan. (You may need to take a timeout when the client wants to redefine the scope or if team members are reassigned to another project & you need to backfill them. Throughout this you will want to hold meeting in order to discuss successes, setbacks, & possible future improvements to the project. 
 
 ★ Hold retrospective meetings: Focuses on identifying the contributing cause of an incident `without blaming anyone.` You should `always assume that everyone has good intentions & did the right thing with the information they had` whether or not it worked out well in the end. There's always a chance to learn & do better. It's important to identify effective techniques for communicating changes to the team or an individual.
 
@@ -84,7 +84,7 @@ Project Planning Best Practices
 * Utilize your team, mentors, or manager
 * Check, Check, and Double Check!
 
-★ Define `quality standards <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_ at the beginning of the projet - Well defined standards
+★ Define `quality standards <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_ at the beginning of the project - Well defined standards
 
 ❤ Quality Planning - Determine the quality standard & processes to satisfy them
 
@@ -101,15 +101,15 @@ Project Planning Best Practices
 * Present the product
 * Mock-up of the product or go through demo
 * Collect feedback
-* Prioratize & fix any issues
+* Prioritize & fix any issues
 
 Estimating Times for Tasks
 ============================
-★ How do you estimate the the amount of time a given tasks will take, you do this will the help of your team. Ask team members assigned to the tasks what they think. 
+★ How do you estimate the amount of time a given tasks will take, you do this will the help of your team. Ask team members assigned to the tasks what they think. 
 
 ❤ How long does this take?
 
-❤ How complex are the steps to complete this taks?
+❤ How complex are the steps to complete this task?
 
 ❤ What are the risks associated with the task?
 
@@ -123,7 +123,7 @@ Estimating Times for Tasks
 
 ★ 'Effort Estimation` - Prediction of the amount & difficulty of active work to complete a task - ONCE you have this information you need to determine if you have the right amount of people. To do this use a technique called capacity planning.
 
-★ `Capacity` - The amount of work that the people or resources assigned to the project can reasonibly complete in a set period of time. 
+★ `Capacity` - The amount of work that the people or resources assigned to the project can reasonably complete in a set period of time. 
 
 ★ `Critical Path (CP)` - The list of project milestones that you must reach in order to meet the project goal on schedule. As well as the mandatory tasks that contribute to the completion of each milestone. Your critical path includes the bare minimum number of tasks & milestones you need to reach your project goal. When creating a critical path, focus on the essential, “need to do” tasks, rather than the “nice to do” tasks that aren’t essential for the completion of the project. Here is an example of critical tasks for building the structure of a house:
 
@@ -133,7 +133,7 @@ Estimating Times for Tasks
 
 * List tasks, list dependencies, create network diagram (On CP in red, not on CP in blue), make estimates
 * Tasks that happen in parallel
-* Tasks that happen secuentially
+* Tasks that happen sequentially
 * Tasks with fixed start dates
 
 `Critical Path Method for Beginners <https://www.workamajig.com/blog/critical-path-method>`_
@@ -160,7 +160,7 @@ Estimating Times for Tasks
 
 ❤ Talk with SMEs & stakeholders they may have insight on how to handle these risks with strategies you haven't thought of yet.
 
-❤ Share risks & mitigation plan - discuss better mitigation tatics & new risks.
+❤ Share risks & mitigation plan - discuss better mitigation tactics & new risks.
 
 ★ `Types of Risk`
 
@@ -180,7 +180,7 @@ Estimating Times for Tasks
 ★ `Risk Management Life Cycle`
 
 * Identify the Risk
-* Analyze the Risk - Liklihood, impact, prioritize
+* Analyze the Risk - Likelihood, impact, prioritize
 * Evaluate the Risk
 * Treat the Risk - Response plan
 * Monitor & Control the risk - Assign team members to track & mitigate risks
@@ -206,7 +206,7 @@ Project `Budgeting <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc
 
 ★ `Utilize your Team, Mentors, & Managers` - Get into the habit of asking your team to double check your work to give you additional sets of eyes on your documents.
 
-★ `Time-Phase your Budget` - Time-phased budgeting allows you to allocate costs for project tasks over the projected timeline, in which those expenses are planned to take place. By looking at your tasks agaisnt a timeline, you can track & compare planned versus actual costs over time & manage changes to your budget as necessary.
+★ `Time-Phase your Budget` - Time-phased budgeting allows you to allocate costs for project tasks over the projected timeline, in which those expenses are planned to take place. By looking at your tasks against a timeline, you can track & compare planned versus actual costs over time & manage changes to your budget as necessary.
 
 ★ `Check, Check, & Double Check` - Make sure that your budget is accurate & error-free. Your budget will likely require approval from another department, such as finance or senior management, so do your best to ensure that it is as straight forward to understand as possible & that all of your calculations are correct.
 
@@ -214,9 +214,9 @@ Project `Budgeting <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc
 
 .. image:: media/Budget_Table.PNG
 
-★ Develop a Baseline `Budget <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc6ZR_oMxj7uFKjZJTt_7HDc0/edit?usp=sharing>`_ - An estimate (dollar amount) of project costs that you start with at the beginning of your project. Once budget is approved, you hsould publish this baseline & use it to compare against actual performance progress. This will provide insight into how the project is doing & allow you to make informed adjustments. Continually monitor your project budget & make necessary changes. Update can require the same approval as the initial budget. Re-baseline if you make significant changes.
+★ Develop a Baseline `Budget <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc6ZR_oMxj7uFKjZJTt_7HDc0/edit?usp=sharing>`_ - An estimate (dollar amount) of project costs that you start with at the beginning of your project. Once budget is approved, you should publish this baseline & use it to compare against actual performance progress. This will provide insight into how the project is doing & allow you to make informed adjustments. Continually monitor your project budget & make necessary changes. Update can require the same approval as the initial budget. Re-baseline if you make significant changes.
 
-★ `Perform a Reserve Analysis` - A reserve analysis wil help you account for any buffer fund you may need. 1st review all potential risks to your project & determine if you need to add buffer funds. 
+★ `Perform a Reserve Analysis` - A reserve analysis will help you account for any buffer fund you may need. 1st review all potential risks to your project & determine if you need to add buffer funds. 
 
 ❤ Use milestones as checkpoints for budget.
 
