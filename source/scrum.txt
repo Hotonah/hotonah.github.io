@@ -113,20 +113,20 @@ Scrum Master
 
 The components of user stories & epics
 =============================================
-❤ User stories are short, simple descriptions of a deliverable told from the perspective of the user. Creating user stories helps the team develop a solution that is always centered around the user’s needs and overall experience. 
+❤ User stories are `short, simple descriptions` of a deliverable told from the perspective of the user. Creating user stories helps the team develop a solution that is always centered around the user’s needs and overall experience. 
 
-❤ Epics are a collection of user stories. Think of the concept of user stories in terms of books or films. A story is one single narrative, while an epic is a set of several related, independent stories. Each story tells a specific chronicle, while an epic gives a high-level view of the overall arc. 
+❤ Epics are a `collection of user stories`. Think of the concept of user stories in terms of books or films. A story is one single narrative, while an epic is a set of several related, independent stories. Each story tells a specific chronicle, while an epic gives a high-level view of the overall arc. 
 
 ★ User stories
 
-❤ The driving factor behind every Scrum project is putting the customer first. User stories are a key component of ensuring that customers are satisfied with the product. A team writes a user story from the perspective of the user. Not only do user stories provide insight into what goals the user wants to achieve, but they enable collaboration, inspire creative solutions, and create momentum by giving the team a small win when the stories are developed. 
+❤ The driving factor behind every Scrum project is `putting the customer first`. User stories are a key component of ensuring that customers are satisfied with the product. A `team writes a user story from the perspective of the user`. Not only do user stories provide insight into what goals the user wants to achieve, but they enable collaboration, inspire creative solutions, and create momentum by giving the team a small win when the stories are developed. 
 
-❤ When writing user stories, you will need to include the following components: 
+❤ `When writing user stories, you will need to include the following components:`
 
-* User persona. What is your user like? What is their relation to the project? What goals do they have? 
-* Definition of Done. This refers to an agreed upon set of items that must be completed before a user story can be considered complete. 
-* Tasks. What are the key activities needed to complete the user story?
-* Any feedback already provided. If you are adding features to an existing product and you have already received feedback from customers on a past iteration, make sure to consider this feedback.  
+* `User persona` What is your user like? What is their relation to the project? What goals do they have? 
+* `Definition of Done` This refers to an agreed upon set of items that must be completed before a user story can be considered complete. 
+* `Tasks` What are the key activities needed to complete the user story?
+* `Any feedback already provided` If you are adding features to an existing product and you have already received feedback from customers on a past iteration, make sure to consider this feedback.  
 
 ★ `I.N.V.E.S.T.` 
 
@@ -143,11 +143,11 @@ The components of user stories & epics
 
 ★ Epics
 
-❤ An epic’s purpose is to help manage related user stories. Mike Cohn, the inventor of the term “epic” as it relates to Scrum, describes epic as a “very large user story”—one that could not be delivered within a single iteration and may need to be split into smaller stories. The team should discuss together and reach a shared view of how to write and capture their user stories and epics. Keep in mind, epics are just larger user stories that are there to help organize the project. 
+❤ An epic’s purpose is to help manage related user stories. Mike Cohn, the inventor of the term `epic` as it relates to Scrum, describes epic as a `very large user story` — one that could not be delivered within a single iteration and may need to be split into smaller stories. The team should discuss together and reach a shared view of how to write and capture their user stories and epics. Keep in mind, `epics are just larger user stories` that are there to help organize the project. 
 
-❤ Let’s imagine you are creating user stories and epics based on the previous example. User stories may include customers wanting to read reviews of books on the website or wanting to add books to their cart. These user stories could fall into the “website creation” epic. 
+❤ Let’s imagine you are creating user stories and epics based on the previous example. User stories may include customers wanting to read reviews of books on the website or wanting to add books to their cart. These user stories could fall into the `website creation` epic. 
 
-❤ Another user story could be that customers want to walk into the library and easily find the non-fiction section. This would fall under the “organization of the physical space” epic.
+❤ Another user story could be that customers want to walk into the library and easily find the non-fiction section. This would fall under the `organization of the physical space` epic.
 
 ❤ So rather than those various user stories appearing in a list together, they are organized into sections, or epics.
 
@@ -159,7 +159,7 @@ The components of user stories & epics
 
 T-shirt sizes and story points
 ========================================
-◆ T-shirt sizes and story points—the two most common units used to help teams estimate user stories in Agile projects. In this reading, we will explore the processes of estimating user stories in these units. 
+◆ `T-shirt sizes` and `story points` — the two most common units used to help teams estimate user stories in Agile projects. In this reading, we will explore the processes of estimating user stories in these units. 
 
 ◆ Relative estimation means to compare the effort estimated for completing a backlog item to the effort estimated for another backlog item. Doing this instead of trying to determine exactly how long a task will take allows your comparisons and estimates to be more accurate relative to one another.
 
@@ -169,16 +169,21 @@ T-shirt sizes and story points
 
 .. image:: media/tshirt.PNG
 
-❤ So what does the process of assigning T-shirt sizes entail? There are several specific techniques a team can try, but each generally follows these steps. The team: 
+❤ So what does the process of assigning T-shirt sizes entail? There are several specific techniques a team can try, but each generally follows these steps. 
+
+`The team:`
 
 * Agrees on the chosen scale and metrics to be used.
 * Identifies at least one anchor backlog item. That item will be assigned a T-shirt size. Some teams will choose two anchor items—one at the top of the range and one at the bottom of the range.
 * Sorts through the remaining backlog items and agrees on T-shirt sizes for each of them. 
 
-★ Story points
+★ `Story points`
 
-❤ Using story points as the estimate unit is a little more advanced than T-shirt sizes, but it is essentially the same concept. This method is good for experienced teams. When using story points, teams usually use the Fibonacci sequence. As a reminder, this sequence comes from adding the two previous numbers in the sequence together. For example, 1 + 2 = 3 and 2 + 3 = 5. The important thing to notice about this sequence is that, as the list continues on, the numbers spread further apart from each other. Because of this, story points provide more accuracy and specificity than T-shirt sizes. 
-❤ So what does the process of assigning story points entail? There are several specific techniques a team can try, but the basic steps are the same as with T-shirt sizes. The team: 
+❤ Using `story points` as the estimate unit is a little more advanced than T-shirt sizes, but it is essentially the same concept. This method is good for experienced teams. When using story points, teams usually use the Fibonacci sequence. As a reminder, this sequence comes from adding the two previous numbers in the sequence together. `For example, 1 + 2 = 3 and 2 + 3 = 5.` The important thing to notice about this sequence is that, as the list continues on, the numbers spread further apart from each other. Because of this, story points provide more accuracy and specificity than T-shirt sizes. 
+
+❤ So what does the process of assigning story points entail? There are several specific techniques a team can try, but the basic steps are the same as with T-shirt sizes. 
+
+`The team:` 
 
 * Agrees on the permitted points values. Some teams cap the size at a certain number, like 21. Some teams decide to jump from 21 to 100 as the next larger value. This is a team decision.
 * Identifies at least one anchor backlog item and agrees to assign it a points value. Some teams will choose two anchor items, one at the top of the range and one at the bottom of the range.
@@ -186,7 +191,9 @@ T-shirt sizes and story points
 
 ★ `Best practices`
 
-❤ Some best practices, regardless of the technique you use, include:
+❤ Some best practices, regardless of the technique you use, 
+
+`include:`
 
 * Asking the Product Owner questions about the user story or item to ensure that there is enough information to estimate it.
 * Discussing divergent estimates from various team members so that everyone has a chance to understand how to implement the item.
@@ -197,7 +204,7 @@ T-shirt sizes and story points
 
 Sprint
 =============
-◆ Think of it as a mini project – Planning, execution, delivery, closing, & a retrospective all wrapped into a bite-sized package.
+◆ Think of it as a `mini project` – `Planning, execution, delivery, closing,` & a `retrospective` all wrapped into a `bite-sized package.`
 
 .. image:: media/sb1.PNG
 
@@ -205,11 +212,11 @@ Sprint
 
 ★ `Timeboxes:`
 
-❤ Create a sense of urgency which will drive prioritization & organization.
+❤ Create a sense of `urgency` which will drive prioritization & organization.
 
-❤ Provide a window of focus which will translate into productivity gains.
+❤ Provide a window of `focus` which will translate into productivity gains.
 
-❤ Helps the team develop a predictable rhythm to their work. 
+❤ Helps the team develop a `predictable rhythm` to their work. 
 
 * 1 – 4 weeks 
 * Rigorous Testing
@@ -217,7 +224,7 @@ Sprint
 
 Sprint Planning
 ==============
-❤ The entire team comes together & meets to confirm how much capacity, time, & people, are available during this sprint & then they identify what items from backlog will be done during the sprint. This becomes the sprint backlog & ultimately, the sprint goal.
+❤ The entire team comes together & meets to confirm how much `capacity, time, & people,` are available during this sprint & then they `identify what items from backlog will be done during the sprint.` This becomes the sprint backlog & ultimately, the `sprint goal.`
 
 ★ `Scrum master facilitates communication:`
 
@@ -228,11 +235,11 @@ Sprint Planning
 * What should we accomplish?
 * What is the sprint goal?
 
-★ Sprints are the heartbeat of Scrum, where ideas are turned into value.
+★ Sprints are the `heartbeat` of Scrum, where ideas are turned into value.
 
-❤ They are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
+❤ They are `fixed length events of one month or less` to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
 
-❤ All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
+❤ All the work necessary to achieve the `Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective,` happen within Sprints.
 
 ❤ `During the Sprint:`
 
@@ -241,7 +248,7 @@ Sprint Planning
 * The Product Backlog is refined as needed; and,
 * Scope may be clarified and renegotiated with the Product Owner as more is learned.
 
-❤ Sprints enable predictability by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. Each Sprint may be considered a short project.
+❤ Sprints enable `predictability` by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. `Each Sprint may be considered a short project.`
 
 ❤ Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
 
@@ -249,7 +256,9 @@ Sprint Planning
 
 Daily Sprint
 =======================
-★ Daily Scrum, which is sometimes referred to as stand up, is a time for the Scrum Team to synchronize and prioritize activities for the day. In 15 minutes, and at the same time and place every day, each team member answers the following questions: What did I do yesterday that helped the Development Team, meet the Sprint goal? What will I do today to help the Development Team meet the Sprint goal? Do I notice any impediment that prevents me or the Development Team from meeting our goals? Daily stand ups should provide the Scrum Master with the opportunity to quickly unblock the team with little delay. And Daily Stand-ups are an opportunity to reinforce focus on the Sprint Backlog and Sprint Goal. The official Scrum Guide says that Daily Stand-ups must happen every single day, though I will say I have had successful Scrum Teams who meet less frequently than that. My current Scrum Team has a one week Sprint and we have stand-ups two days during the week. We found that this works really well for us. Try it out and see what works best for your team. 
+★ Daily Scrum, which is sometimes referred to as stand up, is a time for the Scrum Team to synchronize and prioritize activities for the day. `In 15 minutes,` and at the `same time and place every day,` each team member answers the following questions: `What did I do yesterday that helped the Development Team, meet the Sprint goal?What will I do today to help the Development Team meet the Sprint goal? Do I notice any impediment that prevents me or the Development Team from meeting our goals?` 
+
+★ Daily stand ups should provide the Scrum Master with the opportunity to `quickly unblock the team with little delay.` And Daily Stand-ups are an opportunity to reinforce `focus on the Sprint Backlog and Sprint Goal.` The official Scrum Guide says that Daily Stand-ups must happen every single day, though I will say I have had successful Scrum Teams who meet less frequently than that. My current Scrum Team has a one week Sprint and we have stand-ups two days during the week. We found that this works really well for us. Try it out and see what works best for your team. 
 
 ❤ What did I do yesterday that helped the development team meet the sprint goal?
 
@@ -261,9 +270,9 @@ Daily Sprint
 
 Sprint Review
 ===============
-★ At the closing of a Sprint, the team will complete another event, known as the Sprint Review. This Sprint event is crucial to the Scrum Pillars of inspection and adaptation, and demonstrates the values of openness, courage, and respect. Let's discuss what I mean by that.
+★ At the closing of a Sprint, the team will complete another event, known as the Sprint Review. This Sprint event is `crucial to the Scrum Pillars of inspection and adaptation, and demonstrates the values of openness, courage, and respect.` Let's discuss what I mean by that.
 
-❤ The Sprint Review is a meeting with the entire Scrum Team where the product is demonstrated in order to determine which aspects are finished and which aren't. During a Sprint Review, the Development Team and Product Owner will play a heavy role in this inspection and discussion. They will also cover an exploration of which items should be considered done in the Product Backlog, and they'll demonstrate and inspect the product. Sprint Reviews should be really fun and uplifting. The Sprint Review is when the team gets to impress each other with the cool things they've accomplished over the last 1 to 4 weeks. These time-boxed meetings should not exceed four hours and they're a good opportunity for the team to practice the Scrum Values of openness and respect, as they give feedback about the completed work. Often, some of the greatest product ideas come out of the Sprint Review.
+❤ The Sprint Review is a meeting with the entire Scrum Team where the product is demonstrated in order to determine `which aspects are finished and which aren't.` During a Sprint Review, the Development Team and Product Owner will play a heavy role in this inspection and discussion. They will also cover an exploration of which items should be considered done in the Product Backlog, and they'll demonstrate and inspect the product. `Sprint Reviews should be really fun and uplifting.` The Sprint Review is when the team gets to impress each other with the `cool things they've accomplished over the last 1 to 4 weeks.` These time-boxed meetings should not exceed four hours and they're a good opportunity for the team to `practice the Scrum Values of openness and respect, as they give feedback about the completed work.` Often, some of the greatest product ideas come out of the Sprint Review.
 
 Sprint Retrospective
 ==================
@@ -276,17 +285,17 @@ Sprint Retrospective
 
 ★ `Pitfalls:`
 
-❤ Avoid too many gimmicks. There are many fun games and exercises that can be used by a Scrum Master when facilitating a Sprint Retrospective. However, not all teams enjoy this style. Consider using these exercises only occasionally or when the team asks for new ways of doing retrospectives.
+❤ `Avoid too many gimmicks.` There are many fun games and exercises that can be used by a Scrum Master when facilitating a Sprint Retrospective. However, not all teams enjoy this style. Consider using these exercises only occasionally or when the team asks for new ways of doing retrospectives.
 
-❤ Try not to only focus on the negative. Not only is it necessary for the team to recognize what’s not working well, it is also important to highlight where they exceeded expectations. This ensures that the team both avoids failures and repeats successes as well.
+❤ `Try not to only focus on the negative.` Not only is it necessary for the team to recognize what’s not working well, it is also important to highlight where they exceeded expectations. This ensures that the team both avoids failures and repeats successes as well.
 
-❤ Avoid changing processes after each retrospective. It is okay to keep a new process in place for a few Sprints before deciding whether it was useful or not. You can always make note of opportunities for change, but try to wait a few Sprints before implementing new changes.
+❤ `Avoid changing processes after each retrospective.` It is okay to keep a new process in place for a few Sprints before deciding whether it was useful or not. You can always make note of opportunities for change, but try to wait a few Sprints before implementing new changes.
 
 ★ `Best Practices:`
 
-❤ Ask open-ended, probing questions. Ask questions that require thoughtful discussion rather than a yes-or-no answer. For example, ask, “How could we have better achieved our Sprint Goal?” rather than “Did we achieve the Sprint Goal?””
+❤ `Ask open-ended, probing questions.` Ask questions that require thoughtful discussion rather than a yes-or-no answer. For example, ask, “How could we have better achieved our Sprint Goal?” rather than “Did we achieve the Sprint Goal?””
 
-❤ Consider diverse styles of communication and participation. Make it easy for all team members to contribute their ideas and feedback. For example, not everyone feels comfortable speaking up in a large group. Try things like starting the retrospective with silent reflection by journaling or putting the team into pairs before starting a larger group conversation.
+❤ `Consider diverse styles of communication and participation.` Make it easy for all team members to contribute their ideas and feedback. For example, not everyone feels comfortable speaking up in a large group. Try things like starting the retrospective with silent reflection by journaling or putting the team into pairs before starting a larger group conversation.
 
 ❤ `Cover the many aspects of the Sprint when conducting a retrospective:`
 
@@ -296,7 +305,7 @@ Sprint Retrospective
 * Stakeholder communication
 * Progress towards more long-range release plans
 
-❤ Consider reflecting periodically on Scrum theory and values by asking specific questions. For example, ask, “How could the team become more transparent?” or “How did we abide by our Scrum values in this Sprint?”
+❤ `Consider reflecting periodically on Scrum theory and values by asking specific questions. For example, ask, “How could the team become more transparent?” or “How did we abide by our Scrum values in this Sprint?”`
 
 Roadmaps
 ===============
