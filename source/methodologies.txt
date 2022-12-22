@@ -15,11 +15,11 @@ Types of Project Methodologies
 
 ★ `Lean-Six Sigma (Agile)` - Uses technique of making the team feel valued to motivate them. Streamline processes – Reduces variation to ensure processes are the same every time.
 
-Process improvement – Find where problems are occurring in current processes and fix the using these frameworks.
+❤ `Process improvement` – Find where problems are occurring in current processes and fix the using these frameworks.
 
 .. image:: media/Retro_Framework.PNG
 
-❤ This technique can be used to solve any business problem
+❤ `This technique can be used to solve any business problem`
 
 * Define the project goals & what it takes to complete it
 * Measure how the current process is performing & figure out where the problem is & how to fix that problem. – Data Measurement
@@ -29,11 +29,11 @@ Process improvement – Find where problems are occurring in current processes a
 
 ❤ `6-Sigma 5 Principals`
 
-* Define Value - What the customer wants
-* Map Value - Streamline process
-* Create Flow - Eliminate waste
-* Establish Pull - Pulling on product
-* Preserve Perfection - Continuously improve
+* `Define Value` - What the customer wants
+* `Map Value` - Streamline process
+* `Create Flow` - Eliminate waste
+* `Establish Pull` - Pulling on product
+* `Preserve Perfection` - Continuously improve
 
 .. image:: media/Umbrella.png
 
@@ -81,15 +81,15 @@ Through this work we have come to value:”
 
 ★ `4 Values of the Agile Manifesto`:
 
-* Individuals and interactions - over processes and tools
-* Working software - over comprehensive documentation
-* Customer collaboration - over contract negotiation
-* Responding to change - over following a plan
+* `Individuals and interactions` - over processes and tools
+* `Working software` - over comprehensive documentation
+* `Customer collaboration` - over contract negotiation
+* `Responding to change` - over following a plan
 
 ❤ That is, while there is value in the items on
 the right, we value the items on the left more.
 
-★ `12 Principals of the Agile Manifesto Grouped into 4 Themes`:
+★ `12 Principals of the Agile Manifesto Grouped into 4 Themes:`
 
 ❤ `Value Delivery` – How do agile teams delivery highly valuable products to their customers?
 
@@ -99,7 +99,7 @@ the right, we value the items on the left more.
 
 ❤ `Retrospectives & Continuous Learning` - How does the project team learn to continuously increase performance of an organization & business?
 
-★ `Value Delivery`:
+★ `Value Delivery:`
 
 ❤ Our highest priority is to satisfy the customer through early & continuous delivery of valuable software
 
@@ -111,13 +111,13 @@ the right, we value the items on the left more.
 
 ❤ Continuous attention to technical excellence & good design enhances agility. Delivering work as quickly as possible in order to get feedback & mitigate time risk.
 
-★ `Business Collaboration`: 
+★ `Business Collaboration:`
 
 ❤ Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
 
 ❤ Businesspeople & developers must work together daily throughout the project. Collaborating with your customers helps the team get critical business information immediately allowing them to adjust & scope to any new information instantly.
 
-★ `Team Dynamics & Culture`:
+★ `Team Dynamics & Culture:`
 
  ❤ Build projects around motivated individuals. Give them the environment & support they need & trust them t get the job done.
 
@@ -127,9 +127,7 @@ the right, we value the items on the left more.
 
 ❤ The best architectures, requirements, & designs emerge from self-organizing teams. Create an effective team culture that is inclusive, supportive, & empowering. Keep them motivate & trust them. Give them the tools & resources they need to reach their goals & let them decide on procedure. Help them feel that their input is valued. 
 
-★ ‘Retrospectives & Continuous Learning` :
-
-(Link to retrospective section)
+★ `Retrospectives & Continuous Learning: <https://hotonah.github.io/hotonahcom/execution#continuous-improvements>`_
 
 ❤ At regular intervals, the team reflects on how to become more effective, then tunes & adjusts their behavior accordingly. 
 
@@ -147,18 +145,18 @@ VUCA
 
 ❤ Helps decide which project management approach is best for you. An acronym that define the conditions of the organization in a changing & complex world.
 
-* V – Volatility
-* U – Uncertainty
-* C – Complexity
-* A – Ambiguity
+* `V` – Volatility
+* `U` – Uncertainty
+* `C` – Complexity
+* `A` – Ambiguity
 
-❤ Volatility – Refers to the rate of change & churn in a business or situation. In a volatile project, you would discuss how the next disruption to your operations is always right around the corner. Or it feels like things never have time to settle into a normal rhythm.
+❤ `Volatility` – Refers to the rate of change & churn in a business or situation. In a volatile project, you would discuss how the next disruption to your operations is always right around the corner. Or it feels like things never have time to settle into a normal rhythm.
 
-❤ Uncertainty - Refers to the lack of predictability or high potential for surprise. In an uncertain environment, it would be difficult to create plans for the future that we're not based on a large number of assumptions that could turn out to be incorrect.
+❤ `Uncertainty` - Refers to the lack of predictability or high potential for surprise. In an uncertain environment, it would be difficult to create plans for the future that we're not based on a large number of assumptions that could turn out to be incorrect.
 
-❤ Complexity - Refers to the high number of interrelated forces, issues, organizations, and factors that would influence the project. For example, if one product being worked on relied on diverse and global suppliers, that would add to the complexity of the project. 
+❤ `Complexity` - Refers to the high number of interrelated forces, issues, organizations, and factors that would influence the project. For example, if one product being worked on relied on diverse and global suppliers, that would add to the complexity of the project. 
 
-❤ Ambiguity - Refers to the possibility of misunderstanding the conditions and root causes of events or circumstances. A project that suffered from ambiguity would have difficulty pinpointing the causes of project delays, making it difficult to design mitigation plans to reduce the risks.
+❤ `Ambiguity` - Refers to the possibility of misunderstanding the conditions and root causes of events or circumstances. A project that suffered from ambiguity would have difficulty pinpointing the causes of project delays, making it difficult to design mitigation plans to reduce the risks.
 
 ★ If your project environment has high levels of volatility, uncertainty, complexity, and ambiguity, then it's a good sign that you should consider an Agile approach. While an Agile approach is not a perfect solution that will get rid of VUCA, it will lead to better outcomes by giving you and your team tools and systems to mitigate the risks that VUCA presents. When you consider Agile values and principles, it's clear that Agile is a proven and well-documented solution to the challenges VUCA presents to your project.
 
@@ -168,7 +166,7 @@ Blending Methods
 
 ❤ Agile is a mindset - a way of thinking about the project. Delivery process through the value & principals outlined in the agile manifesto. 
 
-★ `The Spotify Model`
+★ `The Spotify Model:`
 
 Because of their flexible approach, Spotify—a music streaming company with millions of listeners—is known in the Agile project management field for setting the standard pretty high. In this reading, you will learn about the Spotify model and the importance of being flexible when scaling an Agile team. 
 
