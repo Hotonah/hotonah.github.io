@@ -172,10 +172,10 @@ Leadership & Management on Teams
 ===============================
 ❤ Influencing is the ability to alter another person's thinking or behaviors.
 
-1. Establish credibility - `Why` they should listen to you!
-2. Frame for common good
-3. Provide evidence
-4. Connect emotionally - Help others achieve their own goals
+* Establish credibility - `Why` they should listen to you!
+* Frame for common good
+* Provide evidence
+* Connect emotionally - Help others achieve their own goals
 
 Handling Ambiguity
 ===================
