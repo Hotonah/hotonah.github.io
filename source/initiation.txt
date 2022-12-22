@@ -118,11 +118,11 @@ Setting Goals
 
 ★ `When setting Goals set SMART goals:`
 
-* Specific
-* Measurable - Identify a metric to determine a measurable outcome
-* Attainable - You want the goal to be challenging but not impossible to reach
-* Relevant - Relate goal to the companies' larger objectives & key results (OKRs)
-* Time-bound - Set a clear deadline
+* `Specific`
+* `Measurable` - Identify a metric to determine a measurable outcome
+* `Attainable` - You want the goal to be challenging but not impossible to reach
+* `Relevant` - Relate goal to the companies' larger objectives & key results (OKRs)
+* `Time-bound` - Set a clear deadline
 
 ❤ `SMART goal examples` - `Set SMART Goals <https://docs.google.com/document/d/1-Jxi3j_FwX8sFQ4TQJFz4P0Vza4L6gT2V2cQNFG3_DA/edit?usp=sharing>`_
 
