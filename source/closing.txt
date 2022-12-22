@@ -103,7 +103,7 @@ Project `Closeout Report <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGq
 
 ★ It evaluates the project’s performance with respect to budget & schedule.
 
-❤ Can be used to determine best practices when it comes to future projects. Think of it as a transfer of knowledge from you to future project managers. Once a project closes, there is a chance a similar project or a continuation of that project will come up within the organization & a different PM is assigned. If you create an in-depth closeout report, it will help the new PM know what happened. Your closeout report could include things that worked well & things that did not work well. Creating a closeout report will help reduce the questions from new PMs. 
+❤ `Can be used to determine best practices when it comes to future projects.` Think of it as a transfer of knowledge from you to future project managers. Once a project closes, there is a chance a similar project or a continuation of that project will come up within the organization & a different PM is assigned. If you create an in-depth closeout report, it will help the new PM know what happened. Your closeout report could include things that worked well & things that did not work well. Creating a closeout report will help reduce the questions from new PMs. 
 
 ◆ `Include`:
 
