@@ -191,9 +191,7 @@ T-shirt sizes and story points
 
 ★ `Best practices`
 
-❤ Some best practices, regardless of the technique you use, 
-
-`include:`
+❤ Some `best practices,` regardless of the technique you use, `include:`
 
 * Asking the Product Owner questions about the user story or item to ensure that there is enough information to estimate it.
 * Discussing divergent estimates from various team members so that everyone has a chance to understand how to implement the item.
