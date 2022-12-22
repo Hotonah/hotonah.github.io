@@ -179,11 +179,11 @@ Estimating Times for Tasks
 
 ★ `Risk Management Life Cycle`
 
-* Identify the Risk
-* Analyze the Risk - Likelihood, impact, prioritize
-* Evaluate the Risk
-* Treat the Risk - Response plan
-* Monitor & Control the risk - Assign team members to track & mitigate risks
+* `Identify` the Risk
+* `Analyze` the Risk - Likelihood, impact, prioritize
+* `Evaluate` the Risk
+* `Treat` the Risk - Response plan
+* `Monitor & Control` the risk - Assign team members to track & mitigate risks
 
 ★ `Uncover opportunities using Risk Management`
 
