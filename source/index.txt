@@ -34,6 +34,8 @@ Project Management Core Skills
 ================================
 Your role as project manager is to communicate with your stakeholders, clarify objectives, and set expectations. Trust your team to handle the details of each project task & communicate with you when there is an issue. Through direct communication & strategic approach to problem solving, you can provide solutions & help remove barriers for your team. This is where you add value!
 
+★ `ALWAYS Reference Historical Project Data` - Your project may be similar to a previous project your organization has worked on. It is important to review how past projects were handled including the budget, schedule, project team, roles & responsibilities, risks, & communication plans. Review any past project documents that may help you plan your project, you can even search the web for similar projects to seek extra help.
+
 ★ `Planning & Organizing` - Figure out what the project is trying to accomplish - Gather requirements from teammates or customers - Run kick off meetings - Create project plans - Prioritize tasks and break tasks down into smaller steps - Delegate tasks to team members who can best complete the work - Help move tasks along. 
 
 ★ `Manage Tasks` - Help manage tasks for team members - Communicate key milestones to the team or customers - Update all stakeholders on project progress - Follow through on tasks - Hold teammates accountable - Remove barriers for team and project - Conduct standups (what got done the day/week before & what needs to get done today).
