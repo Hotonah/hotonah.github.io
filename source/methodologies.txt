@@ -9,7 +9,7 @@ Types of Project Methodologies
 
 ★ `Scrum (Agile)` - The most popular methodology of agile PM. You form a team that will work together to quickly develop & test a deliverable. The work is completed in short cycles & the team meets daily to discuss current tasks & clear up anything that’s blocking their progress.
 
-★ `Extreme Programming XP (Agile) – Built around simplicity, designing, & releasing a basic product that works then adding features in later. Design, Code, Test (lots of testing), Listen customer feedback.
+★ `Extreme Programming XP (Agile)` – Built around simplicity, designing, & releasing a basic product that works then adding features in later. Design, Code, Test (lots of testing), Listen customer feedback.
 
 ★ `Kanban (Agile)` - A visual tool to represent progress. Sign board with To-Do, In-Progress (WIP Limit), & Done. With a backlog for tasks to be completed later. (Link to Kanban board)
 
