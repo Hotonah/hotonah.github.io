@@ -85,7 +85,7 @@ Focus on the Customer & Team
 Build the Project Team
 ==========================
 
-❤ A successful project manager sees the impact of each process within the project and communicates them to the team. This ensures that everyone working on the project understands their tasks goal as well as the bigger picture. Allow the team to understand the 'why' in the project and encourage them to be innovative.
+❤ A successful project manager sees the impact of each process within the project and communicates them to the team. This ensures that everyone working on the project understands their tasks goal as well as the bigger picture. Allow the team to understand the `why` in the project and encourage them to be innovative.
 
 * Plan out a checklist of ideas to talk about
 * List objectives
