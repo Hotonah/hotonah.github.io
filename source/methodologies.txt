@@ -102,7 +102,8 @@ the right, we value the items on the left more.
 
 ❤ `Retrospectives & Continuous Learning` - How does the project team learn to continuously increase performance of an organization & business?
 
-★ `Value Delivery:`
+Value Delivery
+=====================
 
 ❤ Our highest priority is to satisfy the customer through early & continuous delivery of valuable software
 
@@ -114,13 +115,15 @@ the right, we value the items on the left more.
 
 ❤ Continuous attention to technical excellence & good design enhances agility. Delivering work as quickly as possible in order to get feedback & mitigate time risk.
 
-★ `Business Collaboration:`
+Business Collaboration
+==============================
 
 ❤ Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
 
 ❤ Businesspeople & developers must work together daily throughout the project. Collaborating with your customers helps the team get critical business information immediately allowing them to adjust & scope to any new information instantly.
 
-★ `Team Dynamics & Culture:`
+Team Dynamics & Culture
+=============================
 
 ❤ Build projects around motivated individuals. Give them the environment & support they need & trust them t get the job done.
 
@@ -130,7 +133,8 @@ the right, we value the items on the left more.
 
 ❤ The best architectures, requirements, & designs emerge from self-organizing teams. Create an effective team culture that is inclusive, supportive, & empowering. Keep them motivate & trust them. Give them the tools & resources they need to reach their goals & let them decide on procedure. Help them feel that their input is valued. 
 
-★ `Retrospectives & Continuous Learning: <https://hotonah.github.io/hotonahcom/execution#continuous-improvements>`_
+`Retrospectives & Continuous Learning: <https://hotonah.github.io/hotonahcom/execution#continuous-improvements>`_
+=====================================================================
 
 ❤ At regular intervals, the team reflects on how to become more effective, then tunes & adjusts their behavior accordingly. 
 
