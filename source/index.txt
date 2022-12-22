@@ -80,7 +80,7 @@ Planning & Organizing
 
 Focus on the Customer & Team
 ===============================
-❤ Project managers can add value by building relationships, make sure the team is heard and satisfied with the result. Understand the team's motivation, strengths, and weaknesses. To build the right team, consider the skills and resources needed for the project. Allow the team to have input, ask questions, and address their needs ASAP. Clearly understand customer expectations. Write/gather requirements for customers and translate information into documentation for engineers so they can implement it. Manage timelines, tasks, understand all the pieces of who needs to be involved. 
+❤ Project managers can add value by building relationships, make sure the team is heard and satisfied with the result. Understand the team's motivation, strengths, and weaknesses. To build the right team, consider the skills and resources needed for the project. `Allow the team to have input, ask questions, and address their needs ASAP.` Clearly understand customer expectations. Write/gather requirements for customers and translate information into documentation for engineers so they can implement it. Manage timelines, tasks, understand all the pieces of who needs to be involved. 
 
 Build the Project Team
 ==========================
