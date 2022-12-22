@@ -152,15 +152,15 @@ Estimating Times for Tasks
 
 `Risk Management Plan <https://docs.google.com/document/d/1K_8MrxC_qv0IeusNSPIsRgiJzy2BjNf1LYT3VB7_6hc/edit?usp=sharing>`_
 ======================
-★ A Living document that contains information regarding high level risks & the mitigation plans for those risks. Risk Management is an ongoing practice that you will take part in throughout the planning & execution of a project. 
+★ A `Living document` that contains information regarding high level risks & the mitigation plans for those risks. Risk Management is an ongoing practice that you will take part in throughout the planning & execution of a project. 
 
-❤ Risk management evolves throughout the project, the plan should be updated regularly to add newly identified risks, remove risks that are no longer relevant, & include any changes in the mitigation plans.
+❤ `Risk management plan evolves throughout the project,` the plan should be updated regularly to add newly identified risks, remove risks that are no longer relevant, & include any changes in the mitigation plans.
 
-❤ In the risk management document include author, project title, status, created date, & updated date.
+❤ In the risk management document include `author, project title, status, created date, & updated date.`
 
-❤ Talk with SMEs & stakeholders they may have insight on how to handle these risks with strategies you haven't thought of yet.
+❤ `Talk with SMEs & stakeholders` they may have insight on how to handle these risks with strategies you haven't thought of yet.
 
-❤ Share risks & mitigation plan - discuss better mitigation tactics & new risks.
+❤ `Share risks & mitigation plan` - discuss better mitigation tactics & new risks.
 
 ★ `Types of Risk`
 
