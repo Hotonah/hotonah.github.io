@@ -92,7 +92,7 @@ Steps to Conducting a Closing Process at the `End` of your Project
 * Reduction in Tech Issues
 * Time Saved
 
-❤ Metrices & data points are one of the best ways to present impact. Throughout the project collect data & track progress in each of the areas you want to measure. If you can complement your metrics with the appropriate visuals & tie them back to the projects larger goals, you can quickly demonstrate your projects success & value. 
+❤ Metrices & data points are one of the best ways to present impact. `Throughout the project collect data & track progress in each of the areas you want to measure.` If you can complement your metrics with the appropriate visuals & `tie them back to the projects larger goals,` you can quickly demonstrate your projects success & value. 
 
 Project `Closeout Report <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGqfVia52d6VqS6reOQecgr7Enp4/edit?usp=sharing>`_
 =========================
