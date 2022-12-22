@@ -214,11 +214,11 @@ Project `Budgeting <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc
 
 .. image:: media/Budget_Table.PNG
 
-★ Develop a Baseline `Budget <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc6ZR_oMxj7uFKjZJTt_7HDc0/edit?usp=sharing>`_ - An estimate (dollar amount) of project costs that you start with at the beginning of your project. Once budget is approved, you should publish this baseline & use it to compare against actual performance progress. This will provide insight into how the project is doing & allow you to make informed adjustments. Continually monitor your project budget & make necessary changes. Update can require the same approval as the initial budget. Re-baseline if you make significant changes.
+★ `Develop a Baseline` `Budget <https://docs.google.com/spreadsheets/d/1R4EAUBBKthNFzKULjDtc6ZR_oMxj7uFKjZJTt_7HDc0/edit?usp=sharing>`_ - An estimate (dollar amount) of project costs that you start with at the beginning of your project. Once budget is approved, you should publish this baseline & use it to compare against actual performance progress. This will provide insight into how the project is doing & allow you to make informed adjustments. Continually monitor your project budget & make necessary changes. Update can require the same approval as the initial budget. Re-baseline if you make significant changes.
 
 ★ `Perform a Reserve Analysis` - A reserve analysis will help you account for any buffer fund you may need. 1st review all potential risks to your project & determine if you need to add buffer funds. 
 
-❤ Use milestones as checkpoints for budget.
+❤ `Use milestones as checkpoints for budget.`
 
 `Communication Plan <https://docs.google.com/spreadsheets/d/1ysubBfB1k8NgwR-Y3kwXNUFAFvVUrR9sglA6poafgK8/edit?usp=sharing&resourcekey=0-fPDA_gUMvP3UdYzfTO9fAg>`_ 
 ===============================
