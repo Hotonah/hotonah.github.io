@@ -131,24 +131,24 @@ Setting Goals
 
 Tips When Choosing a Team
 ===========================
-* Make a list of all the stakeholders the project impacts (Invested, Impacted, Contributes)
-* List out: project roles, team size, necessary skills (can they be taught), availability, motivation, & communication styles
-* List out skills needed: people skills, soft skills, patience, problem solving, leadership, motivated
-* Determine the level of interest & influence for each stakeholder (Insert Link to stakeholder template)
-* Assess stakeholders' ability to participate & find ways to include them
-* Prioritize stakeholders with a high level of interest & influence
+* `Make a list of all the stakeholders` the project impacts (Invested, Impacted, Contributes)
+* `List out project roles,` team size, necessary skills (can they be taught), availability, motivation, & communication styles
+* `List out skills needed` people skills, soft skills, patience, problem solving, leadership, motivated
+* `Determine the level of interest & influence` for each stakeholder (Insert Link to stakeholder template)
+* `Assess stakeholders'` ability to participate & find ways to include them
+* `Prioritize stakeholders` with a high level of interest & influence
 
 ★ `Build a` `RACI Chart <https://docs.google.com/spreadsheets/d/1RR6ioh3yStTLRQ5mB3AePeZ8-bzRMoE4pG1ZLhxEb3M/edit?usp=sharing>`_
 
-* Responsible - Who gets the work done
-* Accountable - Who makes sure the work is done
-* Consulted - Who gives input or feedback on work
-* Informed - Who needs to know the outcome
+* `Responsible` - Who gets the work done
+* `Accountable` - Who makes sure the work is done
+* `Consulted` - Who gives input or feedback on work
+* `Informed` - Who needs to know the outcome
 
-* Project sponsor - Director of product or service
-* Team members - implementation team, designers, developers
-* Project manager 
-* Users - employees, customers, clients
+* `Project sponsor` - Director of product or service
+* `Team members` - implementation team, designers, developers
+* `Project manager` 
+* `Users` - employees, customers, clients
 
 .. image::media/raci.PNG
 
