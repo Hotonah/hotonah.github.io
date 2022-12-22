@@ -131,12 +131,12 @@ Setting Goals
 
 Tips When Choosing a Team
 ===========================
-1. Make a list of all the stakeholders the project impacts (Invested, Impacted, Contributes)
-2. List out: project roles, team size, necessary skills (can they be taught), availability, motivation, & communication styles
-3. List out skills needed: people skills, soft skills, patience, problem solving, leadership, motivated
-4. Determine the level of interest & influence for each stakeholder (Insert Link to stakeholder template)
-5. Assess stakeholders' ability to participate & find ways to include them
-6. Prioritize stakeholders with a high level of interest & influence
+* Make a list of all the stakeholders the project impacts (Invested, Impacted, Contributes)
+* List out: project roles, team size, necessary skills (can they be taught), availability, motivation, & communication styles
+* List out skills needed: people skills, soft skills, patience, problem solving, leadership, motivated
+* Determine the level of interest & influence for each stakeholder (Insert Link to stakeholder template)
+* Assess stakeholders' ability to participate & find ways to include them
+* Prioritize stakeholders with a high level of interest & influence
 
 ★ Build a `RACI Chart <https://docs.google.com/spreadsheets/d/1RR6ioh3yStTLRQ5mB3AePeZ8-bzRMoE4pG1ZLhxEb3M/edit?usp=sharing>`_
 
