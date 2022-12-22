@@ -307,7 +307,7 @@ Sprint Retrospective
 
 Roadmaps
 ===============
-◆ It is an agile way of mapping out timelines & requirements for the product development process & can be used in all types of businesses. Guide that demonstrates where to go, how to get there, & what to accomplish along the way in order to maximize value. 
+◆ It is an agile way of mapping out timelines & requirements for the product development process & can be used in all types of businesses. `Guide that demonstrates where to go, how to get there, & what to accomplish along the way in order to maximize value.`
 
 ❤ Helps team explain the vision of the product
 
@@ -362,7 +362,7 @@ Product roadmaps: Benefits, pitfalls, and best practices
 * Make it visible to your wider stakeholder group so that they can use it for their planning. 
 * Conduct regular reviews of the roadmap with sponsors, stakeholders, and the team to ensure that it is still providing the blueprint for the project.
 
-★ Roadmaps are important for any well-managed project, but they are especially useful to Agile teams. Having a shared roadmap about what the team is delivering over a longer time period is an important way to connect the work that the team does on the sprints with the broader vision for the project. This helps the team stay motivated through the rough patches and leads to a great sense of accomplishment as roadmap deliverables are achieved. 
+★ Roadmaps are important for any well-managed project, but they are especially useful to Agile teams. `Having a shared roadmap about what the team is delivering over a longer time period is an important way to connect the work that the team does on the sprints with the broader vision for the project.` This helps the team stay `motivated` through the rough patches and leads to a great sense of accomplishment as roadmap deliverables are achieved. 
 
 Responding to change over following a plan
 =====================================
