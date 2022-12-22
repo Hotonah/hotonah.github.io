@@ -49,7 +49,7 @@ Agile vs Waterfall
 
 ❤ Changes as team receives feedback & new info. Usually, initial set of requirements or feature ideas, but the list continually grows & changes throughout the project. Team works with the stakeholders to prioritize the requirements, moving most urgent or valuable items to the top. Then go down the list, working on requirements in iterations.
 
-❤ Real-time, person-to-person conversations – shorter documents are much more focused on their purpose. These documents are much more focused on what the reader needs to know to get the job done & written as needed. 
+❤ Real-time, person-to-person conversations – shorter documents that are much more focused on their purpose. `These documents are much more focused on what the reader needs to know to get the job done & written as needed.` 
 
 ❤ A deliverable is a tangible outcome from a project. 
 
@@ -64,10 +64,13 @@ Agile vs Waterfall
 * Test
 * Review
 
-★ Agile aims to get customer feedback quickly
-★ Working with agile you find ways to work more efficiently by focusing on streamlining processes without reducing product quality or value
+★ Agile aims to get `customer feedback quickly`
+
+★ Working with agile you find ways to work more `efficiently by focusing on streamlining` processes without reducing product quality or value
+
 ★ Streamline = Reduce Waste
-★ More collaboration means less documentation & earlier feedback about the product
+
+★ `More collaboration` means `less documentation` & earlier feedback about the product
 
 Agile Manifesto
 ================
