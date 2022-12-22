@@ -164,11 +164,11 @@ Estimating Times for Tasks
 
 ★ `Types of Risk`
 
-* Schedule Risks
-* Time Risks
-* Budget Risks
-* Scope Risks
-* Single point of failure risks - Projects use SMEs to advice you throughout the project. Use multiple SMEs
+* `Schedule` Risks
+* `Time` Risks
+* `Budget` Risks
+* `Scope` Risks
+* `Single point of failure` risks - Projects use SMEs to advice you throughout the project. Use multiple SMEs
 
 ★ `Risk Mitigation Strategies`
 
