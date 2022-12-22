@@ -74,9 +74,9 @@ Steps to Conducting a Closing Process at the `End` of your Project
 
 ❤ `Describe your learnings` Discuss lessons you learned during the course of the project & any areas for improvement.
 
-* Show - Videos, demos, testimonials, case studies
-* Story Tell – Tell a story or anecdote related to the data
-* Engage – Ask for audience participation – questions, surveys, quizzes, feedback, etc.
+* `Show` - Videos, demos, testimonials, case studies
+* `Story Tell` – Tell a story or anecdote related to the data
+* `Engage` – Ask for audience participation – questions, surveys, quizzes, feedback, etc.
 
 ❤ `Use retrospectives` – A tool for reflection & improvement. A meeting aimed to discuss successes, failures, & possible improvements. Encourages team building, facilitates improves collaboration, promotes positive changes in future projects. 
 
@@ -107,11 +107,11 @@ Project `Closeout Report <https://docs.google.com/document/d/1W_E9LrYBRVIW8LVJGq
 
 ◆ `Include`:
 
-* An executive summary – Purpose of the project (Short & concise)
-* A list of key accomplishments
-* Lessons learned – What went well & What went wrong – What processes did not work well? – What were the effects of key problem areas (scope creep, schedule slip)
-* Technical challenges
-* Next steps – Expected follow-up projects – Is there maintenance required – Open items – Things you did not get to or ideas for changes you would make if you had more time
+* `An executive summary` – Purpose of the project (Short & concise)
+* `A list of key accomplishments`
+* `Lessons learned` – What went well & What went wrong – What processes did not work well? – What were the effects of key problem areas (scope creep, schedule slip)
+* `Technical challenges`
+* `Next steps` – Expected follow-up projects – Is there maintenance required – Open items – Things you did not get to or ideas for changes you would make if you had more time
 
 ❤ Include important info about `schedules` & `important deadlines` like; what were your milestones & how did you choose them? How long did the project take? Did the project stay on track? & Information about major setbacks. 
 
