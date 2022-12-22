@@ -70,9 +70,9 @@ Project Planning Best Practices
 =================================
 ★ `You aren't responsible for completing every task,` You're responsible for identifying & helping assign these tasks, & estimating how long they will take to complete. These elements come together to determine the overall project schedule. 
 
-★ It may be necessary during a project to call a timeout: taking a moment to stop and step away from the project to take a breath & regroup/adjust the game plan. (You may need to take a timeout when the client wants to redefine the scope or if team members are reassigned to another project & you need to backfill them. Throughout this you will want to hold meeting in order to discuss successes, setbacks, & possible future improvements to the project. 
+★ `It may be necessary during a project to call a timeout:` taking a moment to stop and step away from the project to take a breath & regroup/adjust the game plan. (You may need to take a timeout when the client wants to redefine the scope or if team members are reassigned to another project & you need to backfill them. Throughout this you will want to hold meeting in order to discuss successes, setbacks, & possible future improvements to the project. 
 
-★ Hold retrospective meetings: Focuses on identifying the contributing cause of an incident `without blaming anyone.` You should `always assume that everyone has good intentions & did the right thing with the information they had` whether or not it worked out well in the end. There's always a chance to learn & do better. It's important to identify effective techniques for communicating changes to the team or an individual.
+★ `Hold retrospective meetings:` Focuses on identifying the contributing cause of an incident without blaming anyone. You should `always assume that everyone has good intentions & did the right thing` with the information they had whether or not it worked out well in the end. There's always a chance to learn & do better. It's important to identify effective techniques for communicating changes to the team or an individual.
 
 .. image:: media/good.PNG
 
