@@ -143,7 +143,7 @@ VUCA
 =========
 ❤ The US military War College developed a concept called VUCA, spelled V-U-C-A. VUCA is an acronym that defines the conditions that affect organizations in a changing and complex world. It was designed to help us factor in the forces of change and uncertainty in our projects and businesses. VUCA stands for volatility, uncertainty, complexity, and ambiguity. 
 
-❤ Helps decide which project management approach is best for you. An acronym that define the conditions of the organization in a changing & complex world.
+❤ `Helps decide which project management approach is best for you.` An acronym that define the conditions of the organization in a changing & complex world.
 
 * `V` – Volatility
 * `U` – Uncertainty
