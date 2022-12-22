@@ -84,7 +84,7 @@ Project Planning Best Practices
 * Utilize your team, mentors, or manager
 * Check, Check, and Double Check!
 
-★ `Define well defined` `quality standards <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_ at the beginning of the project
+★ `Create well defined` `quality standards <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_ at the beginning of the project
 
 ❤ `Quality Planning` - Determine the quality standard & processes to satisfy them
 
