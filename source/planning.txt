@@ -94,9 +94,9 @@ Project Planning Best Practices
 
 ★ `Implement ways to measure customer satisfaction` - Try to imagine what they want, it puts you in a unique place where you need to put yourself in their shoes & imagine the world or imagine the product through their eyes. Being able to empathize & understand how different people in the world will interact with your product is really important & gives you an amazing perspective.
 
-❤ Customer Feedback Surveys - `Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
+❤ `Customer Feedback Surveys` - `Create Survey Questions <https://docs.google.com/spreadsheets/d/1wU7yTjV3y20btJT6352QCBp5X42vFE6LzYlJOchT-kI/edit?usp=sharing&resourcekey=0-m0vPFB9zU_qHHHdNTXTIIg>`_
 
-❤ User Acceptance Testing (UAT)
+❤ `User Acceptance Testing (UAT)`
 
 * Present the product
 * Mock-up of the product or go through demo
