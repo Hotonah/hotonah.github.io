@@ -68,7 +68,7 @@ Planning the Project
 
 Project Planning Best Practices
 =================================
-★ You aren't responsible for completing every task, You're responsible for identifying & helping assign these tasks, & estimating how long they will take to complete. These elements come together to determine the overall project schedule. 
+★ `You aren't responsible for completing every task,` You're responsible for identifying & helping assign these tasks, & estimating how long they will take to complete. These elements come together to determine the overall project schedule. 
 
 ★ It may be necessary during a project to call a timeout: taking a moment to stop and step away from the project to take a breath & regroup/adjust the game plan. (You may need to take a timeout when the client wants to redefine the scope or if team members are reassigned to another project & you need to backfill them. Throughout this you will want to hold meeting in order to discuss successes, setbacks, & possible future improvements to the project. 
 
