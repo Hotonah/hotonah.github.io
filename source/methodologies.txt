@@ -158,7 +158,7 @@ VUCA
 
 ❤ `Ambiguity` - Refers to the possibility of misunderstanding the conditions and root causes of events or circumstances. A project that suffered from ambiguity would have difficulty pinpointing the causes of project delays, making it difficult to design mitigation plans to reduce the risks.
 
-★ If your project environment has high levels of volatility, uncertainty, complexity, and ambiguity, then it's a good sign that you should consider an Agile approach. While an Agile approach is not a perfect solution that will get rid of VUCA, it will lead to better outcomes by giving you and your team tools and systems to mitigate the risks that VUCA presents. When you consider Agile values and principles, it's clear that Agile is a proven and well-documented solution to the challenges VUCA presents to your project.
+★ `If your project environment has high levels of volatility, uncertainty, complexity, and ambiguity, then it's a good sign that you should consider an Agile approach.` While an Agile approach is not a perfect solution that will get rid of VUCA, it will lead to better outcomes by giving you and your team tools and systems to mitigate the risks that VUCA presents. When you consider Agile values and principles, it's clear that Agile is a proven and well-documented solution to the challenges VUCA presents to your project.
 
 Blending Methods
 ==================
