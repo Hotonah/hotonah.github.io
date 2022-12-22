@@ -54,7 +54,7 @@ Agile vs Waterfall
 ❤ A deliverable is a tangible outcome from a project. 
 
 * In waterfall the deliverable is not released until the very end
-* In Agile the deliverable is smaller more frequent releases – it builds up to be just as exciting as waterfall
+* In Agile the `deliverable is smaller more frequent releases` – it builds up to be just as exciting as waterfall
 
 ❤ `5 Steps in Agile`: 
 
