@@ -135,11 +135,11 @@ Presenting Data to Tell a Story
 
 ◆ `Preparing for the Meeting`
 
-❤ Be clear & specific about what you want to get out of the meeting, frame the discussion with that goal in mind. Tell them exactly what you are looking for & send slides to audience in advance.
+❤ `Be clear & specific` about what you want to get out of the meeting, frame the discussion with that goal in mind. Tell them exactly what you are looking for & send slides to audience in advance.
 
-❤ If appropriate send a follow-up email with summary notes, action items, & time frames. `Communication Practices <https://hotonah.github.io/hotonahcom/planning#id12>`_
+❤ If appropriate send a `follow-up email` with summary notes, action items, & time frames. `Communication Practices <https://hotonah.github.io/hotonahcom/planning#id12>`_
 
-❤ Ask for feedback what went well & what could have gone better? 
+❤ `Ask for feedback` what went well & what could have gone better? 
 
 Continuous Improvements
 ===================
