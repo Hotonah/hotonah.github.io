@@ -40,11 +40,11 @@ Planning the Project
 * `Request for Proposal (RFP) <https://docs.google.com/document/d/1zNbopN-IEZLrotVVHjswR85b19cwCbo0QeHDhaAKknY/edit?usp=sharing>`_ Includes: Overview, scope, goals, milestones, submission requirements, questions you'd like the vendor to answer.
 * `Statement of Work (SOW) <https://docs.google.com/document/d/1HUUx9zyXZ2wHSEj3dnxHS8Yo3oamT1wgRru-PMXT6Yc/edit?usp=sharing>`_ Includes: Products and services a vendor or contractor will provide for the organization - Ask for input from SMEs' when writing the contract.
 
-* Initiating: Planning what you need to meet your project goals (NDA)
-* Selecting: Deciding which supplies & vendors to use (RFP)
-* Contract Writing: Developing, reviewing, & signing contracts (SOW)
-* Controlling: Making payments, maintaining & ensuring quality
-* Completing: Measuring your success - Document lessons learned
+* `Initiating:` Planning what you need to meet your project goals (NDA)
+* `Selecting:` Deciding which supplies & vendors to use (RFP)
+* `Contract Writing:` Developing, reviewing, & signing contracts (SOW)
+* `Controlling:` Making payments, maintaining & ensuring quality
+* `Completing:` Measuring your success - Document lessons learned
 
 ★ `Create` `Risk Management Plan <https://docs.google.com/document/d/1K_8MrxC_qv0IeusNSPIsRgiJzy2BjNf1LYT3VB7_6hc/edit?usp=sharing>`_ - Risks could include: Budget, schedule, staffing shortages, shipping delays, holidays, sick time, etc.
 
