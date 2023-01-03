@@ -17,7 +17,7 @@ Project Execution – Running the Project
 
 ★ `Remove Barriers to Progress` - Breakdown barriers that would slow down or stop the team from completing tasks - Removing barriers is one of your most important tasks as a project manager. But you cannot always do it alone. When your team encounters issues you will write an escalation email to get support & advice from senior stakeholders. `Communication Practices <https://hotonah.github.io/hotonahcom/planning#id12>`_
 
-★ `Communicate` - With your team & anyone else involved in the project through meetings, written communication (emails, memos, chat tools, reports & documents) - overcommunicate. -Daily Standups (Add what they consist of) – Daily Check-ins for status updates, see if anyone needs help on a task/s.
+★ `Communicate` - With your team & anyone else involved in the project through meetings, written communication (emails, memos, chat tools, reports & documents) - overcommunicate. -Daily Standups (each team member briefly describes any in progress work, completed work, & any barriers that stand in their way. You can also discuss next steps.) – Daily Check-ins for status updates, see if anyone needs help on a task/s.
 
 ★ `Make Adjustments` - Make adjustments to plans throughout the project as required & make sure they’re communicated to all the correct stakeholders – Address weaknesses in your process or examine places where your team may need additional training – Adapt to changes in the project as they arise.
 
