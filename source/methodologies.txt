@@ -72,9 +72,9 @@ Agile vs Waterfall
 
 ★ `More collaboration` means `less documentation` & earlier feedback about the product
 
-Agile Manifesto
+`Agile Manifesto <http://agilemanifesto.org/>`_
 ================
-`Manifesto for Agile Software Development <http://agilemanifesto.org/>`_
+Manifesto for Agile Software Development
 
 .. image:: media/Agile_Um.PNG
 
