@@ -74,7 +74,7 @@ Agile vs Waterfall
 
 Agile Manifesto
 ================
-Manifesto for Agile Software Development (agilemanifesto.org)
+`Manifesto for Agile Software Development <http://agilemanifesto.org/>`_
 
 .. image:: media/Agile_Um.PNG
 
