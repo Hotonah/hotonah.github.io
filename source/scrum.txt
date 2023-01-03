@@ -13,7 +13,7 @@ Elements of Scrum
 
 ★ `Sprint` - A time-based iteration in scrum where work is done. Sprint can be between 1-4 weeks long but, most sprints are around two weeks. This is often called the “iteration”.
 
-★ `Daily Scrum (Stand-up)` - A meeting of 15 or fewer minutes everyday of the sprint. 
+★ `Daily Scrum (Stand-up)` - A meeting of 15 or fewer minutes everyday of the sprint. Here, each team member briefly describes any in progress work, completed work, & any barriers that stand in their way. You can also discuss next steps.
 
 Scrum Roles
 ==============
