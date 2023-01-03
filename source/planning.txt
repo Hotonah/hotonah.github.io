@@ -27,6 +27,8 @@ Planning the Project
 * Identify tasks to meet milestones
 * Breakdown tasks into subtasks
 
+`How to create a work breakdown structure and why you should <https://www.lucidchart.com/blog/how-to-create-a-work-breakdown-structure-and-why-you-should>`_
+
 .. image:: media/wbs.PNG
 
 ★ `Create a` `Schedule & Gantt Chart <https://docs.google.com/spreadsheets/d/165nB6opSYj0oup4Nm7BuWmiruAmQsE_CIzyHL1CqgTM/edit?usp=sharing>`_ - Create a plan from start to finish - Use scheduling tools like MSProject or google docs to outline all your tasks, milestones, & deliverables into one project schedule - Properly manage resources, budget, materials, & Timeline. 
