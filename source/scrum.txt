@@ -23,7 +23,7 @@ Scrum Roles
 ==============
 .. image:: media/roles.PNG
 
-❤ `Scrum Master` - Responsible for ensuring the team lives agile values & principals. Responsible for the team following processes & practices that the team agreed to & sharing information to the larger project team. Also, help the team focus on doing their best work & clearing obstacles.
+❤ `Scrum Master` - Responsible for ensuring the team lives agile values & principals. Responsible for the team following processes & practices that the team agreed to & sharing information to the larger project team. Also, help the team focus on doing their best work & clearing obstacles. Knows when to coach the team, knows when the team has to resolve items for themselves. Facilitates them getting the skill sets they need if that's what's needed learning. It is very much like a coach for the team but also a leader for the team as well.
 
 .. image:: media/master.PNG
 
