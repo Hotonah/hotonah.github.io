@@ -1,5 +1,8 @@
 Elements of Scrum
 ===============================
+
+`Scrum Guide <https://scrumguides.org/scrum-guide.html#purpose-of-the-scrum-guide>`_
+
 ❤ `Documents created in this phase`:
 
 * `Product Backlog <https://docs.google.com/spreadsheets/d/1p24hXLgZpfpsXIjCKhkOh0_jzc9Uq_5Yi5qUQ8dHvks/edit?usp=sharing&resourcekey=0-fBujRTrK43hsS3mWDZ-SGA>`_
