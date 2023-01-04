@@ -101,7 +101,8 @@ Scrum Master
 * Sprint Vision Planning
 * Sprint Planning
 * Sprints
-* Daily Scrum 
+* Daily Scrum
+* Backlog Refinement (team continues to look at future capabilities in the product backlog and breaks them down into stories. The team has a pipe of ready stories for successor sprints)
 * Sprint Review
 * Sprint Retros
 
@@ -251,7 +252,7 @@ Sprint
 
 Sprint Planning
 ==============
-❤ The entire team comes together & meets to confirm how much `capacity, time, & people,` are available during this sprint & then they `identify what items from backlog will be done during the sprint.` This becomes the sprint backlog & ultimately, the `sprint goal.`
+❤ The entire team comes together & meets to confirm how much `capacity, time, & people,` are available during this sprint & then they `identify what items from backlog will be done during the sprint.` This becomes the sprint backlog & ultimately, the `sprint goal.` During `sprint planning` meeting, the team validates the prioritized stories that there'll be working on, puts a plan together, estimates the stories if needed, and really decides how they are going to go about completing and delivering that working solution. The self-assigned tasks, and put that plan together and the Scrum Master helps facilitate it. 
 
 ★ `Scrum master facilitates communication:`
 
@@ -297,7 +298,7 @@ Daily Sprint
 
 Sprint Review
 ===============
-★ At the closing of a Sprint, the team will complete another event, known as the Sprint Review. This Sprint event is `crucial to the Scrum Pillars of inspection and adaptation, and demonstrates the values of openness, courage, and respect.` Let's discuss what I mean by that.
+★ At the closing of a Sprint, the team will complete another event, known as the Sprint Review. This Sprint event is `crucial to the Scrum Pillars of inspection and adaptation, and demonstrates the values of openness, courage, and respect.` Sprint review is where we demo the product to ourselves.
 
 ❤ The Sprint Review is a meeting with the entire Scrum Team where the product is demonstrated in order to determine `which aspects are finished and which aren't.` During a Sprint Review, the Development Team and Product Owner will play a heavy role in this inspection and discussion. They will also cover an exploration of which items should be considered done in the Product Backlog, and they'll demonstrate and inspect the product. `Sprint Reviews should be really fun and uplifting.` The Sprint Review is when the team gets to impress each other with the `cool things they've accomplished over the last 1 to 4 weeks.` These time-boxed meetings should not exceed four hours and they're a good opportunity for the team to `practice the Scrum Values of openness and respect, as they give feedback about the completed work.` Often, some of the greatest product ideas come out of the Sprint Review.
 
