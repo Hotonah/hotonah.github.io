@@ -128,6 +128,8 @@ Scrum Master
 
 Sprint Vision Planning
 ===========================
+.. image:: media/vision.PNG
+
 ❤ Our `vision planning meeting,` this meeting has a lot of different names. But this is a the whole project, whole deliverable, completed product meeting where the vision is described, what the solution is, who the customer is, all known capabilities and the backlog. From this meeting, which really only happens once but there can be updated versions of this meeting. This is really where the team is introduced to the overall product, the vision of the solution or the future state. From here, the team begins to look at the prioritized features and begins to break them down into the user stories. When a sprint is planned, the team has had or should have had through working on the vision. The team has had introduction to the stories, so nothing should be a surprise.
 
 `Product Backlog <https://docs.google.com/spreadsheets/d/1p24hXLgZpfpsXIjCKhkOh0_jzc9Uq_5Yi5qUQ8dHvks/edit?usp=sharing&resourcekey=0-fBujRTrK43hsS3mWDZ-SGA>`_ (Wishlist)
