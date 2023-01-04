@@ -235,7 +235,7 @@ T-shirt sizes and story points
 
 ★ `Story points`
 
-❤ Using `story points` as the estimate unit is a little more advanced than T-shirt sizes, but it is essentially the same concept. This method is good for experienced teams. When using story points, teams usually use the Fibonacci sequence. As a reminder, this sequence comes from adding the two previous numbers in the sequence together. `For example, 1 + 2 = 3 and 2 + 3 = 5.` The important thing to notice about this sequence is that, as the list continues on, the numbers spread further apart from each other. Because of this, story points provide more accuracy and specificity than T-shirt sizes. 
+❤ Using `story points` as the estimate unit is a little more advanced than T-shirt sizes, but it is essentially the same concept. This method is good for experienced teams. When using Story Points, the scale follows a pattern called the rounded, or modified Fibonacci scale: `1, 2, 3, 5, 8, 13, 20, 40, 100.` The rounded Fibonacci scale provides advantages when it comes to uncertainty. Any User Story estimated at 13, or below is considered to have a high level of certainty. Any User Stories estimated 20 points or higher, is considered to have significant levels of uncertainty. The important thing to notice about this sequence is that, as the list continues on, the numbers spread further apart from each other. Because of this, story points provide more accuracy and specificity than T-shirt sizes. 
 
 ❤ So what does the process of assigning story points entail? There are several specific techniques a team can try, but the basic steps are the same as with T-shirt sizes. 
 
