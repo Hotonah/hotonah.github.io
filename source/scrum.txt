@@ -157,6 +157,8 @@ The components of user stories & epics
 =============================================
 ❤ User stories are `short, simple descriptions` of a deliverable told from the perspective of the user. Creating user stories helps the team develop a solution that is always centered around the user’s needs and overall experience. 
 
+.. image:: media/story.PNG
+
 ❤ Epics are a `collection of user stories`. Think of the concept of user stories in terms of books or films. A story is one single narrative, while an epic is a set of several related, independent stories. Each story tells a specific chronicle, while an epic gives a high-level view of the overall arc. 
 
 ★ `User stories`
