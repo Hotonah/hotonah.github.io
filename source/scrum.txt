@@ -304,7 +304,7 @@ Sprint Review
 
 Sprint Retrospective
 ==================
-◆ `Sprint Retrospectives` occur at the end of each Sprint, which is usually every one-to-four weeks. 
+◆ `Sprint Retrospectives` occur at the end of each Sprint, which is usually every one-to-four weeks. The retrospective is where we look for opportunities for improvement.
 
 ◆ Sprint Retrospectives are a key practice that supports the Scrum theory and values. They are a critical moment to inspect and adapt to the outcomes produced within the Sprint timebox. Retrospectives occur much more often in Scrum than in traditional project management, so it is important to consider some best practices and pitfalls to avoid to help make them engaging and productive for the entire team.
 
