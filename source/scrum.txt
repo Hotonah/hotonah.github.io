@@ -276,6 +276,10 @@ Sprint Planning
 ==============
 ❤ The entire team comes together & meets to confirm how much `capacity, time, & people,` are available during this sprint & then they `identify what items from backlog will be done during the sprint.` This becomes the sprint backlog & ultimately, the `sprint goal.` During `sprint planning` meeting, the team validates the prioritized stories that there'll be working on, puts a plan together, estimates the stories if needed, and really decides how they are going to go about completing and delivering that working solution. The self-assigned tasks, and put that plan together and the Scrum Master helps facilitate it. 
 
+* Scrum Master facilitates the sprint planning meeting
+* Timeboxed for 1 to 2 hours
+* Team estimates user stories, estimation is done collaboratively
+
 ★ `Scrum master facilitates communication:`
 
 * Who is available during this sprint?
