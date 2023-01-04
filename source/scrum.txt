@@ -132,6 +132,12 @@ Sprint Vision Planning
 
 ❤ Our `vision planning meeting,` this meeting has a lot of different names. But this is a the whole project, whole deliverable, completed product meeting where the vision is described, what the solution is, who the customer is, all known capabilities and the backlog. From this meeting, which really only happens once but there can be updated versions of this meeting. This is really where the team is introduced to the overall product, the vision of the solution or the future state. From here, the team begins to look at the prioritized features and begins to break them down into the user stories. When a sprint is planned, the team has had or should have had through working on the vision. The team has had introduction to the stories, so nothing should be a surprise.
 
+❤ This event is facilitated by the Scrum master. `Agenda:` The product owner is going to discuss the vision and informs the team why the product is great. Then the product owner will inform the team of what problems the product is solving and what differentiates this product from anything else available in the market, and reviews the capabilities and functionality that are currently prioritized in the backlog.
+
+❤ The product vision does not finalize the product backlog, it merely brings it to a milestone. After the product vision meeting, the team will embark on a series of backlog refinement meetings or backlog grooming meetings. To get a better understanding of the stories to take the functionality that's in here the capabilities, break them down and split them as small as possible into what we call ready user stories. This will give the team an understanding of what they need to build. It'll also allow them to estimate the stories and get ready for, not only sprint one but sprint two and possibly sprint's after top and all the user stories are screened for completeness acceptance criteria. Again estimation clarity, however though it does not mean that during the sprint team members cannot ask for clarity.
+
+.. image:: media/vision2.PNG
+
 `Product Backlog <https://docs.google.com/spreadsheets/d/1p24hXLgZpfpsXIjCKhkOh0_jzc9Uq_5Yi5qUQ8dHvks/edit?usp=sharing&resourcekey=0-fBujRTrK43hsS3mWDZ-SGA>`_ (Wishlist)
 ==============
 ◆ The single authoritative source for things that a team works on to achieve the product goal.
