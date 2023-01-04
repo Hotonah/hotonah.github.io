@@ -256,6 +256,12 @@ Sprint
 =============
 ◆ Think of it as a `mini project` – `Planning, execution, delivery, closing,` & a `retrospective` all wrapped into a `bite-sized package.`
 
+★ Sprints are the `heartbeat` of Scrum, where ideas are turned into value.
+
+❤ They are `fixed length events of one month or less` to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
+
+❤ All the work necessary to achieve the `Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective,` happen within Sprints.
+
 .. image:: media/sb1.PNG
 
 .. image:: media/sb2.PNG
@@ -272,8 +278,23 @@ Sprint
 * Rigorous Testing
 * Continuous Improvements
 
+❤ `During the Sprint:`
+
+* No changes are made that would endanger the Sprint Goal;
+* Quality does not decrease;
+* The Product Backlog is refined as needed; and,
+* Scope may be clarified and renegotiated with the Product Owner as more is learned.
+
+❤ Sprints enable `predictability` by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. `Each Sprint may be considered a short project.`
+
+❤ Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
+
+❤ A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
+
 Sprint Planning
 ==============
+.. image:: media/agenda.PNG
+
 ❤ The entire team comes together & meets to confirm how much `capacity, time, & people,` are available during this sprint & then they `identify what items from backlog will be done during the sprint.` This becomes the sprint backlog & ultimately, the `sprint goal.` During `sprint planning` meeting, the team validates the prioritized stories that there'll be working on, puts a plan together, estimates the stories if needed, and really decides how they are going to go about completing and delivering that working solution. The self-assigned tasks, and put that plan together and the Scrum Master helps facilitate it. 
 
 .. image:: media/sprintplan.PNG
@@ -288,25 +309,6 @@ Sprint Planning
 * What is the sprint goal?
 
 .. image:: media/strongq.PNG
-
-★ Sprints are the `heartbeat` of Scrum, where ideas are turned into value.
-
-❤ They are `fixed length events of one month or less` to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
-
-❤ All the work necessary to achieve the `Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective,` happen within Sprints.
-
-❤ `During the Sprint:`
-
-* No changes are made that would endanger the Sprint Goal;
-* Quality does not decrease;
-* The Product Backlog is refined as needed; and,
-* Scope may be clarified and renegotiated with the Product Owner as more is learned.
-
-❤ Sprints enable `predictability` by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. `Each Sprint may be considered a short project.`
-
-❤ Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
-
-❤ A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint.
 
 Daily Sprint
 =======================
