@@ -138,6 +138,8 @@ Sprint Vision Planning
 
 .. image:: media/vision2.PNG
 
+.. image:: media/refine.PNG
+
 `Product Backlog <https://docs.google.com/spreadsheets/d/1p24hXLgZpfpsXIjCKhkOh0_jzc9Uq_5Yi5qUQ8dHvks/edit?usp=sharing&resourcekey=0-fBujRTrK43hsS3mWDZ-SGA>`_ (Wishlist)
 ==============
 ◆ The single authoritative source for things that a team works on to achieve the product goal.
