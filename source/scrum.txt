@@ -13,11 +13,11 @@ The `Scrum` framework focuses on developing, delivering, and sustaining complex 
 
 ◆ A framework for developing, delivering, & sustaining complex products. This is a iterative & incremental approach. Scrum is the most popular methodology of agile project management. You form a team that will work together quickly to develop & test a deliverable. The is completed in short cycles & the team meets daily to discuss current tasks & clear-up anything that’s blocking their progress.
 
-★ `Product Backlog` - The central artifact in scrum, where all possible ideas, deliverables, features, or tasks are captured for the team to work on.
+★ `Product Backlog` - The central artifact in scrum, where all possible ideas, deliverables, features, or tasks are captured for the team to work on. Product-backlog economics is all about prioritizing the product backlog correctly so that the highest value items are executed first. As the economic value of each feature changes over time, the prioritization of those feature change too. And the `Product Owner` is responsible for making those re-prioritization decisions.
 
-★ `Sprint` - A time-based iteration in scrum where work is done. Sprint can be between 1-4 weeks long but, most sprints are around two weeks. This is often called the “iteration”.
+★ `Sprint` - A time-based iteration in scrum where work is done. Sprint can be between 1-4 weeks long but, most sprints are around two weeks. This is often called the “iteration”. Sprint-level economics is about maximizing Return On Investment (ROI) for each sprint. Product Owners, Scrum Masters and every member of the Scrum Team should treat the company’s money as they would their own money and be frugal about making economic decisions. This is especially important when determining whether or not to fund the next sprint. Will the value that the Scrum Team creates in the next sprint be worthy of spending the money to fund the sprint? The `Product Owner` is responsible for answering this question and deciding whether or not he/she will fund the next sprint.
 
-★ `Daily Scrum (Stand-up)` - A meeting of 15 or fewer minutes everyday of the sprint. Here, each team member briefly describes any in progress work, completed work, & any barriers that stand in their way. You can also discuss next steps.
+★ `Daily Scrum (Stand-up)` - A meeting of 15 or fewer minutes everyday of the sprint. Here, each team member briefly describes any in progress work, completed work, & any barriers that stand in their way. You can also discuss next steps. 
 
 Scrum Roles
 ==============
@@ -26,7 +26,7 @@ Scrum Roles
 
 ❤ `Scrum Master` - Responsible for ensuring the team lives agile values & principals. Responsible for the team following processes & practices that the team agreed to & sharing information to the larger project team. Also, help the team focus on doing their best work & clearing obstacles. 
 
-❤ `Product Owner` - Responsible for maximizing the value of the product & work of the team. Owns inventory of work & has the final say on how to prioritize work.
+❤ `Product Owner` - Responsible for maximizing the value of the product & work of the team. Owns inventory of work & has the final say on how to prioritize work. The Product Owner is responsible for funding (or not funding) the next sprint of the Scrum Team. If the team is making good progress, Product Owner may choose to fund the next sprint. Otherwise, the Product Owner may choose not to fund the next sprint. Furthermore, once the Product Owner is satisfied with the state of the product, he/she may choose to stop funding any further development efforts and re-purpose the team to focus on other projects.
 
 ❤ `Development Team` - Responsible for how a team will deliver that product. The development team is self-organizing & cross-functional.
 
