@@ -277,6 +277,8 @@ Sprint Planning
 * What should we accomplish?
 * What is the sprint goal?
 
+.. image:: media/strongq.PNG
+
 ★ Sprints are the `heartbeat` of Scrum, where ideas are turned into value.
 
 ❤ They are `fixed length events of one month or less` to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint.
