@@ -84,6 +84,10 @@ Set a Mission & Vision
 
 Scrum Master
 ===================
+.. image:: media/master1.PNG
+
+★ The Scrum Master is the facilitator of the Scrum process. The Scrum Master is also the facilitator of all the team events. Scrum Master facilitates the Scrum meetings. May not necessarily lead them, make sure they get scheduled, makes sure the proper attendees are there, make sure they are time-boxed, there is a productive agenda, and that the attendees get the value that they should be getting from the meetings.
+
 ❤ Promotes & supports the scrum process by helping everyone understand & implement scrum. Helps the team be their best.
 
 ❤ Coaching team members on agile & scrum practices, rules, & values.
@@ -94,8 +98,9 @@ Scrum Master
 
 ❤ `Facilitate scum events:` 
 
-* Sprint
+* Sprint Vision Planning
 * Sprint Planning
+* Sprints
 * Daily Scrum 
 * Sprint Review
 * Sprint Retros
@@ -107,6 +112,10 @@ Scrum Master
 * Tools
 
 ❤ `Prevent unhelpful interactions from outside the team.` Ask - How can I help?
+
+Sprint Vision Planning
+===========================
+❤ Our `vision planning meeting,` this meeting has a lot of different names. But this is a the whole project, whole deliverable, completed product meeting where the vision is described, what the solution is, who the customer is, all known capabilities and the backlog. From this meeting, which really only happens once but there can be updated versions of this meeting. This is really where the team is introduced to the overall product, the vision of the solution or the future state. From here, the team begins to look at the prioritized features and begins to break them down into the user stories. When a sprint is planned, the team has had or should have had through working on the vision. The team has had introduction to the stories, so nothing should be a surprise.
 
 `Product Backlog <https://docs.google.com/spreadsheets/d/1p24hXLgZpfpsXIjCKhkOh0_jzc9Uq_5Yi5qUQ8dHvks/edit?usp=sharing&resourcekey=0-fBujRTrK43hsS3mWDZ-SGA>`_ (Wishlist)
 ==============
