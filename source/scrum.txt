@@ -239,6 +239,8 @@ T-shirt sizes and story points
 
 ❤ So what does the process of assigning story points entail? There are several specific techniques a team can try, but the basic steps are the same as with T-shirt sizes. 
 
+.. image:: media/points.PNG
+
 `The team:` 
 
 * Agrees on the permitted points values. Some teams cap the size at a certain number, like 21. Some teams decide to jump from 21 to 100 as the next larger value. This is a team decision.
