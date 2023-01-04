@@ -21,13 +21,20 @@ The `Scrum` framework focuses on developing, delivering, and sustaining complex 
 
 Scrum Roles
 ==============
-❤ The Scrum team performs the analysis and design of the User Stories. The team collaborates on solution design and approach. The Scrum team is cross functional and self-organizing.
+.. image:: media/roles.PNG
 
-❤ Cross functional refers to the fact that all members of the team can assist each other in some way if needed. It does not mean the team members share the same skill set. 
+❤ `Scrum Master` - Responsible for ensuring the team lives agile values & principals. Responsible for the team following processes & practices that the team agreed to & sharing information to the larger project team. Also, help the team focus on doing their best work & clearing obstacles. 
 
-❤ The self-organizing aspect means that the team members collaborate among themselves to assign User Stories and other tasks to the team members. The Scrum team also builds the product and attends and participate in the Scrum meetings.
+❤ `Product Owner` - Responsible for maximizing the value of the product & work of the team. Owns inventory of work & has the final say on how to prioritize work. The Product Owner is responsible for funding (or not funding) the next sprint of the Scrum Team. If the team is making good progress, Product Owner may choose to fund the next sprint. Otherwise, the Product Owner may choose not to fund the next sprint. Furthermore, once the Product Owner is satisfied with the state of the product, he/she may choose to stop funding any further development efforts and re-purpose the team to focus on other projects.
 
-* Some Scrum team responsibilities:
+❤ `Development Team` - Responsible for how a team will deliver that product. The development team is self-organizing & cross-functional. Performs the analysis and design of the User Stories. The team collaborates on solution design and approach. The Scrum team is cross functional and self-organizing.
+
+★ `Cross functional` refers to the fact that all members of the team can assist each other in some way if needed. It does not mean the team members share the same skill set. 
+
+★ The `self-organizing` aspect means that the team members collaborate among themselves to assign User Stories and other tasks to the team members. The Scrum team also builds the product and attends and participate in the Scrum meetings.
+
+★ `Some Scrum team responsibilities:`
+
 * Breakdown the User Stories in the Product Backlog.
 * Collaborate the with the Product Owner and Scrum Master.
 * Collaborate with other teams if needed.
@@ -37,15 +44,7 @@ Scrum Roles
 * Test the User Stories Built.
 * Deploy the Product.
 
-.. image:: media/roles.PNG
-
-❤ `Scrum Master` - Responsible for ensuring the team lives agile values & principals. Responsible for the team following processes & practices that the team agreed to & sharing information to the larger project team. Also, help the team focus on doing their best work & clearing obstacles. 
-
-❤ `Product Owner` - Responsible for maximizing the value of the product & work of the team. Owns inventory of work & has the final say on how to prioritize work. The Product Owner is responsible for funding (or not funding) the next sprint of the Scrum Team. If the team is making good progress, Product Owner may choose to fund the next sprint. Otherwise, the Product Owner may choose not to fund the next sprint. Furthermore, once the Product Owner is satisfied with the state of the product, he/she may choose to stop funding any further development efforts and re-purpose the team to focus on other projects.
-
-❤ `Development Team` - Responsible for how a team will deliver that product. The development team is self-organizing (assigns themselves tasks on the backlog) & cross-functional (team has a basic knowledge of what each memeber does and can help each other when needed).
-
-.. image:: media/scrum_roles.PNG
+.. image:: media/team.PNG
 
 Scrum Characteristics
 =================
