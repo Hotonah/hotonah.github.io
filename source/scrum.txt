@@ -330,15 +330,23 @@ Daily Sprint
 
 Sprint Review
 ===============
+.. image:: media/reviewagenda.PNG
+
 ★ At the closing of a Sprint, the team will complete another event, known as the Sprint Review. This Sprint event is `crucial to the Scrum Pillars of inspection and adaptation, and demonstrates the values of openness, courage, and respect.` Sprint review is where we demo the product to ourselves.
 
 ❤ The Sprint Review is a meeting with the entire Scrum Team where the product is demonstrated in order to determine `which aspects are finished and which aren't.` During a Sprint Review, the Development Team and Product Owner will play a heavy role in this inspection and discussion. They will also cover an exploration of which items should be considered done in the Product Backlog, and they'll demonstrate and inspect the product. `Sprint Reviews should be really fun and uplifting.` The Sprint Review is when the team gets to impress each other with the `cool things they've accomplished over the last 1 to 4 weeks.` These time-boxed meetings should not exceed four hours and they're a good opportunity for the team to `practice the Scrum Values of openness and respect, as they give feedback about the completed work.` Often, some of the greatest product ideas come out of the Sprint Review.
 
+.. image:: media/review.PNG
+
 Sprint Retrospective
 ==================
+.. image:: media/retro.PNG
+
 ◆ `Sprint Retrospectives` occur at the end of each Sprint, which is usually every one-to-four weeks. The retrospective is where we look for opportunities for improvement.
 
 ◆ Sprint Retrospectives are a key practice that supports the Scrum theory and values. They are a critical moment to inspect and adapt to the outcomes produced within the Sprint timebox. Retrospectives occur much more often in Scrum than in traditional project management, so it is important to consider some best practices and pitfalls to avoid to help make them engaging and productive for the entire team.
+
+.. image:: media/ssc.PNG
 
 * `Sprint Retro <https://docs.google.com/presentation/d/1k6o3QIdE1aEHbeKtUhHT7zyFi4ZwEcrvmPNcPTHqmdI/edit?usp=sharing>`_
 * `Sprint Retro Email <https://docs.google.com/document/d/1EPnC_1NlKtkCumznxh8bBz8YFz_C8o78soCrqDID9To/edit?usp=sharing>`_
