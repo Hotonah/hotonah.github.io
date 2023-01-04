@@ -21,6 +21,21 @@ The `Scrum` framework focuses on developing, delivering, and sustaining complex 
 
 Scrum Roles
 ==============
+❤ The Scrum team performs the analysis and design of the User Stories. The team collaborates on solution design and approach. The Scrum team is cross functional and self-organizing.
+
+❤ Cross functional refers to the fact that all members of the team can assist each other in some way if needed. It does not mean the team members share the same skill set. 
+
+❤ The self-organizing aspect means that the team members collaborate among themselves to assign User Stories and other tasks to the team members. The Scrum team also builds the product and attends and participate in the Scrum meetings.
+
+* Some Scrum team responsibilities:
+* Breakdown the User Stories in the Product Backlog.
+* Collaborate the with the Product Owner and Scrum Master.
+* Collaborate with other teams if needed.
+* Architect and design how the product is built.
+* Build the Product User Stories.
+* Integrate team work using DevOps.
+* Test the User Stories Built.
+* Deploy the Product.
 
 .. image:: media/roles.PNG
 
