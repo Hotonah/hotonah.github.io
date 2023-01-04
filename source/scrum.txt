@@ -13,7 +13,7 @@ The `Scrum` framework focuses on developing, delivering, and sustaining complex 
 
 ◆ A framework for developing, delivering, & sustaining complex products. This is a iterative & incremental approach. Scrum is the most popular methodology of agile project management. You form a team that will work together quickly to develop & test a deliverable. The is completed in short cycles & the team meets daily to discuss current tasks & clear-up anything that’s blocking their progress.
 
-★ `Product Backlog` - The central artifact in scrum, where all possible ideas, deliverables, features, or tasks are captured for the team to work on. Product-backlog economics is all about prioritizing the product backlog correctly so that the highest value items are executed first. As the economic value of each feature changes over time, the prioritization of those feature change too. And the `Product Owner` is responsible for making those re-prioritization decisions.
+★ `Product Backlog (Wishlist)` - The central artifact in scrum, where all possible ideas, deliverables, features, or tasks are captured for the team to work on. Product-backlog economics is all about prioritizing the product backlog correctly so that the highest value items are executed first. As the economic value of each feature changes over time, the prioritization of those feature change too. And the `Product Owner` is responsible for making those re-prioritization decisions.
 
 ★ `Sprint` - A time-based iteration in scrum where work is done. Sprint can be between 1-4 weeks long but, most sprints are around two weeks. This is often called the “iteration”. Sprint-level economics is about maximizing Return On Investment (ROI) for each sprint. Product Owners, Scrum Masters and every member of the Scrum Team should treat the company’s money as they would their own money and be frugal about making economic decisions. This is especially important when determining whether or not to fund the next sprint. Will the value that the Scrum Team creates in the next sprint be worthy of spending the money to fund the sprint? The `Product Owner` is responsible for answering this question and deciding whether or not he/she will fund the next sprint.
 
@@ -92,7 +92,7 @@ Scrum Master
 
 ❤ `Prevent unhelpful interactions from outside the team.` Ask - How can I help?
 
-`Product Backlog <https://docs.google.com/spreadsheets/d/1p24hXLgZpfpsXIjCKhkOh0_jzc9Uq_5Yi5qUQ8dHvks/edit?usp=sharing&resourcekey=0-fBujRTrK43hsS3mWDZ-SGA>`_
+`Product Backlog <https://docs.google.com/spreadsheets/d/1p24hXLgZpfpsXIjCKhkOh0_jzc9Uq_5Yi5qUQ8dHvks/edit?usp=sharing&resourcekey=0-fBujRTrK43hsS3mWDZ-SGA>`_ (Wishlist)
 ==============
 ◆ The single authoritative source for things that a team works on to achieve the product goal.
 
