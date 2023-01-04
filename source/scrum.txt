@@ -28,7 +28,7 @@ Scrum Roles
 
 ❤ `Product Owner` - Responsible for maximizing the value of the product & work of the team. Owns inventory of work & has the final say on how to prioritize work. The Product Owner is responsible for funding (or not funding) the next sprint of the Scrum Team. If the team is making good progress, Product Owner may choose to fund the next sprint. Otherwise, the Product Owner may choose not to fund the next sprint. Furthermore, once the Product Owner is satisfied with the state of the product, he/she may choose to stop funding any further development efforts and re-purpose the team to focus on other projects.
 
-❤ `Development Team` - Responsible for how a team will deliver that product. The development team is self-organizing (assigns themselves tasks on the backlog) & cross-functional (team has a basic knowledge of what each memeber does).
+❤ `Development Team` - Responsible for how a team will deliver that product. The development team is self-organizing (assigns themselves tasks on the backlog) & cross-functional (team has a basic knowledge of what each memeber does and can help each other when needed).
 
 .. image:: media/scrum_roles.PNG
 
