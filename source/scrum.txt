@@ -126,6 +126,8 @@ Scrum Master
 
 ❤ `Prevent unhelpful interactions from outside the team.` Ask - How can I help?
 
+.. image:: media/calendar.PNG
+
 Sprint Vision Planning
 ===========================
 .. image:: media/vision.PNG
