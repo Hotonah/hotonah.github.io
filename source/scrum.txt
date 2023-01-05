@@ -219,6 +219,8 @@ The components of user stories & epics
 
 T-shirt sizes and story points
 ========================================
+.. image:: media/estimate.PNG
+
 ◆ `T-shirt sizes` and `story points` — the two most common units used to help teams estimate user stories in Agile projects. In this reading, we will explore the processes of estimating user stories in these units. 
 
 ◆ Relative estimation means to compare the effort estimated for completing a backlog item to the effort estimated for another backlog item. Doing this instead of trying to determine exactly how long a task will take allows your comparisons and estimates to be more accurate relative to one another.
