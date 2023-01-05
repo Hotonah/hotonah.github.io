@@ -274,7 +274,7 @@ Velocity
 
 ❤ Velocity is measured as an average. Teams typically use Capacity from sprint to sprint. Capacity is exactly based on the team's numbers for the sprint.
 
-Continue reading: `Viewing a Velocity chart <
+Continue reading: `Viewing a Velocity chart <https://confluence.atlassian.com/jirasoftwareserver085/velocity-chart-981156731.html>`_
 
 .. image:: media/startv.PNG
 
