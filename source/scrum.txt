@@ -108,7 +108,9 @@ Scrum Master
 
 ◆ `Responsibilities:`
 
-❤ `Facilitate scum events:` 
+❤ `Facilitate scrum events:` 
+
+.. image:: media/events.PNG
 
 * Sprint Vision Planning
 * Sprint Planning
@@ -336,7 +338,7 @@ Sprint
 
 .. image:: media/strongq.PNG
 
-Daily Sprint
+Daily Scrum
 =======================
 .. image:: media/daily.PNG
 
@@ -351,6 +353,14 @@ Daily Sprint
 ❤ Do I notice any impediment that prevents me or the development team from meeting our goals?
 
 ❤ This is an opportunity to reinforce focus on the sprint backlog & sprint goal.
+
+Backlog Refinement
+=======================
+.. image:: media/norm.PNG
+
+.. image:: media/flow.PNG
+
+.. image:: media/collab.PNG
 
 Sprint Review
 ===============
