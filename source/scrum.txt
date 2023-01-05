@@ -262,7 +262,21 @@ T-shirt sizes and story points
 * Agreeing on the final T-shirt sizes or points value and capturing it in the system.
 * If certain items fall into the larger T-shirt size or story points value range, discussing whether it makes sense to break them down into smaller pieces before moving on.
 
-❤ Either of these effort estimation units are effective at estimating your items and user stories. As a team, it is important to spend the appropriate amount of time deciding which is best for you. If you are a less experienced team, try starting out with T-shirt sizes, but more advanced teams should feel free to use either method. 
+❤ Either of these effort estimation units are effective at estimating your items and user stories. As a team, it is important to spend the appropriate amount of time deciding which is best for you. If you are a less experienced team, try starting out with T-shirt sizes, but more advanced teams should feel free to use either method.
+
+Velocity
+===============
+❤ A team's velocity is the number of story points that a team can complete in a single sprint. Velocity is not productivity, or a team's rating. Velocity is used for estimation. Velocity is influenced by product, work type and team size. Velocity is a team's estimated capacity, or about what they can successfully deliver.
+
+.. image:: media/velocity.PNG
+
+★ Tracking Velocity
+
+❤ Velocity is measured as an average. Teams typically use Capacity from sprint to sprint. Capacity is exactly based on the team's numbers for the sprint.
+
+Continue reading: `Viewing a Velocity chart <
+
+.. image:: media/startv.PNG
 
 Sprint
 =============
