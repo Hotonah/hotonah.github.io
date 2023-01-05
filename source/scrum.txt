@@ -362,6 +362,8 @@ Backlog Refinement
 
 .. image:: media/collab.PNG
 
+.. image:: media/log.PNG
+
 Sprint Review
 ===============
 .. image:: media/reviewagenda.PNG
