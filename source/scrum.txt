@@ -325,6 +325,10 @@ Sprint
 
 ❤ In Scrum, workflow is managed in a transparent manner. Managing workflow involves a task board. The task board has the Sprint's Stories, and other work items that begin in a `To-Do` column. The columns to the right of the `To-Do` column match the team's workflow. The task board not only provides visibility and transparency, but also workflow management. A good task board has work-in-progress limits on each column in the workflow has a limit of stories allowed in the column. This forces the team to focus on that number of tasks and get them completed to the point that the stories and other tasks are ready for the next step in the workflow. Therefore, work-in-progress limits assist the team in getting work completed, and eventually done. 
 
+★ Test Automation
+
+❤ Test automation is one of the best investments your team can make. Test Automation drastically increases quality, and reduces defects. The idea is simple. Use a testing framework that supports scripting. The Unit test, or N-Unit test frameworks are great examples. Since the test are scripted, the test script can be run, and rerun, as many times as needed. When tests are rerun, it allows the team to validate that all stories and features still function, and still pass tests.
+
 .. image:: media/wip.PNG
 
 ★ `Risk Management`
