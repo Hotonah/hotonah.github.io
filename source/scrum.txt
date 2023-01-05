@@ -315,7 +315,7 @@ Sprint
 
 ❤ Sprints enable `predictability` by ensuring inspection and adaptation of progress toward a Product Goal at least every calendar month. When a Sprint’s horizon is too long the Sprint Goal may become invalid, complexity may rise, and risk may increase. Shorter Sprints can be employed to generate more learning cycles and limit risk of cost and effort to a smaller time frame. `Each Sprint may be considered a short project.`
 
-❤ Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
+❤ Various practices exist to forecast progress, like burn-downs, burn-ups, velocity charts, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
 
 .. image:: media/metrics.PNG
 
