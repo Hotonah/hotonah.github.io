@@ -21,6 +21,10 @@ Types of Project Methodologies
 
 .. image:: media/bdd.PNG
 
+★ `Pair Programming (Agile)` - Typically considered part of Extreme Programming or XP, involves two or more developers working on the same task, or some people say the same code module, sometimes is called gang programming. It can really be situated like a conference room type of approach or a virtual meeting type of approach where there is the code module that is on a projector or on a screen or shared then everybody on the team that's there contributes.
+
+.. image:: media/pair.PNG
+
 ★ `DevOps (Agile)` - Bridges the gaps between the development team, and the team that operates the product delivery and runtime. The business and development team are tasked with adding new features and functionality to the solution. They also fix issues that were discovered in production. The Operations teams looks to support a stable product that delivers value to the customer. The introduction of new features, and updates can disrupt that operation stability. This causes a conflicting goals between development and operations. The DevOps methodology has practices that allow teams to continuously improve the product, and continuously stabilize the product.
 
 .. image:: media/devops.PNG
