@@ -29,7 +29,9 @@ Types of Project Methodologies
 
 .. image:: media/devops.PNG
 
-★ `Kanban (Agile)` - A visual tool to represent progress. Sign board with To-Do, In-Progress (WIP Limit), & Done. With a backlog for tasks to be completed later. (Link to Kanban board)
+★ `Kanban (Agile)` - A visual tool to represent progress. Sign board with To-Do, In-Progress (WIP Limit), & Done. With a backlog for tasks to be completed later.
+
+.. image:: media/kanban.PNG
 
 ★ `Lean-Six Sigma (Agile)` - Uses technique of making the team feel valued to motivate them. Streamline processes – Reduces variation to ensure processes are the same every time. `6-Sigma 5 Principals:`
 
