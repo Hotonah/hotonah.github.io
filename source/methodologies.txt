@@ -196,6 +196,8 @@ VUCA
 
 Blending Methods
 ==================
+.. image:: media/layer.PNG
+
 ❤ Agile & waterfall are both effective ways of approaching project management that add specific value. There are times when blending these styles will add even more value than sticking with just one. Don't change too much, some consistency on the project team is good.
 
 ❤ Agile is a mindset - a way of thinking about the project. Delivery process through the value & principals outlined in the agile manifesto. 
