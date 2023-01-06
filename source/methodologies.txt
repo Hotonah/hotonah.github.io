@@ -32,6 +32,9 @@ Types of Project Methodologies
 
 * DevOps and Virtualization - Virtualization and Cloud are a major DevOps components. Virtualization and Cloud allow teams to copy the production environment and use it as development and test environments. This way, the team can develop and test in environments identical to production. Development and testing using this approach greatly increases quality.
 
+Make sure to check for vulerabilities in virtual environments.
+.. image:: media/security.PNG
+
 ★ `Kanban (Agile)` - A visual tool to represent progress. Sign board with To-Do, In-Progress (WIP Limit), & Done. With a backlog for tasks to be completed later.
 
 .. image:: media/kanban.PNG
