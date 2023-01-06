@@ -26,6 +26,10 @@ Types of Project Methodologies
 
 ★ `DevOps (Agile)` - Bridges the gaps between the development team, and the team that operates the product delivery and runtime. The business and development team are tasked with adding new features and functionality to the solution. They also fix issues that were discovered in production. The Operations teams looks to support a stable product that delivers value to the customer. The introduction of new features, and updates can disrupt that operation stability. This causes a conflicting goals between development and operations. The DevOps methodology has practices that allow teams to continuously improve the product, and continuously stabilize the product. No matter where you go, DevOps experts will say that it's a mindset and that is true. It's also a different way of thinking about product development. DevOps has three major components continuous improvement, continuous integration and continuous deployment with continuous improvement. That's where team members and stakeholders test the product, gather feedback to improve the product. 
 
+`15 Metrics for DevOps Success <https://stackify.com/15-metrics-for-devops-success/>`_
+
+DevOps and Continuous Deployment - Continuous Deployment (CD) is the continuation of Continuous Integration. Once the tests have been validated on the dev environment, it must be put into production. Continuous deployment, therefore, consists of automating deployment actions that were previously performed manually. Take a few minutes to read `Continuous Deployment <https://www.padok.fr/en/blog/devops-continuous-deployment>`_
+
 .. image:: media/devops.PNG
 
 ★ `DevSecOps` - We have already discussed that DevOps is a combination of the words development and operations. However, the industry has also moved to adding security to the DevOps methodology. Secure DevOps, or DevSecOps is the process of adding security to the DevOps methodologies.
