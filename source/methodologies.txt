@@ -11,6 +11,10 @@ Types of Project Methodologies
 
 ★ `Extreme Programming XP (Agile)` – Built around simplicity, designing, & releasing a basic product that works then adding features in later. Design, Code, Test (lots of testing), Listen customer feedback. Intended to improve product quality and responsiveness to changing customer requirements. XP  it advocates frequent "releases" in short development cycles, which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted. Other elements of extreme programming include: programming in small batches, pair programing, extensive code review, and automated and manual unit testing of all code. XP also prescribes continuous integration of code. Integration is a difficult activity. However, if it is done continuously, in small batches the difficulty is reduced.
 
+* Keeping a test case linked to a feature or story has long been a challenge. Features undergoing modifications, upgrades or defect resolutions often neglect revalidating the feature test case. Unless the test case is also updated, or, at least checked it may no longer be sound and able to adequately test the feature. This is a quality problem.
+* XP’s Test-Driven development addresses this shortcoming as the feature is driven by the Test. The developer writes the test at the same time the feature is being written. This also applies to updating the developer  updates the test, at the same time the feature code is being updated.
+* N-Unit testing provides a great environment for Test-Driven Development. N-Unit Testing is almost always included in development environments. This architecture links the test and the feature. Tests can be run, at the same time the feature is coded. This way a running feature is always hard linked to a passing (or failing) test. 
+
 .. image:: media/xp.PNG
 
 ★ `Behavioral Driven Development (BDD)`
