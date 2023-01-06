@@ -28,8 +28,9 @@ Types of Project Methodologies
 
 .. image:: media/devops.PNG
 
-
 ★ `DevSecOps` - We have already discussed that DevOps is a combination of the words development and operations. However, the industry has also moved to adding security to the DevOps methodology. Secure DevOps, or DevSecOps is the process of adding security to the DevOps methodologies.
+
+* DevOps and Virtualization - Virtualization and Cloud are a major DevOps components. Virtualization and Cloud allow teams to copy the production environment and use it as development and test environments. This way, the team can develop and test in environments identical to production. Development and testing using this approach greatly increases quality.
 
 ★ `Kanban (Agile)` - A visual tool to represent progress. Sign board with To-Do, In-Progress (WIP Limit), & Done. With a backlog for tasks to be completed later.
 
