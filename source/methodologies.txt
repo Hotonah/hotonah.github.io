@@ -214,6 +214,8 @@ We can see here a traditional, they call this a V model. For every item on the l
 
 .. image:: media/test1.PNG
 
+In today's approach, we immediately write a test right next to it and we can use behavior-driven development to continuously validate it. We write a story at the same time we write a test, and again, we can still use behavior-driven development. When we write code for our stories or features, we immediately write the test at the same time and we can use test-driven development. This allows us to always have a test. This allows us the maximum flexibility for automation. Automation is big especially for regression testing because there's not often time to go back in regression test. But if we automate, we can run those automated regression tests all the time. Well, the testers focus on the newly written stories and features.
+
 ❤ Agile & waterfall are both effective ways of approaching project management that add specific value. There are times when blending these styles will add even more value than sticking with just one. Don't change too much, some consistency on the project team is good.
 
 ❤ Agile is a mindset - a way of thinking about the project. Delivery process through the value & principals outlined in the agile manifesto. 
