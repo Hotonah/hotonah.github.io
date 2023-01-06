@@ -13,6 +13,8 @@ Types of Project Methodologies
 
 ★ `DevOps (Agile)` - Bridges the gaps between the development team, and the team that operates the product delivery and runtime. The business and development team are tasked with adding new features and functionality to the solution. They also fix issues that were discovered in production. The Operations teams looks to support a stable product that delivers value to the customer. The introduction of new features, and updates can disrupt that operation stability. This causes a conflicting goals between development and operations. The DevOps methodology has practices that allow teams to continuously improve the product, and continuously stabilize the product.
 
+.. image:: media/devops.PNG
+
 ★ `Kanban (Agile)` - A visual tool to represent progress. Sign board with To-Do, In-Progress (WIP Limit), & Done. With a backlog for tasks to be completed later. (Link to Kanban board)
 
 ★ `Lean-Six Sigma (Agile)` - Uses technique of making the team feel valued to motivate them. Streamline processes – Reduces variation to ensure processes are the same every time. `6-Sigma 5 Principals:`
