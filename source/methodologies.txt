@@ -34,6 +34,8 @@ Types of Project Methodologies
 * `Respect people:` People do the work
 * `Optimize the whole:` Work with the complete solution that is deliverable to the customer, not the solution components.
 
+.. image:: media/lean.PNG
+
 ❤ `Process improvement` – Find where problems are occurring in current processes and fix the using these frameworks.
 
 .. image:: media/Retro_Framework.PNG
