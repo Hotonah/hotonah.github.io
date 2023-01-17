@@ -2,12 +2,12 @@
    sphinx-quickstart on Thu Dec  8 16:59:14 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-   
+
+.. image:: media/home.png
+
 ❤ Welcome
 ==================
 This site contains information about being a project manager, running projects, and helpful tips!
-
-.. image:: media/home.png
 
 .. toctree::
    :maxdepth: 2
